@@ -26,7 +26,7 @@ Een complete, Nederlandstalige leerervaring voor **Axis & Allies Anniversary Edi
 
 ## 🚀 Hoe Te Gebruiken
 
-1. Download (open) het [leerscenario.md](leerscenario.md) [of in PDF formaat](https://github.com/RensTillmann/axis-allies-anniversary-nl-leerscenario/releases/download/v1/leerscenario.pdf)
+1. Download (open) het [leerscenario.md](leerscenario.md) of in [PDF formaat](https://github.com/RensTillmann/axis-allies-anniversary-nl-leerscenario/releases/download/v1/leerscenario.pdf)
 2. Zet het Axis & Allies Anniversary bord klaar
 3. Volg het scenario stap voor stap
 4. Speel de dobbelworpen na of gebruik je eigen
