@@ -43,6 +43,8 @@ Een complete, Nederlandstalige leerervaring voor **Axis & Allies Anniversary Edi
 
 Verbeteringen, correcties en aanvullingen zijn welkom! Open een issue of pull request.
 
-## 📜 Licentie
+## Disclaimer
 
-Dit is een fan-gemaakt leermateriaal voor educatieve doeleinden.
+Dit is fan-gemaakt educatief materiaal. "Axis & Allies" is een trademark 
+van Avalon Hill/Wizards of the Coast. Dit project is niet officieel 
+geautoriseerd door de rechthebbenden.
