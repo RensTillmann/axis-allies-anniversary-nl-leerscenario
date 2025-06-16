@@ -1,18 +1,18 @@
 # Axis & Allies Anniversary - CORRECTE Volledige Leerscenario
 
-## 🎯 **WAAROM DIT SCENARIO LEREN?**
+## 🎯 **VOOR WIE DIT BEDOELD IS**
 
-**Axis & Allies Anniversary Edition** is een strategisch oorlogsspel waarbij je een wereldmacht bestuurt tijdens WO2. Het doel is 15 Overwinningssteden veroveren door slim gebruik van:
-- **Economie** (IPC's verdienen en uitgeven)
-- **Militaire kracht** (land, zee, lucht eenheden)
-- **Technologie** (onderzoek voor voordelen)
-- **Diplomatie** (samenwerken met bondgenoten)
+### 🆕 **Complete Beginners**
+- **Nooit Axis & Allies gespeeld?** Dit scenario neemt je bij de hand vanaf dag één
+- **Overweldigd door regels?** Alles wordt stap-voor-stap uitgelegd met voorbeelden
+- **Bang om fouten te maken?** Leer van realistische dobbelworpen en uitkomsten
+- **Leren zonder druk** Speel solo of met geduldig groepje
+- **Gestructureerde aanpak** Geen discussies over regels - alles staat er in
+- **Historische interesse?** Echte WO2 scenario's zoals Pearl Harbor en Barbarossa
+- **Nederlandse uitleg** Alles volledig vertaald en lokaal aangepast
+- **Cadeau gekregen?** Van doos naar eerste potje in één middag
 
-### 📚 **BASIS SPELCONCEPT**
-- **As** (Duitsland, Japan, Italië) vs **Geallieerden** (USSR, VK, VS)
-- **Beurten** in vaste volgorde - elke speler bestuurt 1+ landen
-- **7 Fases** per beurt - van onderzoek tot inkomen
-- **Dobbelstenen** bepalen gevechtsuitkomsten (maar strategie is belangrijker!)
+**Dit scenario is gemaakt voor iedereen die het geweldige Axis & Allies Anniversary Edition wil leren - ongeacht ervaring of achtergrond!** 🎖️
 
 ## 📋 **WAT JE LEERT IN DIT SCENARIO**
 
@@ -105,96 +105,172 @@
 | Italië | Rome | 10 IPC |
 | Verenigde Staten | Washington, San Francisco, Honolulu, Manila | 40 IPC |
 
-### Startopstelling per Land (volgens ECHTE National Setup Charts)
+### Startopstelling per Land (PDF-VRIENDELIJKE TABELLEN)
 
 #### 🇩🇪 **Duitsland (31 IPC start)**
-**Northwestern Europe:** 1 Jager, 1 Infanterie
-**Germany:** 3 Infanterie, 1 Jager, 1 Bommenwerper, 1 Artillerie, 1 AA Gun, 1 Industrial Complex
-**Norway:** 2 Infanterie, 1 Jager
-**Sea Zone 5:** 1 Kruiser, 1 Onderzeeboot, 1 Transport
-**Finland:** 2 Infanterie
-**Poland:** 4 Infanterie, 2 Tanks, 1 Jager, 1 Artillerie
-**Czechoslovakia/Hungary:** 2 Tanks
-**Bulgaria/Romania:** 3 Infanterie, 2 Tanks, 1 Artillerie
-**Libya:** 1 Infanterie, 1 Artillerie, 1 Tank
-**Morocco/Algeria:** 1 Infanterie
-**Sea Zone 13:** 1 Transport
-**Sea Zone 7:** 2 Onderzeeboten
-**France:** 2 Infanterie, 1 Tank
+
+**Land Eenheden:**
+| Gebied | Infanterie | Artillerie | Tank | Jager | Bommenwerper | AA Gun |
+|--------|------------|------------|------|-------|--------------|--------|
+| Northwestern Europe | 1 | - | - | 1 | - | - |
+| Germany | 3 | 1 | - | 1 | 1 | 1 |
+| Norway | 2 | - | - | 1 | - | - |
+| Finland | 2 | - | - | - | - | - |
+| Poland | 4 | 1 | 2 | 1 | - | - |
+| Czechoslovakia/Hungary | - | - | 2 | - | - | - |
+| Bulgaria/Romania | 3 | 1 | 2 | - | - | - |
+| Libya | 1 | 1 | 1 | - | - | - |
+| Morocco/Algeria | 1 | - | - | - | - | - |
+| France | 2 | - | 1 | - | - | - |
+
+**Zee Eenheden & Speciale Structuren:**
+| Locatie | Transport | Kruiser | Onderzeeboot | Destroyer | Industrial Complex |
+|---------|-----------|---------|--------------|-----------|-------------------|
+| Germany | - | - | - | - | 1 |
+| Sea Zone 5 | 1 | 1 | 1 | - | - |
+| Sea Zone 7 | - | - | 2 | - | - |
+| Sea Zone 13 | 1 | - | - | - | - |
 
 #### 🇷🇺 **Sovjet-Unie (30 IPC start)**
-**Russia:** 2 Infanterie, 1 Artillerie, 1 Tank, 1 AA Gun, 1 Industrial Complex
-**Karelia S.S.R:** 3 Infanterie
-**Archangel:** 3 Infanterie, 1 AA Gun
-**Caucasus:** 4 Infanterie, 1 Artillerie, 1 AA Gun, 1 Industrial Complex
-**Yakut S.S.R.:** 1 Infanterie
-**Evenki National Okrug:** 1 Infanterie
-**Buryatia S.S.R.:** 2 Infanterie
-**Soviet Far East:** 2 Infanterie
-**Novosibirsk:** 2 Infanterie
-**Kazakh S.S.R.:** 2 Infanterie
-**Eastern Ukraine:** 1 Infanterie
-**Ukraine:** 1 Infanterie
-**East Poland:** 2 Infanterie
-**Belorussia:** 2 Infanterie
-**Baltic States:** 3 Infanterie
+
+**Land Eenheden:**
+| Gebied | Infanterie | Artillerie | Tank | AA Gun | Industrial Complex |
+|--------|------------|------------|------|--------|-------------------|
+| Karelia S.S.R. | 5 | 1 | - | 1 | 1 |
+| Russia | 3 | 1 | 1 | 1 | 1 |
+| Archangel | 2 | - | - | - | - |
+| Caucasus | 4 | - | - | 1 | 1 |
+| Evenki National Okrug | 1 | - | - | - | - |
+| Yakut S.S.R. | 1 | - | - | - | - |
+
+**Verdere Gebieden:**
+| Gebied | Infanterie | Artillerie | Tank | AA Gun | Industrial Complex |
+|--------|------------|------------|------|--------|-------------------|
+| Stanovoj Chrebet | 2 | - | - | - | - |
+| Soviet Far East | 2 | - | - | - | - |
+| Buryatia S.S.R. | 3 | - | - | - | - |
+| Novosibirsk | 2 | - | - | - | - |
+| Kazakh S.S.R. | 2 | - | - | - | - |
+| Eastern Ukraine | 1 | - | - | - | - |
+| Ukraine | 2 | - | - | - | - |
+| East Poland | 2 | - | - | - | - |
+| Belorussia | 2 | - | - | - | - |
+| Baltic States | 3 | - | - | - | - |
+
+**Zee Eenheden:**
+| Locatie | Onderzeeboot |
+|---------|--------------|
+| Sea Zone 4 | 1 |
 
 #### 🇯🇵 **Japan (17 IPC start)**
-**Japan:** 1 Tank, 1 Artillerie, 4 Infanterie, 1 Jager, 1 AA Gun, 1 Industrial Complex
-**Okinawa:** 1 Infanterie
-**Manchuria:** 3 Infanterie, 1 Artillerie, 1 Jager, 1 Tank
-**Iwo Jima:** 1 Infanterie
-**Caroline Islands:** 3 Infanterie
-**Formosa:** 1 Jager
-**French Indo-China/Thailand:** 3 Infanterie
-**Kiangsu:** 3 Infanterie
-**Sea Zone 6:** 1 Destroyer, 2 Transports
-**Sea Zone 61:** 1 Aircraft Carrier, 2 Jagers, 1 Cruiser, 1 Transport
-**Sea Zone 62:** 2 Jagers, 1 Battleship, 1 Cruiser
+
+**Land Eenheden:**
+| Gebied | Infanterie | Artillerie | Tank | Jager | AA Gun | Industrial Complex |
+|--------|------------|------------|------|-------|--------|-------------------|
+| Japan | 4 | 1 | 1 | 1 | 1 | 1 |
+| Okinawa | 1 | - | - | - | - | - |
+| Manchuria | 3 | - | - | 1 | - | - |
+| Iwo Jima | 1 | - | - | - | - | - |
+| Caroline Islands | 3 | - | - | - | - | - |
+| Formosa | - | - | - | 1 | - | - |
+| French Indo-China/Thailand | 3 | - | - | - | - | - |
+| Kiangsu | 3 | - | - | - | - | - |
+
+**Zee Eenheden - Primaire Vloot:**
+| Locatie | Aircraft Carrier | Jager | Battleship | Kruiser | Destroyer | Transport |
+|---------|------------------|-------|------------|---------|-----------|-----------|
+| Sea Zone 51 | - | - | - | - | 1 | 2 |
+| Sea Zone 57 | 2 | 4 | - | - | - | - |
+| Sea Zone 61 | 1 | 2 | 1 | 1 | - | 2* |
+| Sea Zone 62 | - | - | - | - | - | 1 |
+
+*Sea Zone 61 Transport Cargo: 1 Transport (1 Infanterie + 1 Artillerie), 1 Transport (2 Infanterie)
 
 #### 🇬🇧 **Verenigd Koninkrijk (43 IPC start)**
-**United Kingdom:** 2 Infanterie, 1 Artillerie, 1 Tank, 2 Jagers, 1 Bommenwerper, 1 AA Gun, 1 Industrial Complex
-**Western Canada:** 1 Infanterie
-**Eastern Canada:** 1 Tank
-**Kwangtung:** 1 Infanterie
-**Australia:** 3 Infanterie, 1 Artillerie, 1 AA Gun
-**India:** 3 Infanterie, 1 Artillerie, 1 AA Gun
-**Trans-Jordan:** 2 Infanterie
-**Union of South Africa:** 2 Infanterie, 1 Tank
-**Egypt:** 2 Infanterie, 1 Tank, 1 Jager, 1 Artillerie
-**Burma:** 1 Infanterie
-**Sea Zone 2:** 1 Battleship, 1 Transport
-**Sea Zone 6:** 1 Destroyer
-**Sea Zone 9:** 1 Destroyer, 1 Transport
-**Sea Zone 32:** 1 Destroyer
-**Sea Zone 35:** 1 Destroyer, 1 Transport
-**Sea Zone 41:** 1 Destroyer, 1 Transport
+
+**Land Eenheden - Hoofdgebieden:**
+| Gebied | Infanterie | Artillerie | Tank | Jager | Bommenwerper | AA Gun |
+|--------|------------|------------|------|-------|--------------|--------|
+| United Kingdom | 2 | 1 | 1 | 2 | 1 | 1 |
+| Western Canada | 1 | - | - | - | - | - |
+| Eastern Canada | - | - | 1 | - | - | - |
+| Australia | 3 | 1 | - | - | - | 1 |
+| India | 3 | 1 | - | - | - | 1 |
+| Egypt | 2 | 1 | 1 | 1 | - | - |
+
+**Land Eenheden - Andere Gebieden:**
+| Gebied | Infanterie | Artillerie | Tank | Industrial Complex |
+|--------|------------|------------|------|-------------------|
+| United Kingdom | - | - | - | 1 |
+| Kwangtung | 1 | - | - | - |
+| Trans-Jordan | 2 | - | - | - |
+| Union of South Africa | 2 | - | - | - |
+| Burma | 1 | - | - | - |
+
+**Zee Eenheden:**
+| Locatie | Battleship | Kruiser | Destroyer | Transport |
+|---------|------------|---------|-----------|-----------|
+| Sea Zone 2 | 1 | - | - | 1 |
+| Sea Zone 6 | - | - | 1 | - |
+| Sea Zone 9 | - | - | 1 | 1 |
+| Sea Zone 12 | - | 1 | 1 | - |
+| Sea Zone 35 | - | - | 1 | 1 |
+| Sea Zone 41 | - | - | 1 | 1 |
 
 #### 🇮🇹 **Italië (10 IPC start)**
-**Italy:** 1 Infanterie, 1 Tank, 1 Jager, 1 Artillerie, 1 AA Gun, 1 Industrial Complex
-**Balkans:** 2 Infanterie, 1 Tank
-**Libya:** 2 Infanterie
-**Sea Zone 14:** 1 Battleship, 2 Cruisers, 1 Transport
+
+**Land Eenheden:**
+| Gebied | Infanterie | Artillerie | Tank | Jager | AA Gun | Industrial Complex |
+|--------|------------|------------|------|-------|--------|-------------------|
+| Italy | 1 | 1 | 1 | 1 | 1 | 1 |
+| Balkans | 2 | - | 1 | - | - | - |
+| Libya | 2 | - | - | - | - | - |
+
+**Zee Eenheden:**
+| Locatie | Battleship | Kruiser | Transport |
+|---------|------------|---------|-----------|
+| Sea Zone 14 | 1 | 2 | 1 |
 
 #### 🇺🇸 **Verenigde Staten (40 IPC start)**
-**Eastern United States:** 1 Infanterie, 1 Jager, 1 Bommenwerper, 1 AA Gun, 1 Industrial Complex
-**Central United States:** 1 Infanterie
-**Western United States:** 1 Infanterie, 1 Jager, 1 AA Gun, 1 Industrial Complex
-**Alaska:** 1 Infanterie
-**Midway:** 1 Infanterie
-**Wake Island:** 1 Infanterie
-**Hawaiian Islands:** 1 Jager, 1 Infanterie
-**Philippine Islands:** 2 Infanterie, 1 Jager
-**Sea Zone 10:** 1 Transport, 1 Destroyer
-**Sea Zone 44:** 1 Aircraft Carrier, 1 Jager, 1 Destroyer
-**Sea Zone 50:** 1 Transport, 1 Destroyer
-**Sea Zone 53:** 1 Battleship, 1 Aircraft Carrier, 1 Jager, 1 Destroyer
+
+**Land Eenheden:**
+| Gebied | Infanterie | Artillerie | Jager | Bommenwerper | AA Gun | Industrial Complex |
+|--------|------------|------------|-------|--------------|--------|-------------------|
+| Eastern United States | 1 | 1 | 1 | 1 | 1 | 1 |
+| Western United States | 1 | - | 1 | 1 | 1 | 1 |
+| Central United States | 1 | - | - | - | - | - |
+| Alaska | 1 | - | - | - | - | - |
+| Midway | 1 | - | - | - | - | - |
+| Wake Island | 1 | - | - | - | - | - |
+| Hawaiian Islands | 1 | - | 1 | - | - | - |
+| Philippine Islands | 2 | - | - | - | - | - |
+
+**Zee Eenheden:**
+| Locatie | Aircraft Carrier | Jager | Battleship | Destroyer | Transport |
+|---------|------------------|-------|------------|-----------|-----------|
+| Sea Zone 10 | - | - | - | 1 | 1 |
+| Sea Zone 44 | 1 | 1 | - | 1 | - |
+| Sea Zone 50 | - | - | - | 1 | 1 |
+| Sea Zone 53 | - | - | 1 | - | - |
+| Sea Zone 56 | - | - | - | 1 | 1 |
 
 #### 🇨🇳 **China (Bestuurd door VS speler)**
-**Sinkiang:** 1 Infanterie
-**Hupeh:** 1 Infanterie
-**Lukwerp:** 1 Infanterie  
-**Yunnan:** 1 Infanterie
+
+| Gebied | Infanterie | Jager (U.S.) | Opmerkingen |
+|--------|------------|--------------|-------------|
+| Suiyuan | 1 | - | - |
+| Hupeh | 1 | - | - |
+| Fukien | 1 | - | - |
+| Yunnan | 1 | 1 | Flying Tigers |
+
+### 📋 **Setup Checklist**
+✅ Alle Industrial Complexes geplaatst (6 totaal)  
+✅ Alle AA Guns op juiste locaties  
+✅ Zeeschepen in correcte Sea Zones  
+✅ Transport cargo correct geladen (Japan Sea Zone 61)  
+✅ Victory City tokens verdeeld (As: 6, Geallieerden: 12)  
+✅ Nationale productie markers ingesteld  
+✅ Start IPC's uitgedeeld (totaal 171 IPC)
 
 ---
 
@@ -217,11 +293,11 @@
 
 #### Aanval 1: Poland + Bulgaria/Romania → Ukraine
 **Duitse eenheden:** 4 Infanterie + 2 Tanks + 1 Jager + 1 Artillerie (Poland) + 3 Infanterie + 2 Tanks + 1 Artillerie (Bulgaria/Romania)
-**Sovjet verdediging:** 1 Infanterie
+**Sovjet verdediging:** 2 Infanterie
 
 #### Aanval 2: Finland → Karelia S.S.R.
 **Duitse eenheden:** 2 Infanterie
-**Sovjet verdediging:** 3 Infanterie
+**Sovjet verdediging:** 5 Infanterie + 1 Artillerie + 1 AA Gun
 
 #### Aanval 3: Strategische Bombardement - Germany Bommenwerper → Russia
 **Doel:** Sovjet Industrial Complex in Russia
@@ -232,35 +308,39 @@
 ### Gevecht 1: Ukraine
 **Ronde 1 - Duitse aanval:**
 - 7 Infanterie (aanval 1 elk): **Dobbelstenen: 2,4,1,5,3,6,2** = 3 treffers
-- 1 Artillerie (aanval 2): **Dobbelsteen: 3** = 0 treffers  
+- 2 Artillerie (aanval 2 elk): **Dobbelstenen: 3,1** = 1 treffer  
 - 4 Tanks (aanval 3 elk): **Dobbelstenen: 2,1,4,3** = 2 treffers
 - 1 Jager (aanval 3): **Dobbelsteen: 1** = 1 treffer
-**Totaal Duitse treffers:** 6
+**Totaal Duitse treffers:** 7
 
 **Ronde 1 - Sovjet verdediging:**
-- 1 Infanterie (verdediging 2): **Dobbelsteen: 5** = 0 treffers
+- 2 Infanterie (verdediging 2 elk): **Dobbelstenen: 5,3** = 0 treffers
 
 **Verliezen:**
-- Sovjet: 1 Infanterie (alle eenheden vernietigd)
+- Sovjet: 2 Infanterie (alle eenheden vernietigd)
 - Duitsland: 0 verliezen
 
-**Resultaat:** Duitsland verovert Ukraine makkelijk
-
-### 🎓 **LEERREGEL: Overkill Vermijden**
-Duitsland gebruikte veel te veel eenheden tegen 1 Sovjet Infanterie! Dit is een klassieke beginnersfout. Beter: deel krachten op over meerdere doelen of houd reserves achter voor verdediging.
+**Resultaat:** Duitsland verovert Ukraine volledig
 
 ### Gevecht 2: Karelia S.S.R.
+**AA Gun afweer:** Geen luchtaanval, dus geen AA vuur
+
 **Ronde 1 - Duitse aanval:**
 - 2 Infanterie (aanval 1 elk): **Dobbelstenen: 3,2** = 1 treffer
 
 **Ronde 1 - Sovjet verdediging:**
-- 3 Infanterie (verdediging 2 elk): **Dobbelstenen: 1,4,2** = 2 treffers
+- 5 Infanterie (verdediging 2 elk): **Dobbelstenen: 1,4,2,3,5** = 3 treffers
+- 1 Artillerie (verdediging 2): **Dobbelsteen: 1** = 1 treffer
+- 1 AA Gun (verdediging 1): **Dobbelsteen: 2** = 0 treffers
 
 **Verliezen:**
 - Sovjet: 1 Infanterie
 - Duitsland: 2 Infanterie (alle aanvallers vernietigd)
 
-**Resultaat:** Sovjet behoudt Karelia S.S.R.
+**Resultaat:** Sovjet behoudt Karelia S.S.R. - Duitse aanval volledig mislukt
+
+### 🎓 **LEERREGEL: Sterke Verdediging**
+Karelia S.S.R. heeft een veel sterkere verdediging dan verwacht: 5 Infanterie + 1 Artillerie + 1 AA Gun + 1 Industrial Complex = 7 verdedigende eenheden! Dit toont het belang van verkennend verkenning voor aanvallen.
 
 ### Strategische Bombardement: Russia Industrial Complex
 **AA Gun afweer:** Russia heeft 1 AA Gun
@@ -354,46 +434,45 @@ Sovjet-Unie kiest ervoor om NIET de fabriek te repareren (5 IPC per schade = 25 
 ## Fase 3: Gevechtsverplaatsing
 ### Pearl Harbor Aanval & Chinese Operaties
 
-#### Aanval 1: Sea Zone 62 vloot → Sea Zone 53 (Pearl Harbor)
-**Japanse aanval:** 2 Jagers + 1 Battleship + 1 Cruiser (van zee) + 2 Jagers van Aircraft Carrier
-**Amerikaanse verdediging:** 1 Battleship + 1 Aircraft Carrier + 1 Jager + 1 Destroyer
+#### Aanval 1: Sea Zone 57 + Sea Zone 61 vloot → Sea Zone 53 (Pearl Harbor)
+**Japanse aanval:** 
+- Van Sea Zone 57: 2 Aircraft Carriers + 4 Jagers
+- Van Sea Zone 61: 1 Aircraft Carrier + 2 Jagers + 1 Battleship + 1 Cruiser
+**Amerikaanse verdediging:** 1 Battleship (in Sea Zone 53)
 
-#### Aanval 2: Manchuria → Sinkiang
-**Japanse eenheden:** 1 Jager + 1 Tank
+#### Aanval 2: Manchuria → Suiyuan
+**Japanse eenheden:** 1 Jager + 2 Infanterie
 **Chinese verdediging:** 1 Infanterie
 
-### 🎓 **LEERREGEL: Pearl Harbor Strategie**
-Japan valt Pearl Harbor aan om Amerikaanse zeemacht te verzwakken voordat VS volledig mobiliseert. Dit is historisch accuraat en strategisch logisch, ondanks de risico's.
+### 🎓 **LEERREGEL: Pearl Harbor Massale Aanval**
+Japan kan een enorme luchtmacht inzetten: 6 Jagers + Aircraft Carriers + Battleship + Cruiser tegen slechts 1 Amerikaanse Battleship. Dit toont de overweldigende Japanse zeemacht in 1941.
 
 ## Fase 4: Gevecht Uitvoeren
 
 ### Gevecht 1: Pearl Harbor (Sea Zone 53)
 **Ronde 1 - Japanse aanval:**
-- 4 Jagers (aanval 3 elk): **Dobbelstenen: 2,1,4,3** = 3 treffers
+- 6 Jagers (aanval 3 elk): **Dobbelstenen: 2,1,4,3,1,5** = 4 treffers
+- 3 Aircraft Carriers (aanval 1 elk): **Dobbelstenen: 2,4,6** = 0 treffers
 - 1 Battleship (aanval 4): **Dobbelsteen: 3** = 1 treffer
 - 1 Cruiser (aanval 3): **Dobbelsteen: 2** = 1 treffer
-**Totaal Japanse treffers:** 5
+**Totaal Japanse treffers:** 6
 
 **Ronde 1 - Amerikaanse verdediging:**
-- 1 Battleship (verdediging 4): **Dobbelsteen: 1** = 1 treffer
-- 1 Aircraft Carrier (verdediging 2): **Dobbelsteen: 4** = 0 treffers
-- 1 Jager (verdediging 4): **Dobbelsteen: 2** = 1 treffer
-- 1 Destroyer (verdediging 2): **Dobbelsteen: 3** = 0 treffers
-**Totaal Amerikaanse treffers:** 2
+- 1 Battleship (verdediging 4): **Dobbelsteen: 5** = 0 treffers
 
 **Verliezen:**
-- Amerika: 1 Aircraft Carrier + 1 Jager + 1 Destroyer + beschadigd Battleship
-- Japan: 2 Jagers
+- Amerika: 1 Battleship (vernietigd - slechts 1 treffer nodig)
+- Japan: 0 verliezen
 
-**Resultaat:** Japan wint Pearl Harbor verwoestend!
+**Resultaat:** Japan verovert Pearl Harbor volledig! Amerikaanse Pacifische vloot weggevaagd!
 
-### 🎓 **LEERREGEL: Zeegefecht Casualties**
-Wanneer een Aircraft Carrier wordt vernietigd, moet de Jager erop proberen te landen op een andere carrier of vriendelijk territorium binnen bereik, anders sterft hij ook.
+### 🎓 **LEERREGEL: Overweldigende Superiority**
+Deze Pearl Harbor aanval toont hoe massale superiority werkt: 6 treffers tegen 1 verdediger = gegarandeerde overwinning. Amerika's Pacifische defensie is nu dramatisch verzwakt.
 
-### Gevecht 2: Sinkiang (China)
+### Gevecht 2: Suiyuan (China)
 **Ronde 1 - Japanse aanval:**
 - 1 Jager (aanval 3): **Dobbelsteen: 2** = 1 treffer
-- 1 Tank (aanval 3): **Dobbelsteen: 4** = 0 treffers
+- 2 Infanterie (aanval 1 elk): **Dobbelstenen: 4,1** = 1 treffer
 
 **Ronde 1 - Chinese verdediging:**
 - 1 Infanterie (verdediging 2): **Dobbelsteen: 5** = 0 treffers
@@ -401,18 +480,18 @@ Wanneer een Aircraft Carrier wordt vernietigd, moet de Jager erop proberen te la
 **Verliezen:**
 - China: 1 Infanterie (vernietigd)
 
-**Resultaat:** Japan verovert Sinkiang
+**Resultaat:** Japan verovert Suiyuan
 
 ## Fase 5: Niet-Gevecht Verplaatsing
-- Overlevende vloot hergroepeert in veilige wateren
+- Japanse vloot hergroepeert in veilige wateren
 - Landingszones voor vliegtuigen geregeld
 
 ## Fase 6: Nieuwe Eenheden Plaatsen  
 **Plaatsing in Japan:**
-- 2 Transports in Sea Zone 6
+- 2 Transports in Sea Zone 51
 
 ## Fase 7: Inkomen Innen
-**Inkomen:** Japan (8) + Okinawa (1) + Manchuria (3) + Iwo Jima (1) + Caroline Islands (1) + Formosa (1) + French Indo-China/Thailand (2) + Kiangsu (2) + Sinkiang (1) = **20 IPC**
+**Inkomen:** Japan (8) + Okinawa (1) + Manchuria (3) + Iwo Jima (1) + Caroline Islands (1) + Formosa (1) + French Indo-China/Thailand (2) + Kiangsu (2) + Suiyuan (1) = **20 IPC**
 
 ### 🎓 **LEERREGEL: Chinese Territoriale Waarde**
 Chinese gebieden hebben IPC waarde voor Japan maar niet voor China zelf. China krijgt nieuwe eenheden gebaseerd op aantal gecontroleerde territoria.
