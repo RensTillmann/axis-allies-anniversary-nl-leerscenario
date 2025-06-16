@@ -4,6 +4,10 @@
 
 Een complete, Nederlandstalige leerervaring voor **Axis & Allies Anniversary Edition** die spelers van absolute beginner naar gevorderd niveau brengt. Met correcte gebiedsnamen en startopstellingen gebaseerd op echte setup charts.
 
+**PDF versie:** [leerscenario.pdf](https://github.com/RensTillmann/axis-allies-anniversary-nl-leerscenario/releases/download/v1/leerscenario.pdf)
+
+**Markdown versie:**  [leerscenario.md](leerscenario.md)
+
 ## 📋 **WAT JE LEERT IN DIT SCENARIO**
 
 ### 🎲 **Basis Spelmechanismen**
