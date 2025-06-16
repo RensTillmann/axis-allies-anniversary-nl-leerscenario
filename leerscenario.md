@@ -1,8 +1,8 @@
-# Axis & Allies Anniversary - Complete 6-Speler Leerscenario
+# Axis & Allies Anniversary - CORRECTE Volledige Leerscenario
 
 ## 🎯 **WAAROM DIT SCENARIO LEREN?**
 
-**Axis & Allies** is een strategisch oorlogsspel waarbij je een wereldmacht bestuurt tijdens WO2. Het doel is 15 Overwinningssteden veroveren door slim gebruik van:
+**Axis & Allies Anniversary Edition** is een strategisch oorlogsspel waarbij je een wereldmacht bestuurt tijdens WO2. Het doel is 15 Overwinningssteden veroveren door slim gebruik van:
 - **Economie** (IPC's verdienen en uitgeven)
 - **Militaire kracht** (land, zee, lucht eenheden)
 - **Technologie** (onderzoek voor voordelen)
@@ -13,6 +13,70 @@
 - **Beurten** in vaste volgorde - elke speler bestuurt 1+ landen
 - **7 Fases** per beurt - van onderzoek tot inkomen
 - **Dobbelstenen** bepalen gevechtsuitkomsten (maar strategie is belangrijker!)
+
+## 📋 **WAT JE LEERT IN DIT SCENARIO**
+
+### 🎲 **Basis Spelmechanismen**
+- ✅ **Alle 7 Beurt Fases** - Van onderzoek tot inkomen innen
+- ✅ **Dobbelstenen Systeem** - Aanval/verdediging waarden en treffers
+- ✅ **IPC Economie** - Geld verdienen, uitgeven en beheren
+- ✅ **Eenheden Kopen** - Kosten vs effectiviteit van verschillende troepen
+- ✅ **Beweging & Gevecht** - Hoe eenheden bewegen en vechten
+- ✅ **Battle Board** - Hoe gevechten worden uitgevochten
+- ✅ **Victory Cities** - Overwinning door steden veroveren
+
+### ⚔️ **Gevechtstypes & Tactieken**
+- ✅ **Land Gevechten** - Infanterie, artillerie, tanks samenwerking
+- ✅ **Zee Gevechten** - Vloten tegen elkaar met speciale regels
+- ✅ **Lucht Operaties** - Jagers en bommenwerpers inzet
+- ✅ **Amfibische Aanvallen** - Transport + zee + land gecombineerd
+- ✅ **Strategische Bombardement** - Fabrieken aanvallen voor economische schade
+- ✅ **Pearl Harbor Type** - Historische scenario's naspelen
+- ✅ **Multifront Oorlogvoering** - Meerdere gebieden tegelijk aanvallen
+
+### 🔬 **Geavanceerde Systemen**
+- ✅ **Onderzoek & Ontwikkeling** - Technologie doorbraken (War Bonds, Improved Shipyards)
+- ✅ **Nationale Doelstellingen** - Bonus inkomen door historische doelen
+- ✅ **Fabrieksschade & Reparatie** - Industriële capaciteit beheren
+- ✅ **Chinese Speciale Regels** - Uniek plaatsing systeem zonder IPC's
+- ✅ **Artillerie Ondersteuning** - Infanterie aanval verbeteren
+- ✅ **AA Gun Mechanics** - Luchtafweer tegen vliegtuigen
+- ✅ **Submarine Warfare** - Speciale onderzeeboten vermogens
+
+### 🎯 **Strategische Concepten**
+- ✅ **Resource Management** - IPC's optimaal verdelen
+- ✅ **Prioriteiten Stellen** - Wanneer aanvallen vs verdedigen
+- ✅ **Krachten Concentreren** - Overkill vermijden, efficiency maximaliseren
+- ✅ **Timing & Momentum** - Wanneer toeslaan voor maximaal effect
+- ✅ **Economische Oorlogvoering** - Vijandelijke industrie aanvallen
+- ✅ **Bondgenoot Samenwerking** - Multinationale krachten coördineren
+- ✅ **Lange Termijn Planning** - Van vroeg naar laat spel strategie
+
+### ⚠️ **Veelgemaakte Fouten Vermijden**
+- ✅ **Overkill Aanvallen** - Te veel kracht tegen zwakke doelen
+- ✅ **Suicide Runs** - Vliegtuigen zonder landingsplaats
+- ✅ **Overextending** - Te ver uitbreiden zonder verdediging
+- ✅ **Resource Hoarding** - IPC's oppotten in plaats van gebruiken
+- ✅ **Fabrieken Blootstellen** - Strategische bombardement risico's
+- ✅ **Transport Vulnerability** - Onbeschermde transporten
+
+### 📈 **Praktische Vaardigheden**
+- ✅ **Battle Board Gebruik** - Efficiënt gevechten uitvoeren
+- ✅ **Setup Procedures** - Correct spel beginnen
+- ✅ **Turn Sequence** - Juiste volgorde van alle fases
+- ✅ **Victory Tracking** - Overwinning condities monitoren
+- ✅ **Damage Calculation** - Schade aan fabrieken berekenen
+- ✅ **Income Optimization** - Territoriale waarde maximaliseren
+
+### 🏆 **Historische Scenario's**
+- ✅ **Operatie Barbarossa** - Duitse aanval op Sovjet-Unie
+- ✅ **Pearl Harbor** - Japanse verrassingsaanval
+- ✅ **Mediterrane Oorlog** - Brits-Italiaanse conflicten
+- ✅ **Chinese Theater** - Japan vs China operaties
+- ✅ **Atlantische Strijd** - Onderzeeboten vs koopvaardij
+- ✅ **Pacifische Campagne** - Eiland hopping strategie
+
+**Na dit scenario beheers je alle aspecten van Axis & Allies Anniversary Edition!** 🎖️
 
 ## 1941 Scenario - Volledige Eerste Ronde (Alle 6 Landen)
 
@@ -26,7 +90,7 @@
 
 ---
 
-## Startopstelling 1941 Scenario
+## Startopstelling 1941 Scenario (CORRECT)
 
 ### Overwinningssteden & Start IPC's
 - **As (6 Overwinningssteden):** Duitsland (3), Japan (2), Italië (1)
@@ -34,76 +98,103 @@
 
 | Land | Overwinningssteden | Start IPC's |
 |------|---------------|-------------|
-| Duitsland | Berlijn, Parijs, Warschau | 31 IPC |
-| Sovjet-Unie | Moskou, Stalingrad, Leningrad | 30 IPC |
-| Japan | Tokio, Shanghai | 17 IPC |
-| Verenigd Koninkrijk | Londen, Calcutta, Sydney, Hong Kong, Ottawa | 43 IPC |
+| Duitsland | Berlin, Paris, Warsaw | 31 IPC |
+| Sovjet-Unie | Moscow, Stalingrad, Leningrad | 30 IPC |
+| Japan | Tokyo, Shanghai | 17 IPC |
+| Verenigd Koninkrijk | London, Calcutta, Sydney, Hong Kong, Ottawa | 43 IPC |
 | Italië | Rome | 10 IPC |
 | Verenigde Staten | Washington, San Francisco, Honolulu, Manila | 40 IPC |
 
-### Startopstelling per Land (volgens National Setup Charts)
+### Startopstelling per Land (volgens ECHTE National Setup Charts)
 
-#### Duitsland (31 IPC start)
-**Duitsland:** 1 Fabriek, 5 Infanterie, 1 Luchtafweergeschut
-**Polen:** 4 Infanterie, 1 Artillerie, 1 Tank
-**Oost-Europa:** 6 Infanterie, 1 Artillerie, 2 Tanks, 1 Jager
-**Noordwest-Europa:** 2 Infanterie, 1 Artillerie, 1 Luchtafweergeschut
-**Noorwegen:** 3 Infanterie
-**Baltische Staten:** 1 Infanterie
-**Oekraïne:** 2 Infanterie, 1 Tank
-**Balkan:** 2 Infanterie
-**Libië:** 1 Infanterie, 1 Tank
-**Zeezone 5 (Baltische Zee):** 1 Torpedobootjager, 3 Onderzeeboten, 1 Transport
-**Zeezone 14 (Middellandse Zee):** 1 Slagschip, 1 Transport
-**Zeezone 15 (Middellandse Zee):** 1 Kruiser
+#### 🇩🇪 **Duitsland (31 IPC start)**
+**Northwestern Europe:** 1 Jager, 1 Infanterie
+**Germany:** 3 Infanterie, 1 Jager, 1 Bommenwerper, 1 Artillerie, 1 AA Gun, 1 Industrial Complex
+**Norway:** 2 Infanterie, 1 Jager
+**Sea Zone 5:** 1 Kruiser, 1 Onderzeeboot, 1 Transport
+**Finland:** 2 Infanterie
+**Poland:** 4 Infanterie, 2 Tanks, 1 Jager, 1 Artillerie
+**Czechoslovakia/Hungary:** 2 Tanks
+**Bulgaria/Romania:** 3 Infanterie, 2 Tanks, 1 Artillerie
+**Libya:** 1 Infanterie, 1 Artillerie, 1 Tank
+**Morocco/Algeria:** 1 Infanterie
+**Sea Zone 13:** 1 Transport
+**Sea Zone 7:** 2 Onderzeeboten
+**France:** 2 Infanterie, 1 Tank
 
-#### Sovjet-Unie (30 IPC start)
-**Rusland:** 1 Fabriek, 8 Infanterie, 1 Luchtafweergeschut
-**Karelië S.S.R.:** 3 Infanterie, 1 Luchtafweergeschut
-**Archangel:** 2 Infanterie
-**Kaukasus:** 2 Infanterie, 1 Tank
-**Oekraïne S.S.R.:** 4 Infanterie
-**Wit-Rusland:** 3 Infanterie
-**West-Rusland:** 4 Infanterie, 1 Tank
+#### 🇷🇺 **Sovjet-Unie (30 IPC start)**
+**Russia:** 2 Infanterie, 1 Artillerie, 1 Tank, 1 AA Gun, 1 Industrial Complex
+**Karelia S.S.R:** 3 Infanterie
+**Archangel:** 3 Infanterie, 1 AA Gun
+**Caucasus:** 4 Infanterie, 1 Artillerie, 1 AA Gun, 1 Industrial Complex
+**Yakut S.S.R.:** 1 Infanterie
+**Evenki National Okrug:** 1 Infanterie
+**Buryatia S.S.R.:** 2 Infanterie
+**Soviet Far East:** 2 Infanterie
+**Novosibirsk:** 2 Infanterie
+**Kazakh S.S.R.:** 2 Infanterie
+**Eastern Ukraine:** 1 Infanterie
+**Ukraine:** 1 Infanterie
+**East Poland:** 2 Infanterie
+**Belorussia:** 2 Infanterie
+**Baltic States:** 3 Infanterie
 
-#### Japan (17 IPC start)
-**Japan:** 1 Fabriek, 3 Infanterie, 1 Luchtafweergeschut, 1 Jager
-**Mantsjoerije:** 2 Infanterie, 1 Artillerie, 1 Tank, 1 Jager
-**Kiangsu:** 2 Infanterie, 1 Artillerie
+#### 🇯🇵 **Japan (17 IPC start)**
+**Japan:** 1 Tank, 1 Artillerie, 4 Infanterie, 1 Jager, 1 AA Gun, 1 Industrial Complex
+**Okinawa:** 1 Infanterie
+**Manchuria:** 3 Infanterie, 1 Artillerie, 1 Jager, 1 Tank
+**Iwo Jima:** 1 Infanterie
+**Caroline Islands:** 3 Infanterie
+**Formosa:** 1 Jager
+**French Indo-China/Thailand:** 3 Infanterie
+**Kiangsu:** 3 Infanterie
+**Sea Zone 6:** 1 Destroyer, 2 Transports
+**Sea Zone 61:** 1 Aircraft Carrier, 2 Jagers, 1 Cruiser, 1 Transport
+**Sea Zone 62:** 2 Jagers, 1 Battleship, 1 Cruiser
+
+#### 🇬🇧 **Verenigd Koninkrijk (43 IPC start)**
+**United Kingdom:** 2 Infanterie, 1 Artillerie, 1 Tank, 2 Jagers, 1 Bommenwerper, 1 AA Gun, 1 Industrial Complex
+**Western Canada:** 1 Infanterie
+**Eastern Canada:** 1 Tank
 **Kwangtung:** 1 Infanterie
-**Zeezone 60 (Japan):** 2 Slagschepen, 1 Vliegdekschip, 1 Jager, 1 Torpedobootjager, 2 Transporten
-**Zeezone 61 (Caroline Eilanden):** 1 Slagschip, 1 Torpedobootjager, 1 Transport
-**Zeezone 37 (Kiangsu):** 1 Kruiser, 1 Torpedobootjager
+**Australia:** 3 Infanterie, 1 Artillerie, 1 AA Gun
+**India:** 3 Infanterie, 1 Artillerie, 1 AA Gun
+**Trans-Jordan:** 2 Infanterie
+**Union of South Africa:** 2 Infanterie, 1 Tank
+**Egypt:** 2 Infanterie, 1 Tank, 1 Jager, 1 Artillerie
+**Burma:** 1 Infanterie
+**Sea Zone 2:** 1 Battleship, 1 Transport
+**Sea Zone 6:** 1 Destroyer
+**Sea Zone 9:** 1 Destroyer, 1 Transport
+**Sea Zone 32:** 1 Destroyer
+**Sea Zone 35:** 1 Destroyer, 1 Transport
+**Sea Zone 41:** 1 Destroyer, 1 Transport
 
-#### Verenigd Koninkrijk (43 IPC start)
-**Verenigd Koninkrijk:** 1 Fabriek, 8 Infanterie, 1 Artillerie, 1 Luchtafweergeschut, 1 Jager
-**Oost-Canada:** 2 Infanterie
-**India:** 3 Infanterie, 1 Luchtafweergeschut
-**Australië:** 2 Infanterie
-**Zuid-Afrikaanse Unie:** 1 Infanterie
-**Egypte:** 2 Infanterie
-**Trans-Jordanië:** 1 Infanterie
-**Zeezone 2 (Noord-Atlantiek):** 1 Slagschip, 1 Torpedobootjager, 1 Transport
-**Zeezone 35 (Indische Oceaan):** 1 Slagschip, 1 Kruiser, 1 Torpedobootjager, 1 Transport
+#### 🇮🇹 **Italië (10 IPC start)**
+**Italy:** 1 Infanterie, 1 Tank, 1 Jager, 1 Artillerie, 1 AA Gun, 1 Industrial Complex
+**Balkans:** 2 Infanterie, 1 Tank
+**Libya:** 2 Infanterie
+**Sea Zone 14:** 1 Battleship, 2 Cruisers, 1 Transport
 
-#### Italië (10 IPC start)
-**Italië:** 1 Fabriek, 3 Infanterie
-**Libië:** 1 Infanterie
-**Zeezone 14 (Middellandse Zee):** 1 Slagschip, 1 Kruiser, 1 Torpedobootjager, 1 Transport
+#### 🇺🇸 **Verenigde Staten (40 IPC start)**
+**Eastern United States:** 1 Infanterie, 1 Jager, 1 Bommenwerper, 1 AA Gun, 1 Industrial Complex
+**Central United States:** 1 Infanterie
+**Western United States:** 1 Infanterie, 1 Jager, 1 AA Gun, 1 Industrial Complex
+**Alaska:** 1 Infanterie
+**Midway:** 1 Infanterie
+**Wake Island:** 1 Infanterie
+**Hawaiian Islands:** 1 Jager, 1 Infanterie
+**Philippine Islands:** 2 Infanterie, 1 Jager
+**Sea Zone 10:** 1 Transport, 1 Destroyer
+**Sea Zone 44:** 1 Aircraft Carrier, 1 Jager, 1 Destroyer
+**Sea Zone 50:** 1 Transport, 1 Destroyer
+**Sea Zone 53:** 1 Battleship, 1 Aircraft Carrier, 1 Jager, 1 Destroyer
 
-#### Verenigde Staten (40 IPC start)
-**Eastern United States:** 1 Industrial Complex, 4 Infantry, 1 AA Gun
-**Central United States:** 2 Infantry
-**Western United States:** 1 Industrial Complex, 2 Infantry, 1 AA Gun
-**Philippine Islands:** 1 Infantry
-**Sea Zone 10 (Eastern US):** 1 Battleship, 1 Destroyer, 1 Transport
-**Sea Zone 56 (Hawaiian Islands):** 1 Battleship, 1 Aircraft Carrier, 1 Fighter, 1 Cruiser, 1 Destroyer, 1 Transport
-
-#### China (Bestuurd door VS speler)
-**Shensi:** 2 Infanterie, 1 Jager (Amerikaanse Vliegende Tijgers)
-**Sikang:** 1 Infanterie
+#### 🇨🇳 **China (Bestuurd door VS speler)**
+**Sinkiang:** 1 Infanterie
+**Hupeh:** 1 Infanterie
+**Lukwerp:** 1 Infanterie  
 **Yunnan:** 1 Infanterie
-**Szechwan:** 1 Infanterie
 
 ---
 
@@ -124,1046 +215,528 @@
 ## Fase 3: Gevechtsverplaatsing
 ### Operatie Barbarossa - Aanval op Sovjet-Unie
 
-#### Aanval 1: Polen + Oost-Europa → Wit-Rusland
-**Duitse eenheden:** 6 Infanterie + 1 Artillerie + 1 Tank (Polen: 4 Inf, 1 Art, 1 Tank + Oost-Europa: 2 Inf)
+#### Aanval 1: Poland + Bulgaria/Romania → Ukraine
+**Duitse eenheden:** 4 Infanterie + 2 Tanks + 1 Jager + 1 Artillerie (Poland) + 3 Infanterie + 2 Tanks + 1 Artillerie (Bulgaria/Romania)
+**Sovjet verdediging:** 1 Infanterie
+
+#### Aanval 2: Finland → Karelia S.S.R.
+**Duitse eenheden:** 2 Infanterie
 **Sovjet verdediging:** 3 Infanterie
 
-#### Aanval 2: Oost-Europa → Oekraïne S.S.R.
-**Duitse eenheden:** 4 Infanterie + 2 Tanks
-**Sovjet verdediging:** 4 Infanterie
-
-#### Aanval 3: Baltische Staten → Karelië S.S.R.
-**Duitse eenheden:** 1 Infanterie
-**Sovjet verdediging:** 3 Infanterie + 1 Luchtafweergeschut
-
-#### Aanval 4: Strategische Bombardement - Duitsland Bommenwerper → Rusland
-**Doel:** Sovjet Fabriek in Rusland
-**Eenheden:** 1 Bommenwerper (moet gekocht/geplaatst zijn - aanpassing: Jager doet mee aan grondgevecht)
+#### Aanval 3: Strategische Bombardement - Germany Bommenwerper → Russia
+**Doel:** Sovjet Industrial Complex in Russia
+**Eenheden:** 1 Bommenwerper
 
 ## Fase 4: Gevecht Uitvoeren
 
-### Gevecht 1: Wit-Rusland
+### Gevecht 1: Ukraine
 **Ronde 1 - Duitse aanval:**
-- 6 Infanterie (aanval 1 elk): **Dobbelstenen: 2,4,1,5,3,6** = 2 treffers
+- 7 Infanterie (aanval 1 elk): **Dobbelstenen: 2,4,1,5,3,6,2** = 3 treffers
 - 1 Artillerie (aanval 2): **Dobbelsteen: 3** = 0 treffers  
-- 1 Tank (aanval 3): **Dobbelsteen: 2** = 1 treffer
-**Totaal Duitse treffers:** 3
+- 4 Tanks (aanval 3 elk): **Dobbelstenen: 2,1,4,3** = 2 treffers
+- 1 Jager (aanval 3): **Dobbelsteen: 1** = 1 treffer
+**Totaal Duitse treffers:** 6
+
+**Ronde 1 - Sovjet verdediging:**
+- 1 Infanterie (verdediging 2): **Dobbelsteen: 5** = 0 treffers
+
+**Verliezen:**
+- Sovjet: 1 Infanterie (alle eenheden vernietigd)
+- Duitsland: 0 verliezen
+
+**Resultaat:** Duitsland verovert Ukraine makkelijk
+
+### 🎓 **LEERREGEL: Overkill Vermijden**
+Duitsland gebruikte veel te veel eenheden tegen 1 Sovjet Infanterie! Dit is een klassieke beginnersfout. Beter: deel krachten op over meerdere doelen of houd reserves achter voor verdediging.
+
+### Gevecht 2: Karelia S.S.R.
+**Ronde 1 - Duitse aanval:**
+- 2 Infanterie (aanval 1 elk): **Dobbelstenen: 3,2** = 1 treffer
 
 **Ronde 1 - Sovjet verdediging:**
 - 3 Infanterie (verdediging 2 elk): **Dobbelstenen: 1,4,2** = 2 treffers
 
 **Verliezen:**
-- Sovjet: 3 Infanterie (alle eenheden vernietigd)
-- Duitsland: 2 Infanterie
+- Sovjet: 1 Infanterie
+- Duitsland: 2 Infanterie (alle aanvallers vernietigd)
 
-**Resultaat:** Duitsland verovert Wit-Rusland
+**Resultaat:** Sovjet behoudt Karelia S.S.R.
 
-### Gevecht 2: Ukraine S.S.R.
-**Ronde 1 - Duitse aanval:**
-- 4 Infantry (aanval 1 elk): **Dobbelstenen: 3,1,5,2** = 2 hits
-- 2 Tanks (aanval 3 elk): **Dobbelstenen: 4,1** = 1 hit
-**Totaal Duitse hits:** 3
+### Strategische Bombardement: Russia Industrial Complex
+**AA Gun afweer:** Russia heeft 1 AA Gun
+- **AA Gun vuur:** **Dobbelsteen: 3** = Mist (1 nodig voor treffer)
 
-**Ronde 1 - Sovjet verdediging:**
-- 4 Infantry (verdediging 2 elk): **Dobbelstenen: 2,3,1,5** = 2 hits
+**Bommenwerper bombardement:**
+- **Schade roll:** **Dobbelsteen: 5** = 5 schade punten aan fabriek
 
-**Verliezen:**
-- Sovjet: 3 Infantry  
-- Duitsland: 2 Infantry
-
-**Ronde 2 - Duitse aanval:**
-- 2 Infantry (aanval 1 elk): **Dobbelstenen: 4,2** = 1 hit
-- 2 Tanks (aanval 3 elk): **Dobbelstenen: 3,1** = 2 hits
-**Totaal Duitse hits:** 3
-
-**Ronde 2 - Sovjet verdediging:**
-- 1 Infantry (verdediging 2): **Dobbelsteen: 3** = 0 hits
-
-**Verliezen:**
-- Sovjet: 1 Infantry (alle eenheden vernietigd)
-
-**Resultaat:** Duitsland verovert Ukraine S.S.R.
-
-### Gevecht 3: Karelië S.S.R.
-**Luchtafweergeschut afweer:** Geen luchtaanval, dus geen LA vuur
-
-**Ronde 1 - Duitse aanval:**
-- 1 Infanterie (aanval 1): **Dobbelsteen: 5** = 0 treffers
-
-**Ronde 1 - Sovjet verdediging:**
-- 3 Infanterie + 1 Luchtafweergeschut (verdediging 2,2,2,1): **Dobbelstenen: 1,4,3,2** = 2 treffers
-
-**Verliezen:**
-- Duitsland: 1 Infanterie (alle aanvallers vernietigd)
-
-**Resultaat:** Sovjet behoudt Karelië S.S.R.
+### 🎓 **LEERREGEL: Strategische Bombardement Impact**
+Russia fabriek heeft nu 5 schade markers. Dit betekent dat Sovjet-Unie slechts kan produceren: Normale capaciteit (6) - schade (5) = 1 eenheid per beurt! Dit is een zware economische klap.
 
 ## Fase 5: Niet-Gevecht Verplaatsing
-- 1 Jager van Oost-Europa → Oekraïne S.S.R.
-- Resterende eenheden hergroeperen
+- 1 Jager van Germany → Ukraine (versterking)
+- Resterende eenheden hergroeperen defensief
 
 ## Fase 6: Nieuwe Eenheden Plaatsen
-**Plaatsing in Duitsland:**
+**Plaatsing in Germany:**
 - 4 Infanterie, 2 Artillerie, 1 Tank
 
 ## Fase 7: Inkomen Innen
-**Inkomen:** Duitsland (10) + Polen (2) + Oost-Europa (3) + Noordwest-Europa (2) + Noorwegen (3) + Baltische Staten (1) + Oekraïne (2) + Wit-Rusland (2) + Oekraïne S.S.R. (2) + Balkan (1) + Libië (1) = **29 IPC**
+**Gebieden:** Germany (10) + Northwestern Europe (2) + Norway (3) + Finland (1) + Poland (2) + Czechoslovakia/Hungary (2) + Bulgaria/Romania (3) + Libya (1) + Morocco/Algeria (1) + France (6) + Ukraine (2) = **33 IPC**
 
 ### 🎓 **LEERREGEL: Nationale Doelstellingen - Bonus Inkomen**
 Duitsland kan extra IPC's verdienen door historische doelstellingen te bereiken:
-- **+5 IPC** als As-landen alle volgende gebieden beheersen: Frankrijk, Noordwest-Europa, Duitsland, Tsjecho-Slowakije/Hongarije, Bulgarije/Roemenië, Polen
-- **+5 IPC** als As-landen minstens 3 van deze gebieden beheersen: Baltische Staten, Oost-Polen, Oekraïne, Oost-Oekraïne, Wit-Rusland
-- **+5 IPC** als As-landen minstens 1 van deze gebieden beheersen: Karelië S.S.R. en/of Kaukasus
+- **+5 IPC** als As-landen alle volgende beheersen: France, Northwestern Europe, Germany, Czechoslovakia/Hungary, Bulgaria/Romania, Poland ✅
+- **+5 IPC** als As-landen minstens 3 van deze beheersen: Baltic States, East Poland, Ukraine, Eastern Ukraine, Belorussia (heeft Ukraine = 1/3) ❌
+- **+5 IPC** als As-landen minstens 1 van deze beheersen: Karelia S.S.R. en/of Caucasus ❌
 
-*Duitsland ontvangt nog geen bonus omdat Frankrijk nog niet veroverd is.*
+**Duitsland krijgt +5 IPC bonus = 38 IPC totaal**
 
 ---
 
 # BEURT 2: SOVJET-UNIE
 
-## Phase 1: Research & Development
-**Beslissing:** Geen onderzoek (alle IPC nodig voor verdediging)
+## Fase 1: Onderzoek & Ontwikkeling
+**Beslissing:** Geen onderzoek (crisis door fabrieksschade)
 
-## Phase 2: Purchase Units
+## Fase 2: Eenheden Kopen
 **Beschikbaar:** 30 IPC
+**Fabriek beperkingen:** Russia fabriek (1 eenheid max), Caucasus fabriek (4 eenheden max)
 **Aankopen:**
-- 8 Infantry (24 IPC)
-- 1 Artillery (4 IPC)
-- Restant: 2 IPC bewaard
+- 1 Tank in Russia (5 IPC)
+- 4 Infanterie in Caucasus (12 IPC)
+**Totaal:** 17 IPC gebruikt, 13 IPC over
 
-## Phase 3: Combat Move
-### Tegenaanval op Duitse posities
+### 🎓 **LEERREGEL: Fabrieksschade Crisis Management**
+Sovjet-Unie heeft een groot probleem: de Russia fabriek kan maar 1 eenheid produceren! Dit toont het belang van strategische bombardement en waarom fabrieken beschermen cruciaal is.
 
-#### Aanval 1: West Russia + Caucasus → Ukraine S.S.R.
-**Sovjet eenheden:** 4 Infantry + 1 Tank (West Russia) + 1 Infantry + 1 Tank (Caucasus)
-**Duitse verdediging:** 2 Infantry + 2 Tanks + 1 Fighter
+## Fase 3: Gevechtsverplaatsing
+### Beperkte Tegenaanval Mogelijkheden
 
-## Phase 4: Conduct Combat
+#### Aanval 1: East Poland + Belorussia → Poland
+**Sovjet eenheden:** 2 Infanterie (East Poland) + 2 Infanterie (Belorussia) = 4 Infanterie
+**Duitse verdediging:** Geen (alle eenheden naar Ukraine verplaatst)
 
-### Gevecht: Oekraïne S.S.R.
-**Ronde 1 - Sovjet aanval:**
-- 5 Infanterie (aanval 1 elk): **Dobbelstenen: 3,1,4,2,6** = 2 treffers
-- 2 Tanks (aanval 3 elk): **Dobbelstenen: 2,4** = 1 treffer
-**Totaal Sovjet treffers:** 3
+## Fase 4: Gevecht Uitvoeren
 
-**Ronde 1 - Duitse verdediging:**
-- 2 Infanterie (verdediging 2 elk): **Dobbelstenen: 1,3** = 1 treffer
-- 2 Tanks (verdediging 3 elk): **Dobbelstenen: 2,1** = 2 treffers
-- 1 Jager (verdediging 4): **Dobbelsteen: 5** = 0 treffers
-**Totaal Duitse treffers:** 3
+### Gevecht: Poland
+**Geen Duitse verdedigers** - Sovjet verovert Poland automatisch
 
-**Verliezen:**
-- Sovjet: 3 Infanterie
-- Duitsland: 2 Infanterie + 1 Tank
+**Resultaat:** Sovjet-Unie herovert Poland
 
-**Ronde 2 - Sovjet aanval:**
-- 2 Infanterie (aanval 1 elk): **Dobbelstenen: 4,1** = 1 treffer
-- 2 Tanks (aanval 3 elk): **Dobbelstenen: 3,2** = 2 treffers
-**Totaal Sovjet treffers:** 3
+## Fase 5: Niet-Gevecht Verplaatsing
+- Eenheden consolideren rond Moscow en Caucasus
+- 2 Infanterie van Kazakh S.S.R. → Caucasus (versterking)
 
-**Ronde 2 - Duitse verdediging:**
-- 1 Tank (verdediging 3): **Dobbelsteen: 4** = 0 treffers
-- 1 Jager (verdediging 4): **Dobbelsteen: 2** = 1 treffer
-**Totaal Duitse treffers:** 1
+## Fase 6: Nieuwe Eenheden Plaatsen
+**Plaatsing in Russia:** 1 Tank
+**Plaatsing in Caucasus:** 4 Infanterie
 
-**Verliezen:**
-- Sovjet: 1 Infanterie
-- Duitsland: 1 Tank + 1 Jager (alle eenheden vernietigd)
+### 🎓 **LEERREGEL: Reparatie Overwegingen**
+Sovjet-Unie kiest ervoor om NIET de fabriek te repareren (5 IPC per schade = 25 IPC totaal). In plaats daarvan houdt ze IPC's voor noodgevallen. Dit is vaak de juiste keuze vroeg in het spel.
 
-**Resultaat:** Sovjet herovert Oekraïne S.S.R.
-
-### 🎓 **LEERREGEL: Luchtsteun en Terugtrekking**
-De Duitse Jager had kunnen terugtrekken na ronde 1 in plaats van vernietigd te worden! Luchtdrievenheden kunnen zich terugtrekken naar aangrenzende vriendelijke gebieden en landen tijdens de Niet-Gevecht Verplaatsing fase.
-
-## Phase 5: Noncombat Move
-- Resterende eenheden consolideren rond Moskou
-
-## Phase 6: Mobilize New Units
-**Plaatsing in Russia:**
-- 8 Infantry, 1 Artillery
-
-## Phase 7: Collect Income
-**Inkomen:** Russia (6) + Karelia S.S.R. (2) + Archangel (2) + Caucasus (1) + Ukraine S.S.R. (2) + West Russia (1) = **14 IPC**
+## Fase 7: Inkomen Innen
+**Gebieden:** Russia (6) + Karelia S.S.R. (2) + Archangel (2) + Caucasus (4) + Yakut S.S.R. (1) + andere Aziatische gebieden (8) + Poland (2) = **25 IPC**
 
 ---
 
 # BEURT 3: JAPAN
 
-## Phase 1: Research & Development
+## Fase 1: Onderzoek & Ontwikkeling
 **Beslissing:** Japan investeert 5 IPC in onderzoek
 **Dobbelworp:** 1d6 = **6** = Doorbraak!
 **Breakthrough Chart 2 dobbelworp:** 1d6 = **3** = Improved Shipyards (zeeschepen -1 IPC)
 
-## Phase 2: Purchase Units
+## Fase 2: Eenheden Kopen
 **Beschikbaar:** 17 - 5 = 12 IPC
 **Aankopen (met Improved Shipyards discount):**
 - 2 Transports (12 IPC, normaal 14 IPC)
 
-## Phase 3: Combat Move
-### Pearl Harbor Aanval + Pacifische Expansie
+## Fase 3: Gevechtsverplaatsing
+### Pearl Harbor Aanval & Chinese Operaties
 
-#### Aanval 1: Sea Zone 60 → Sea Zone 56 (Pearl Harbor)
-**Japanse vloot:** 2 Battleships + 1 Aircraft Carrier + 1 Fighter + 1 Destroyer
-**Amerikaanse verdediging:** 1 Battleship + 1 Aircraft Carrier + 1 Fighter + 1 Cruiser + 1 Destroyer
+#### Aanval 1: Sea Zone 62 vloot → Sea Zone 53 (Pearl Harbor)
+**Japanse aanval:** 2 Jagers + 1 Battleship + 1 Cruiser (van zee) + 2 Jagers van Aircraft Carrier
+**Amerikaanse verdediging:** 1 Battleship + 1 Aircraft Carrier + 1 Jager + 1 Destroyer
 
-#### Aanval 2: Manchuria → China (Shensi)
-**Japanse eenheden:** 1 Infantry + 1 Artillery
-**Chinese verdediging:** 2 Infantry + 1 Fighter (Flying Tigers)
+#### Aanval 2: Manchuria → Sinkiang
+**Japanse eenheden:** 1 Jager + 1 Tank
+**Chinese verdediging:** 1 Infanterie
 
-## Phase 4: Conduct Combat
+### 🎓 **LEERREGEL: Pearl Harbor Strategie**
+Japan valt Pearl Harbor aan om Amerikaanse zeemacht te verzwakken voordat VS volledig mobiliseert. Dit is historisch accuraat en strategisch logisch, ondanks de risico's.
 
-### Gevecht 1: Pearl Harbor (Zeezone 56)
-**🎓 LEERREGEL: Zeegefecht Procedure**
-Alle zeeschepen vuren tegelijkertijd. Onderzeeboten met "Surprise Strike" vuren eerst!
+## Fase 4: Gevecht Uitvoeren
 
+### Gevecht 1: Pearl Harbor (Sea Zone 53)
 **Ronde 1 - Japanse aanval:**
-- 2 Slagschepen (aanval 4 elk): **Dobbelstenen: 3,2** = 2 treffers
-- 1 Vliegdekschip (aanval 1): **Dobbelsteen: 4** = 0 treffers
-- 1 Jager (aanval 3): **Dobbelsteen: 1** = 1 treffer
-- 1 Torpedobootjager (aanval 2): **Dobbelsteen: 3** = 0 treffers
-**Totaal Japanse treffers:** 3
+- 4 Jagers (aanval 3 elk): **Dobbelstenen: 2,1,4,3** = 3 treffers
+- 1 Battleship (aanval 4): **Dobbelsteen: 3** = 1 treffer
+- 1 Cruiser (aanval 3): **Dobbelsteen: 2** = 1 treffer
+**Totaal Japanse treffers:** 5
 
 **Ronde 1 - Amerikaanse verdediging:**
-- 1 Slagschip (verdediging 4): **Dobbelsteen: 2** = 1 treffer
-- 1 Vliegdekschip (verdediging 2): **Dobbelsteen: 5** = 0 treffers  
-- 1 Jager (verdediging 4): **Dobbelsteen: 3** = 1 treffer
-- 1 Kruiser (verdediging 3): **Dobbelsteen: 1** = 1 treffer
-- 1 Torpedobootjager (verdediging 2): **Dobbelsteen: 4** = 0 treffers
-**Totaal Amerikaanse treffers:** 3
+- 1 Battleship (verdediging 4): **Dobbelsteen: 1** = 1 treffer
+- 1 Aircraft Carrier (verdediging 2): **Dobbelsteen: 4** = 0 treffers
+- 1 Jager (verdediging 4): **Dobbelsteen: 2** = 1 treffer
+- 1 Destroyer (verdediging 2): **Dobbelsteen: 3** = 0 treffers
+**Totaal Amerikaanse treffers:** 2
 
 **Verliezen:**
-- Amerika: 1 Kruiser + 1 Torpedobootjager + beschadigd Slagschip (1 treffer, niet vernietigd)
-- Japan: 1 Torpedobootjager + beschadigd Slagschip + 1 Jager
+- Amerika: 1 Aircraft Carrier + 1 Jager + 1 Destroyer + beschadigd Battleship
+- Japan: 2 Jagers
 
-**🎓 LEERREGEL: Slagschepen - Twee Treffers**
-Slagschepen hebben 2 levenspunten! Eerste treffer = op de zijkant leggen (beschadigd), tweede treffer = vernietigd.
+**Resultaat:** Japan wint Pearl Harbor verwoestend!
 
-**Ronde 2 - Japan trekt zich terug naar Zeezone 60**
+### 🎓 **LEERREGEL: Zeegefecht Casualties**
+Wanneer een Aircraft Carrier wordt vernietigd, moet de Jager erop proberen te landen op een andere carrier of vriendelijk territorium binnen bereik, anders sterft hij ook.
 
-**Resultaat:** Beide vloten zwaar beschadigd, Japan trekt terug
-
-### 🎓 **LEERREGEL: Vliegdekschip Mechanics**
-- Jagers moeten lanceren VOOR het vliegdekschip beweegt
-- Jagers kunnen landen op vliegdekschepen tijdens Niet-Gevecht fase
-- Als vliegdekschip wordt vernietigd, moeten Jagers binnen bereik naar land/ander vliegdekschip
-
-### Gevecht 2: Shensi (China)
-**🎓 LEERREGEL: Luchtafweergeschut vs Vliegtuigen**
-Chinese Jager wordt aangevallen door Japanse grondtroepen - geen LA-geschut vuur omdat het geen bomber is die het gebied aanvalt.
-
+### Gevecht 2: Sinkiang (China)
 **Ronde 1 - Japanse aanval:**
-- 1 Infanterie (aanval 1): **Dobbelsteen: 2** = 0 treffers
-- 1 Artillerie (aanval 2): **Dobbelsteen: 3** = 0 treffers
+- 1 Jager (aanval 3): **Dobbelsteen: 2** = 1 treffer
+- 1 Tank (aanval 3): **Dobbelsteen: 4** = 0 treffers
 
 **Ronde 1 - Chinese verdediging:**
-- 2 Infanterie (verdediging 2 elk): **Dobbelstenen: 1,4** = 1 treffer
-- 1 Jager (verdediging 4): **Dobbelsteen: 3** = 1 treffer
-**Totaal Chinese treffers:** 2
+- 1 Infanterie (verdediging 2): **Dobbelsteen: 5** = 0 treffers
 
 **Verliezen:**
-- Japan: 1 Infanterie + 1 Artillerie (alle eenheden vernietigd)
+- China: 1 Infanterie (vernietigd)
 
-**Resultaat:** China behoudt Shensi
+**Resultaat:** Japan verovert Sinkiang
 
-### 🎓 **LEERREGEL: Chinese Speciale Regels**
-- China krijgt geen IPC inkomen - in plaats daarvan 1 nieuwe Infanterie per 2 Chinese gebieden onder controle
-- Chinese eenheden kunnen alleen binnen de Chinese grens opereren (behalve Kwangtung)
-- VS speler bestuurt Chinese eenheden maar houdt resources gescheiden
+## Fase 5: Niet-Gevecht Verplaatsing
+- Overlevende vloot hergroepeert in veilige wateren
+- Landingszones voor vliegtuigen geregeld
 
-## Phase 5: Noncombat Move
-- Vloot hergroepeert in veilige wateren
-
-## Phase 6: Mobilize New Units  
+## Fase 6: Nieuwe Eenheden Plaatsen  
 **Plaatsing in Japan:**
-- 2 Transports in Sea Zone 60
+- 2 Transports in Sea Zone 6
 
-## Phase 7: Collect Income
-**Inkomen:** Japan (8) + Manchuria (3) + Kiangsu (2) + Kwangtung (1) = **14 IPC**
+## Fase 7: Inkomen Innen
+**Inkomen:** Japan (8) + Okinawa (1) + Manchuria (3) + Iwo Jima (1) + Caroline Islands (1) + Formosa (1) + French Indo-China/Thailand (2) + Kiangsu (2) + Sinkiang (1) = **20 IPC**
+
+### 🎓 **LEERREGEL: Chinese Territoriale Waarde**
+Chinese gebieden hebben IPC waarde voor Japan maar niet voor China zelf. China krijgt nieuwe eenheden gebaseerd op aantal gecontroleerde territoria.
 
 ---
 
 # BEURT 4: VERENIGD KONINKRIJK
 
-## Phase 1: Research & Development
+## Fase 1: Onderzoek & Ontwikkeling
 **Beslissing:** VK investeert 5 IPC in onderzoek
 **Dobbelworp:** 1d6 = **2** = Geen doorbraak
 
-## Phase 2: Purchase Units
+## Fase 2: Eenheden Kopen
 **Beschikbaar:** 43 - 5 = 38 IPC
 **Aankopen:**
-- 6 Infantry (18 IPC)
-- 2 Artillery (8 IPC)
+- 6 Infanterie (18 IPC)
+- 2 Artillerie (8 IPC)
 - 1 Destroyer (8 IPC)
-- 1 Fighter (10 IPC)
-**Totaal:** 44 IPC - overschrijdt budget, Fighter geschrapt = 34 IPC gebruikt
+- 1 Tank (5 IPC)
+**Totaal:** 39 IPC - overschrijdt budget met 1 IPC
+**Aangepast:** Schrap 1 Infanterie = 36 IPC gebruikt
 
-## Phase 3: Combat Move
-### Atlantische en Mediterrane operaties
+## Fase 3: Gevechtsverplaatsing
+### Mediterrane & Atlantische Operaties
 
-#### Aanval 1: Trans-Jordan → Libya
-**Britse eenheden:** 1 Infantry
-**Italiaanse verdediging:** 1 Infantry
+#### Aanval 1: Egypt eenheden → Libya
+**Britse eenheden:** 2 Infanterie + 1 Tank + 1 Jager + 1 Artillerie
+**Italiaanse verdediging:** 2 Infanterie
 
-#### Aanval 2: Sea Zone 35 (Indische Oceaan) patrouilles
-**Geen vijandelijke eenheden**
+#### Aanval 2: Sea Zone 35 vloot patrouilles
+**Geen vijandelijke activiteit**
 
-## Phase 4: Conduct Combat
+### 🎓 **LEERREGEL: IPC Budget Management**
+VK heeft 43 IPC maar koopt voor 39 - een overschrijding! Dit toont het belang van vooraf rekenen. Altijd controleren of je genoeg IPC's hebt voordat je koopt.
+
+## Fase 4: Gevecht Uitvoeren
 
 ### Gevecht: Libya
 **Ronde 1 - Britse aanval:**
-- 1 Infantry (aanval 1): **Dobbelsteen: 1** = 1 hit
+- 2 Infanterie (aanval 1 elk): **Dobbelstenen: 1,4** = 1 treffer
+- 1 Tank (aanval 3): **Dobbelsteen: 2** = 1 treffer
+- 1 Jager (aanval 3): **Dobbelsteen: 3** = 1 treffer
+- 1 Artillerie (aanval 2): **Dobbelsteen: 5** = 0 treffers
+**Totaal Britse treffers:** 3
 
-**Ronde 1 - Italiaanse verdediging:**  
-- 1 Infantry (verdediging 2): **Dobbelsteen: 5** = 0 hits
+**Ronde 1 - Italiaanse verdediging:**
+- 2 Infanterie (verdediging 2 elk): **Dobbelstenen: 3,1** = 1 treffer
 
 **Verliezen:**
-- Italië: 1 Infantry (vernietigd)
+- Italië: 2 Infanterie (alle eenheden vernietigd)
+- VK: 1 Infanterie
 
 **Resultaat:** VK verovert Libya
 
-## Phase 5: Noncombat Move
-- Versterkingen naar India en Egypte
-- Vloot herpositionering
+## Fase 5: Niet-Gevecht Verplaatsing
+- Versterkingen naar India (Japanese bedreiging)
+- Vloot herpositionering voor Atlantische verdediging
 
-## Phase 6: Mobilize New Units
+## Fase 6: Nieuwe Eenheden Plaatsen
 **Plaatsing in United Kingdom:**
-- 6 Infantry, 2 Artillery
+- 5 Infanterie, 2 Artillerie, 1 Tank
 **Plaatsing in Sea Zone 2:**
 - 1 Destroyer
 
-## Phase 7: Collect Income
-**Inkomen:** United Kingdom (8) + Eastern Canada (3) + India (3) + Australia (2) + Union of South Africa (1) + Egypt (2) + Trans-Jordan (1) + Libya (1) = **21 IPC**
+## Fase 7: Inkomen Innen
+**Inkomen:** United Kingdom (8) + Western Canada (1) + Eastern Canada (1) + Kwangtung (1) + Australia (2) + India (3) + Trans-Jordan (1) + Union of South Africa (2) + Egypt (2) + Burma (1) + Libya (1) = **23 IPC**
+
+### 🎓 **LEERREGEL: VK Wereldwijde Verdediging**
+VK heeft een moeilijke taak: verdedigen van territorium over de hele wereld. Dit maakt resource management complex maar ook flexibel.
 
 ---
 
 # BEURT 5: ITALIË
 
-## Phase 1: Research & Development
+## Fase 1: Onderzoek & Ontwikkeling
 **Beslissing:** Geen onderzoek (beperkt budget)
 
-## Phase 2: Purchase Units
+## Fase 2: Eenheden Kopen
 **Beschikbaar:** 10 IPC
 **Aankopen:**
-- 3 Infantry (9 IPC)
+- 3 Infanterie (9 IPC)
 **Restant:** 1 IPC
 
-## Phase 3: Combat Move
-### Mediterrane consolidatie
+## Fase 3: Gevechtsverplaatsing
+### Mediterrane Heroververing
 
-#### Aanval 1: Italy → Libya (heroververing)
-**Italiaanse eenheden:** 2 Infantry
-**Britse verdediging:** 1 Infantry
+#### Aanval 1: Sea Zone 14 → Libya (Amfibische Aanval)
+**Italiaanse vloot:** 1 Battleship + 2 Cruisers + 1 Transport
+**Transport cargo:** 2 Infanterie van Italy
+**Britse verdediging:** 1 Infanterie + 1 Tank + 1 Jager + 1 Artillerie
 
-## Phase 4: Conduct Combat
+### 🎓 **LEERREGEL: Amfibische Aanval Procedure**
+1. Zee gevecht (indien nodig)
+2. Kust bombardement (Battleships/Cruisers) 
+3. Land gevecht (transport eenheden + bombardement casualties)
 
-### Gevecht: Libya
-**Ronde 1 - Italiaanse aanval:**
-- 2 Infantry (aanval 1 elk): **Dobbelstenen: 3,1** = 1 hit
+## Fase 4: Gevecht Uitvoeren
 
-**Ronde 1 - Britse verdediging:**
-- 1 Infantry (verdediging 2): **Dobbelsteen: 2** = 1 hit
+### Amfibische Aanval: Libya
+
+#### Stap 1: Zee Gevecht
+**Geen Britse zeeschepen** - Ga naar Stap 2
+
+#### Stap 2: Kust Bombardement
+**Italiaanse bombardement:**
+- 1 Battleship (bombardement 4): **Dobbelsteen: 3** = 1 treffer
+- 2 Cruisers (bombardement 3 elk): **Dobbelstenen: 2,1** = 2 treffers
+
+**Britse verliezen naar casualty zone:**
+- 3 eenheden naar casualty zone (nog wel verdedigen deze ronde)
+
+#### Stap 3: Land Gevecht
+**Italiaanse aanval:**
+- 2 Infanterie van transport (aanval 1 elk): **Dobbelstenen: 2,1** = 1 treffer
+
+**Britse verdediging (uit casualty zone):**
+- 1 Infanterie (verdediging 2): **Dobbelsteen: 4** = 0 treffers
+- 1 Tank (verdediging 3): **Dobbelsteen: 2** = 1 treffer
+- 1 Jager (verdediging 4): **Dobbelsteen: 1** = 1 treffer
+- 1 Artillerie (verdediging 2): **Dobbelsteen: 5** = 0 treffers
+**Totaal Britse treffers:** 2
 
 **Verliezen:**
-- VK: 1 Infantry (vernietigd)
-- Italië: 1 Infantry
+- VK: 1 eenheid (uit casualty zone = alle casualties sterven)
+- Italië: 2 Infanterie (alle aanvallers vernietigd)
 
-**Resultaat:** Italië herovert Libya
+**Resultaat:** VK behoudt Libya
 
-## Phase 5: Noncombat Move
-- Resterende troepen consolideren
+### 🎓 **LEERREGEL: Bombardement Casualties**
+Eenheden getroffen door bombardement gaan naar "casualty zone" - ze verdedigen nog deze ronde maar sterven daarna automatisch, ongeacht gevechtsuitkomst.
 
-## Phase 6: Mobilize New Units
+## Fase 5: Niet-Gevecht Verplaatsing
+- Vloot blijft in Sea Zone 14
+
+## Fase 6: Nieuwe Eenheden Plaatsen
 **Plaatsing in Italy:**
-- 3 Infantry
+- 3 Infanterie
 
-## Phase 7: Collect Income
-**Inkomen:** Italy (3) + Libya (1) = **4 IPC**
+## Fase 7: Inkomen Innen
+**Inkomen:** Italy (3) + Balkans (2) = **5 IPC**
 
 ---
 
 # BEURT 6: VERENIGDE STATEN
 
-## Phase 1: Research & Development
+## Fase 1: Onderzoek & Ontwikkeling
 **Beslissing:** VS investeert 10 IPC in onderzoek (2 tokens)
 **Dobbelworp:** 2d6 = **3,6** = 1 Doorbraak!
 **Breakthrough Chart 1 dobbelworp:** 1d6 = **5** = War Bonds
 
-## Phase 2: Purchase Units
+## Fase 2: Eenheden Kopen
 **Beschikbaar:** 40 - 10 = 30 IPC
 **Aankopen:**
-- 4 Infantry (12 IPC)  
-- 1 Artillery (4 IPC)
+- 4 Infanterie (12 IPC)  
+- 1 Artillerie (4 IPC)
 - 1 Destroyer (8 IPC)
-- 1 Fighter (10 IPC)
-**Totaal:** 34 IPC - overschrijdt, Fighter geschrapt = 24 IPC gebruikt
+- 1 Tank (5 IPC)
+**Totaal:** 29 IPC gebruikt, 1 IPC over
 
 ### China Purchase (aparte fase)
-**Chinese territoria onder controle:** 4 (Shensi, Sikang, Yunnan, Szechwan)
-**Nieuwe Chinese units:** 4÷2 = 2 Infantry
-
-## Phase 3: Combat Move
-### Pacifische defensieve maatregelen
-
-#### Geen grote aanvallen (defensieve positie na Pearl Harbor)
-
-## Phase 4: Conduct Combat
-**Geen gevechten**
-
-## Phase 5: Noncombat Move
-- Versterkingen naar Pacifische bases
-- Vloot hergroepering na Pearl Harbor
-
-## Phase 6: Mobilize New Units
-**Plaatsing in Eastern United States:**
-- 4 Infantry, 1 Artillery
-**Plaatsing in Western United States:**  
-- 1 Destroyer (Sea Zone 56)
-**Chinese plaatsing:**
-- 2 Infantry in Chinese territoria (max 3 per territorium)
-
-## Phase 7: Collect Income
-**VS Basis Inkomen:** Eastern US (6) + Central US (2) + Western US (6) + Philippine Islands (3) = **17 IPC**
-**War Bonds dobbelworp:** 1d6 = **4** = +4 IPC bonus
-**Totaal VS inkomen:** 21 IPC
-
----
-
----
-
-## 🎓 **EENHEDEN KOSTEN vs EFFECTIVITEIT GIDS**
-
-### **Grond Eenheden:**
-| Eenheid | Kosten | Aanval | Verdediging | Wanneer Kopen |
-|---------|--------|--------|-------------|---------------|
-| Infanterie | 3 IPC | 1 | 2 | **Altijd** - goedkoopste verdediging |
-| Artillerie | 4 IPC | 2 | 2 | **Met Infanterie** - ondersteuning |
-| Tank | 5 IPC | 3 | 3 | **Aanvallen** - snelheid + kracht |
-| LA-Geschut | 6 IPC | - | 1 | **Defensie** - anti-lucht bescherming |
-
-### **Lucht Eenheden:**
-| Eenheid | Kosten | Aanval | Verdediging | Wanneer Kopen |
-|---------|--------|--------|-------------|---------------|
-| Jager | 10 IPC | 3 | 4 | **Flexibiliteit** - kan op vliegdekschip |
-| Bommenwerper | 12 IPC | 4 | 1 | **Strategisch** - grote aanvalskracht + bereik |
-
-### **Zee Eenheden:**
-| Eenheid | Kosten | Aanval | Verdediging | Wanneer Kopen |
-|---------|--------|--------|-------------|---------------|
-| Transport | 7 IPC | 0 | 0 | **Amfibisch** - troepen verplaatsen |
-| Onderzeeboot | 6 IPC | 2 | 1 | **Raids** - goedkope zeemacht |
-| Torpedobootjager | 8 IPC | 2 | 2 | **Anti-Sub** - onderzeeboten stoppen |
-| Kruiser | 12 IPC | 3 | 3 | **Bombardement** - kust aanvallen |
-| Vliegdekschip | 14 IPC | 1 | 2 | **Luchtsteun** - jagers verplaatsen |
-| Slagschip | 20 IPC | 4 | 4 | **Zwaar Geschut** - 2 treffers nodig |
-
-### 💡 **KOSTEN-EFFECTIVITEIT TIPS:**
-- **Infanterie + Artillerie** = Goedkoopste aanvalskracht (7 IPC = 3 aanval, 4 verdediging)
-- **Tanks** = Duurder maar sneller en flexibeler
-- **Bommenwerpers** = Hoge aanval + strategische bombardement mogelijkheid
-- **Slagschepen** = Duur maar overleven lang door 2-treffer systeem
-
----
-
-# ⚠️ **VEELGEMAAKTE BEGINNERS FOUTEN**
-
-## 🚫 **FOUT 1: Suicide Runs met Vliegtuigen**
-**Probleem:** Vliegtuigen sturen naar gevecht zonder landingsplaats
-**Gevolg:** Vliegtuigen sterven automatisch na gevecht
-**Oplossing:** Altijd bereik controleren - vliegtuigen moeten kunnen landen in vriendelijk gebied
-
-**Voorbeeld Fout:**
-```
-Jager (bereik 4) vliegt 4 zones naar gevecht
-❌ Kan niet meer landen - sterft automatisch
-✅ Vliegt 2 zones naar gevecht, 2 zones terug naar basis
-```
-
-## 🚫 **FOUT 2: Overextending (Te Ver Uitbreiden)**
-**Probleem:** Alle eenheden naar voren sturen zonder verdediging achter
-**Gevolg:** Vijand doorbreekt zwakke punten en verovert belangrijke gebieden
-**Oplossing:** Altijd reserve eenheden achterhouden voor verdediging
-
-**Voorbeeld:**
-```
-❌ Alle Duitse tanks naar Rusland - Balkan onverdedigd
-✅ 75% tanks aanvallen, 25% verdedigen belangrijke gebieden
-```
-
-## 🚫 **FOUT 3: Resource Hoarding (IPC's Oppotten)**
-**Probleem:** IPC's sparen "voor later" in plaats van uitgeven
-**Gevolg:** Mist kansen om momentum op te bouwen
-**Oplossing:** Spendeer bijna alle IPC's elke beurt (max 10% bewaren)
-
-## 🚫 **FOUT 4: Single-Front Focus**
-**Probleem:** Alleen 1 front aanvallen en andere gebieden negeren
-**Gevolg:** Vijand kan eenvoudig verdedigen en tegenaanvallen
-**Oplossing:** Druk uitoefenen op meerdere fronten tegelijk
-
-## 🚫 **FOUT 5: Technology Negeren**
-**Probleem:** Nooit investeren in onderzoek & ontwikkeling
-**Gevolg:** Mist krachtige voordelen zoals War Bonds, Super Submarines
-**Oplossing:** Investeer 5-10 IPC per beurt in technologie (vooral vroeg in spel)
-
----
-
-# 🎯 **STRATEGISCHE BESLUITVORMING UITGELEGD**
-
-## 🤔 **WAAROM Pearl Harbor Aanvallen? (Japan's Dilemma)**
-
-### **Voordelen Pearl Harbor:**
-- **Amerikaanse vloot verzwakken** voordat VS volledig mobiliseert
-- **Tijd winnen** voor Pacifische expansie
-- **Psychologische impact** - VS moet defensief spelen
-
-### **Risico's Pearl Harbor:**
-- **Amerikaanse woede** - VS krijgt oorlogseconomie boost
-- **Eigen verliezen** - Japanse vloot ook beschadigd
-- **China front** - Resources verdeeld over twee fronten
-
-### **Strategische Redenering:**
-```
-🎲 Korte termijn: Japan verzwakt Amerika
-📈 Lange termijn: Amerika wordt sterker door oorlogseconomie
-⏰ Beslissing: Japan MOET snel winnen voordat VS te sterk wordt
-```
-
-## 🤔 **WAAROM Duitsland Eerst USSR Aanvalt?**
-
-### **Operatie Barbarossa Logica:**
-- **Grootste bedreiging elimineren** - USSR heeft meeste landmacht
-- **Resources verkrijgen** - Oost-Europa heeft veel IPC waarde
-- **Two-front war vermijden** - USSR uitschakelen voor VK/VS interventie
-
-### **Alternatief (Zee Leeuw - VK aanvallen):**
-- **Voordeel:** VK zwakkere landverdediging
-- **Nadeel:** Sterke Royal Navy + moeilijke amfibische operatie
-- **Probleem:** USSR kan ondertussen mobiliseren
-
-### **Historische Les:**
-```
-💡 In werkelijkheid faalde Barbarossa door:
-- Russische winter
-- Lange toevoerlijnen  
-- Onderschatting Sovjet weerstand
-🎮 In spel: Snelle overwinning mogelijk met geluk + strategie
-```
-
-## 🤔 **Resource Prioriteit Beslissingen**
-
-### **Vroeg Spel (Beurten 1-3):**
-1. **Militaire eenheden** (70%)
-2. **Technologie** (20%)  
-3. **Fabrieken** (10%)
-
-### **Midden Spel (Beurten 4-6):**
-1. **Militaire eenheden** (60%)
-2. **Nieuwe fabrieken** (25%)
-3. **Technologie** (15%)
-
-### **Laat Spel (Beurt 7+):**
-1. **Militaire eenheden** (80%)
-2. **Fabriek reparaties** (15%)
-3. **Technologie** (5%)
-
----
-
-# 🏛️ **LIBERATIE vs VEROVERING UITGELEGD**
-
-## 📖 **Definities:**
-- **Verovering:** Nemen van vijandelijk gebied → jij krijgt controle + inkomen
-- **Liberatie:** Bevrijden van bondgenoot gebied → oorspronkelijke eigenaar krijgt controle terug
-
-## 🔄 **Liberatie Procedure:**
-```
-Voorbeeld: Duitsland verovert Frankrijk (VK gebied)
-Later: VS bevrijdt Frankrijk
-Resultaat: Frankrijk gaat terug naar VK (niet VS!)
-```
-
-### **Belangrijke Liberatie Regels:**
-1. **Gebied gaat terug** naar oorspronkelijke eigenaar
-2. **Fabrieken en LA-geschut** gaan ook terug naar oorspronkelijke eigenaar  
-3. **IPC inkomen** gaat naar oorspronkelijke eigenaar
-4. **Uitzondering:** Als oorspronkelijke eigenaar's hoofdstad veroverd is, dan behoud jij het gebied
-
-## 👑 **Hoofdstad Verovering Gevolgen:**
-
-### **Wanneer Hoofdstad Valt:**
-1. **Alle IPC's gestolen** door veroveraar
-2. **Geen inkomen meer** voor oorspronkelijke eigenaar
-3. **Kan geen eenheden meer kopen** tot bevrijding
-4. **Kan alleen nog Combat Move, Conduct Combat, Noncombat Move** fases doen
-
-### **Na Hoofdstad Bevrijding:**
-1. **Controle hersteld** over eigen gebieden
-2. **Fabrieken werken weer** 
-3. **IPC inkomen hervat**
-4. **Kan weer eenheden kopen**
-
-**Strategische Les:** Hoofdsteden verdedigen is CRUCIAAL!
-
----
-
-# 🔧 **GEAVANCEERDE REGELS VERDUIDELIJKING**
-
-## ✈️ **Vliegtuig Landing Zones (Kritiek Belangrijk!)**
-
-### **Landing Vereisten:**
-- **Jagers:** Vriendelijk gebied OF vliegdekschip binnen bereik
-- **Bommenwerpers:** Alleen vriendelijk gebied
-- **Bereik:** Totale beweging (heen + terug) mag niet overschrijden
-
-### **Landing Prioriteit:**
-1. **Vriendelijk landgebied** (veiligst)
-2. **Bondgenoot vliegdekschip** 
-3. **Eigen nieuwe vliegdekschip** (moet geplaatst worden deze beurt)
-
-### **Wat gebeurt bij geen landing:**
-```
-⚠️ Vliegtuig STERFT automatisch
-💰 Verlies van 10-12 IPC investering
-🎯 Strategische fout met grote gevolgen
-```
-
-## 🚢 **Transport Cargo Regels**
-
-### **Basis Regels:**
-- **Capaciteit:** 1 grond eenheid + 1 infanterie (OF 2 infanterie)
-- **Laden/Lossen:** Telt als volledige beweging voor land eenheden
-- **Beweging:** Transport kan bewegen voor/na laden
-
-### **Wat gebeurt als Transport vernietigd:**
-```
-💀 Alle cargo STERFT onmiddellijk
-📍 Geen redding mogelijk
-⚠️ Daarom: Bescherm transporten met oorlogsschepen!
-```
-
-### **Amfibische Aanval Cargo:**
-- **Seaborne eenheden:** Kunnen NIET terugtrekken
-- **Overland eenheden:** Kunnen WEL terugtrekken
-- **Mixed force:** Overland eenheden bepalen retreat optie
-
-## 🤝 **Friendly Fire & Bondgenoot Interactie**
-
-### **Wat Bondgenoten KUNNEN:**
-- ✅ **Territorium delen** voor verdediging
-- ✅ **Transport gebruiken** (met procedure)
-- ✅ **Vliegdekschip delen** voor jagers
-- ✅ **Samen verdedigen** tegen aanval
-
-### **Wat Bondgenoten NIET KUNNEN:**
-- ❌ **Samen aanvallen** (elke macht individueel)
-- ❌ **IPC's delen** of geven
-- ❌ **Eenheden controleren** van andere macht
-- ❌ **Door elkaar heen bewegen** tijdens combat move
-
-### **Multinational Transport Procedure:**
-```
-Beurt 1: Jij laadt jouw eenheden op bondgenoot transport
-Beurt 2: Bondgenoot beweegt transport (op zijn beurt)
-Beurt 3: Jij lost jouw eenheden (op jouw beurt)
-```
-
-## 🔄 **Retreat Regels Volledig**
-
-### **Wie Kan Terugtrekken:**
-- ✅ **Aanvaller:** Altijd (behalve amfibische seaborne eenheden)
-- ❌ **Verdediger:** Nooit
-
-### **Retreat Beperkingen:**
-- **Land eenheden:** Naar aangrenzend vriendelijk gebied waar minstens 1 aanvaller vandaan kwam
-- **Zee eenheden:** Naar zeezone waar minstens 1 aanvaller vandaan kwam (moet vriendelijk zijn geweest aan start van beurt)
-- **Lucht eenheden:** Blijven in gevechtsgebied, landen tijdens Noncombat Move
-
-### **Retreat Timing:**
-```
-Stap 1: Aanvaller rolt aanval
-Stap 2: Verdediger kiest casualties  
-Stap 3: Verdediger rolt verdediging
-Stap 4: Aanvaller kiest casualties
-Stap 5: Remove casualties
-Stap 6: AANVALLER BESLUIT: Doorvechten of Terugtrekken
-```
-
----
-
-# 📊 **TECHNOLOGIE STACK EFFECTS**
-
-## 🔬 **Meerdere Doorbraken Combineren:**
-
-### **Chart 1 + Chart 2 Combinaties:**
-```
-War Bonds + Super Submarines = 
-💰 Extra IPC per beurt + krachtigere onderzeeboot vloot
-
-Heavy Bombers + Long-Range Aircraft = 
-✈️ Bereik 8 bommenwerpers die 2 dobbelstenen rollen
-
-Improved Shipyards + Radar = 
-🚢 Goedkopere schepen + betere luchtafweer (1-2 treffer)
-```
-
-### **Game-Changing Combinaties:**
-- **Amerika:** War Bonds + Heavy Bombers = Economische & militaire dominantie
-- **Duitsland:** Advanced Artillery + Mechanized Infantry = Blitzkrieg suprematie  
-- **Japan:** Improved Shipyards + Long-Range Aircraft = Pacifische controle
-
----
-
-# 🎮 **SETUP VOLGORDE PER LAND (Stap-voor-Stap)**
-
-## 📋 **Correcte Setup Procedure:**
-
-### **Stap 1: Spelmateriaal**
-1. **Spelbord** in midden tafel
-2. **Battle Board** naast spelbord  
-3. **Nationale productie chart** zichtbaar voor iedereen
-4. **IPC geld** bij banker
-5. **Dobbelstenen** bij Battle Board
-
-### **Stap 2: Speler Toewijzing**
-```
-6 Spelers: Elk land eigen speler
-5 Spelers: 1 speler krijgt Duitsland + Italië  
-4 Spelers: As vs Geallieerden (2 vs 2)
-3 Spelers: 1 As, 2 Geallieerden
-2 Spelers: 1 As, 1 Geallieerden
-```
-
-### **Stap 3: Per Land Setup (Deze Volgorde!):**
-1. **Neem National Setup Chart** voor jouw land(en)
-2. **Neem alle plastic eenheden** in jouw kleur
-3. **Neem control markers** in jouw kleur
-4. **Plaats eenheden volgens chart** op spelbord
-5. **Plaats control markers** in jouw gebieden
-6. **Neem start IPC's** volgens scenario
-7. **Neem Victory City tokens** die je controleert
-
-### **Stap 4: Final Checks:**
-- ✅ Alle eenheden geplaatst volgens setup charts
-- ✅ National production markers op juiste waarde
-- ✅ Iedereen heeft juiste start IPC's
-- ✅ Victory city tokens correct verdeeld (6 As, 12 Geallieerden voor 1941)
-
----
-
-# 🏁 **EINDE RONDE PROCEDURES VOLLEDIG**
-
-## ⏰ **Na Elke Individuele Beurt:**
-1. **Controleer overgebleven IPC's** - Zijn redelijk?
-2. **Update nationale productie marker** voor veroverde/verloren gebieden  
-3. **Repareer beschadigde fabrieken** indien betaald
-4. **Controleer technology effects** - Welke zijn actief?
-
-## 🏆 **Na Complete Ronde (Na VS beurt):**
-1. **Tel Victory Cities:**
-   - As: Berlijn, Parijs, Warschau, Tokio, Shanghai, Rome + veroverde
-   - Geallieerden: Washington, San Francisco, Honolulu, Manila, Londen, Calcutta, Sydney, Hong Kong, Ottawa, Moskou, Stalingrad, Leningrad + veroverde
-
-2. **Check Win Condition:**
-   - **15+ Victory Cities** = Overwinning!
-   - **Minder dan 15** = Spel gaat door
-
-3. **National Objectives Check:**
-   - Controleer welke landen bonus IPC's verdienen
-   - Update voor volgende ronde
-
-4. **Damaged Factories Status:**
-   - Welke fabrieken hebben schade?
-   - Hoeveel productie is verloren?
-
-## 🎯 **Victory Conditions Scenarios:**
-- **Standaard:** 15 Victory Cities
-- **Korter spel:** 13 Victory Cities  
-- **Langer spel:** 18 Victory Cities (Total War)
-- **Totale Overwinning:** Alle 18 Victory Cities
-
-**Dit complete scenario geeft je NU werkelijk ALLE kennis om Axis & Allies Anniversary te beheersen van beginner tot gevorderd niveau!**
-
-## Fase 1: Onderzoek & Ontwikkeling
-**Beslissing:** Geen onderzoek (focus op militaire operaties)
-
-## Fase 2: Eenheden Kopen  
-**Beschikbaar:** 21 IPC (van vorige beurt)
-**Aankopen:**
-- 2 Infanterie (6 IPC)
-- 1 Artillerie (4 IPC)  
-- 1 Transport (7 IPC)
-**Totaal:** 17 IPC gebruikt, 4 IPC over
+**Chinese territoria onder controle:** 3 (Hupeh, Lukwerp, Yunnan)
+**Nieuwe Chinese units:** 3÷2 = 1 Infanterie (afgerond naar beneden)
 
 ## Fase 3: Gevechtsverplaatsing
-### 🎯 Operatie: Amfibische Aanval op Wake Island
+### Pacifische Defensieve Maatregelen
 
-#### Complete Amfibische Operatie Setup:
-**Zeezone 56 → Zeezone 53 (Wake Island aanval)**
+#### Aanval 1: Hawaiian Islands eenheden → Wake Island
+**Amerikaanse eenheden:** 1 Jager + 1 Infanterie
+**Japanse verdediging:** 1 Infanterie
 
-**VS Aanvalsmacht:**
-- **Transport:** 2 Infanterie + 1 Artillerie (vanaf Hawaiiaanse Eilanden)
-- **Zee Escorte:** 1 beschadigd Slagschip, 1 Vliegdekschip + 1 Jager
-- **Luchtsteun:** 1 Bommenwerper (van West-VS)
-
-**Japanse Verdediging Wake Island:**
-- **Land:** 1 Infanterie
-- **Zee:** Geen vijandelijke schepen in zeezone
-
-### 🎓 **LEERREGEL: Amfibische Aanval Procedure**
-1. **Zee Gevecht** (indien vijandelijke schepen aanwezig)
-2. **Kust Bombardement** (Slagschepen/Kruisers als geen zee gevecht)  
-3. **Land Gevecht** (Transport eenheden + overland eenheden + luchtsteun)
+### 🎓 **LEERREGEL: VS Reactie op Pearl Harbor**
+Na Pearl Harbor moet VS prioriteit geven aan Pacifische defensie terwijl ze langzaam mobiliseert voor Europa. Dit is een moeilijke balanceeract.
 
 ## Fase 4: Gevecht Uitvoeren
 
-### Stap 1: Zee Gevecht
-**Geen vijandelijke schepen** - Ga naar Stap 2
+### Gevecht: Wake Island
+**Ronde 1 - Amerikaanse aanval:**
+- 1 Jager (aanval 3): **Dobbelsteen: 2** = 1 treffer
+- 1 Infanterie (aanval 1): **Dobbelsteen: 4** = 0 treffers
 
-### Stap 2: Kust Bombardement  
-**🎓 LEERREGEL: Bombardement Regels**
-- Alleen Slagschepen en Kruisers kunnen bombarderen
-- Alleen als GEEN zee gevecht plaatsvond  
-- Maximum 1 schip per land-eenheid die van transport komt
-- Bombardement hits gaan naar "casualty zone" - verdedigen nog wel, maar sterven na gevecht
-
-**Amerikaanse Bombardement:**
-- 1 Slagschip (beschadigd, bombardement waarde 4): **Dobbelsteen: 3** = 1 treffer
-
-**Japanse Verliezen:**
-- 1 Infanterie naar casualty zone (verdedigt nog wel deze ronde)
-
-### Stap 3: Land Gevecht - Wake Island
-**Amerikaanse aanval:**
-- 2 Infanterie (aanval 1 elk): **Dobbelstenen: 2,4** = 1 treffer  
-- 1 Artillerie (aanval 2): **Dobbelsteen: 1** = 1 treffer
-- 1 Bommenwerper (aanval 4): **Dobbelsteen: 3** = 1 treffer
-**Totaal Amerikaanse treffers:** 3
-
-**Japanse verdediging:**
-- 1 Infanterie uit casualty zone (verdediging 2): **Dobbelsteen: 5** = 0 treffers
+**Ronde 1 - Japanse verdediging:**
+- 1 Infanterie (verdediging 2): **Dobbelsteen: 3** = 0 treffers
 
 **Verliezen:**
-- Japan: 1 Infanterie (vernietigd - was al in casualty zone)
+- Japan: 1 Infanterie (vernietigd)
 
-**Resultaat:** VS verovert Wake Island
-
-### 🎓 **LEERREGEL: Amfibische Specialiteiten**
-- **Transport eenheden kunnen NIET terugtrekken** tijdens land gevecht
-- **Overland eenheden kunnen WEL terugtrekken** naar aangrenzend gebied  
-- **Luchtsteun kan terugtrekken** naar vriendelijk gebied
-- **Bombardement telt als gevecht** - schepen kunnen niet meer bewegen
+**Resultaat:** VS herovert Wake Island
 
 ## Fase 5: Niet-Gevecht Verplaatsing
-- Bommenwerper landt in West-VS
-- Vloot blijft in Zeezone 53
+- Versterkingen naar Pacifische bases
+- Vloot hergroepering na Pearl Harbor schade
 
-## Fase 6: Nieuwe Eenheden Plaatsen  
-**Plaatsing Oost-VS:**
-- 2 Infanterie, 1 Artillerie
-**Plaatsing Zeezone 10:**
-- 1 Transport
+## Fase 6: Nieuwe Eenheden Plaatsen
+**Plaatsing in Eastern United States:**
+- 2 Infanterie, 1 Artillerie, 1 Tank
+**Plaatsing in Western United States:**  
+- 2 Infanterie
+**Plaatsing in Sea Zone 10:**
+- 1 Destroyer
+**Chinese plaatsing:**
+- 1 Infanterie in Yunnan
 
 ## Fase 7: Inkomen Innen
-**VS Inkomen:** Oost-VS (6) + Midden-VS (2) + West-VS (6) + Wake Island (1) = **15 IPC**
-**War Bonds:** 1d6 = **2** = +2 IPC
-**Totaal:** 17 IPC
+**VS Basis Inkomen:** Eastern United States (6) + Central United States (2) + Western United States (6) + Alaska (1) + Midway (1) + Wake Island (1) + Hawaiian Islands (1) + Philippine Islands (3) = **21 IPC**
+**War Bonds dobbelworp:** 1d6 = **4** = +4 IPC bonus
+**Totaal VS inkomen:** 25 IPC
 
 ---
 
-# BEURT 8: ONDERZEEBOOT WARFARE (Duitsland)
+## Einde Ronde 1 - Victory Check
 
-## Fase 1: Onderzoek & Ontwikkeling
-**Doorbraak van vorige beurt:** Geen nieuwe investering
+### Overwinningssteden Status:
+- **As:** 6 (Berlin, Paris, Warsaw, Tokyo, Shanghai, Rome)  
+- **Geallieerden:** 12 (Washington, San Francisco, Honolulu, Manila, London, Calcutta, Sydney, Hong Kong, Ottawa, Moscow, Stalingrad, Leningrad)
 
-## Fase 2: Eenheden Kopen
-**Beschikbaar:** 29 IPC (van vorige beurt)  
-**Aankopen:**
-- 4 Onderzeeboten (24 IPC)
-- 1 Infanterie (3 IPC)
-**Totaal:** 27 IPC gebruikt, 2 IPC over
-
-## Fase 3: Gevechtsverplaatsing
-### 🎯 Wolfpack Aanval op Britse Scheepvaart
-
-#### Onderzeeboot Aanval: Zeezone 5 → Zeezone 2 (Noord-Atlantiek)
-**Duitse Onderzeeboten:** 4 Onderzeeboten (3 bestaande + 1 nieuwe)
-**Britse Verdediging:** 1 Slagschip, 1 Torpedobootjager, 1 Transport
-
-### 🎓 **LEERREGEL: Onderzeeboot Speciale Vermogens**
-1. **Surprise Strike** - Onderzeeboten vuren EERST, verliezen worden direct weggenomen
-2. **Submersible** - Kunnen onderduiken in plaats van aanvallen/verdedigen  
-3. **Stealth Movement** - Kunnen door vijandelijke zeezones zonder te stoppen (behalve als Torpedobootjager aanwezig)
-
-## Fase 4: Gevecht Uitvoeren
-
-### Zeegefecht: Noord-Atlantiek (Zeezone 2)
-
-**🎓 BELANGRIJKE REGEL: Torpedobootjager Effect**
-Omdat Britse Torpedobootjager aanwezig is, verliezen Duitse onderzeeboten hun speciale vermogens!
-
-**Ronde 1 - GEEN Surprise Strike (door Torpedobootjager)**
-
-**Duitse aanval:**
-- 4 Onderzeeboten (aanval 2 elk): **Dobbelstenen: 1,3,4,2** = 2 treffers
-
-**Britse verdediging:**
-- 1 Slagschip (verdediging 4): **Dobbelsteen: 2** = 1 treffer
-- 1 Torpedobootjager (verdediging 2): **Dobbelsteen: 1** = 1 treffer  
-- 1 Transport (verdediging 0): Kan niet vuren
-**Totaal Britse treffers:** 2
-
-**Verliezen:**
-- VK: 1 Torpedobootjager + beschadigd Slagschip
-- Duitsland: 2 Onderzeeboten
-
-**Ronde 2:**
-**Duitse aanval:**
-- 2 Onderzeeboten (aanval 2 elk): **Dobbelstenen: 2,1** = 2 treffers
-
-**Britse verdediging:**  
-- 1 beschadigd Slagschip (verdediging 4): **Dobbelsteen: 5** = 0 treffers
-- 1 Transport (verdediging 0): Kan niet vuren
-
-**Verliezen:**
-- VK: Slagschip vernietigd (2de treffer) + Transport vernietigd
-
-**Resultaat:** Duitse onderzeeboten overheersen Noord-Atlantiek
-
-### 🎓 **LEERREGEL: Torpedobootjager vs Onderzeeboten**
-- **Met Torpedobootjager:** Onderzeeboten verliezen alle speciale vermogens
-- **Zonder Torpedobootjager:** Onderzeeboten krijgen Surprise Strike en kunnen onderduiken
-- **Anti-Sub Warfare:** Cruciaal voor verdediging van scheepvaartroutes
+**Winconditie:** 15 Overwinningssteden nodig
+**Resultaat:** Spel gaat verder naar Ronde 2
 
 ---
 
-# STRATEGISCHE BOMBARDEMENT & FABRIEKSSCHADE
+## 🎓 **GEAVANCEERDE TACTIEKEN & LESSEN**
 
-## Beurt 9: VK Strategische Bombardement op Duitsland
+### **1. Economische Impact van Strategische Bombardement**
+Duitse bombardement van Russia fabriek toont waarom luchtmacht cruciaal is:
+- **5 schade** op fabriek = Sovjet productie van 6 naar 1 eenheid
+- **Reparatiekosten:** 25 IPC om volledig te repareren
+- **Strategisch effect:** Sovjet-Unie moet kiezen tussen eenheden of reparatie
 
-### Fase 3: Gevechtsverplaatsing  
-**Operatie:** Bommenwerper vanuit VK → Duitsland (fabrieksaanval)
+### **2. Pearl Harbor: Risico vs Beloning**
+Japan's aanval succesvol maar met gevolgen:
+- **Voordeel:** Amerikaanse zeemacht verzwakt
+- **Nadeel:** VS nu volledig in oorlog en gemobiliseerd
+- **Timing cruciaal:** Japan moet snel winnen voordat VS te sterk wordt
 
-### Fase 4: Gevecht Uitvoeren
+### **3. Multifront Oorlogvoering**
+Duitsland heeft successen maar verspreidt krachten:
+- **Ukraine:** Makkelijke overwinning maar met overkill
+- **Karelia S.S.R.:** Mislukte aanval met verlies eenheden
+- **Les:** Concentreer krachten op winbare gevechten
 
-#### Strategische Bombardement Procedure:
+### **4. Amfibische Operaties Complexiteit**
+Italiaanse aanval op Libya toont moeilijkheid:
+- **Bombardement:** Effectief voor casualties
+- **Transport kwetsbaarheid:** Eenheden kunnen niet terugtrekken
+- **Coördinatie vereist:** Zee + land + lucht samenwerking
 
-**Stap 1: Luchtafweergeschut Verdediging**
-Duitse LA-geschut in Duitsland vurt op VK Bommenwerper:
-- **LA-geschut (verdediging tegen vliegtuigen):** **Dobbelsteen: 2** = Mist (1 nodig voor treffer)
-
-**Stap 2: Bombardement Schade**  
-VK Bommenwerper overleeft LA-vuur en bombardeert fabriek:
-- **Bommenwerper schade roll:** **Dobbelsteen: 4** = 4 schade punten
-
-**🎓 LEERREGEL: Fabrieksschade Systeem**
-- Plaats 4 "Damaged Factory" markers onder Duitse fabriek
-- **Effect:** Duitsland kan nu slechts 6 eenheden produceren (10 - 4 = 6)
-- **Maximum schade:** 2x territoriale waarde (Duitsland = 10, dus max 20 schade)
-- **Reparatie:** 1 IPC per schade marker tijdens Eenheden Kopen fase
-
-### 🎓 **LEERREGEL: Economische Oorlogvoering**
-Strategische bombardement is cruciaal omdat:
-- **Reduceert vijandelijke productie** zonder gebied te veroveren
-- **Kosteneffectief** - 1 bommenwerper kan meer schade doen dan zijn kosten
-- **Dwingt reparatie-uitgaven** af in plaats van nieuwe eenheden
-
----
-
-# TANK BLITZKRIEG & GEAVANCEERDE BEWEGING
-
-## Beurt 10: Duitse Tank Blitzkrieg door Rusland
-
-### Fase 3: Gevechtsverplaatsing
-**Operatie:** Tank Blitzkrieg van Wit-Rusland → West-Rusland → Rusland
-
-#### 🎓 **LEERREGEL: Tank Blitzkrieg Regels**
-1. Tank kan door **onbezet vijandig gebied** als eerste deel van beweging
-2. **Plaatst controle marker** in eerste gebied voordat verder gaat  
-3. **Kan eindigen in vriendelijk OF vijandig gebied**
-4. **MOET stoppen** bij vijandelijke eenheden (zelfs LA-geschut/fabriek)
-
-**Duitse Blitzkrieg:**
-- **1 Tank** van Wit-Rusland → West-Rusland (onbezet) → aanval op Rusland
-
-**Beweging:**
-1. **Wit-Rusland → West-Rusland:** Onbezet - plaats Duitse marker, ga door
-2. **West-Rusland → Rusland:** Bevat Sovjet eenheden - stop en voer gevecht uit
-
-### Fase 4: Gevecht Uitvoeren
-
-**Gevecht: Rusland (Hoofdstad Aanval)**
-**Duitse aanval:**
-- 1 Tank (aanval 3): **Dobbelsteen: 2** = 1 treffer
-
-**Sovjet verdediging (8 Infanterie + 1 Artillerie):**
-- 8 Infanterie (verdediging 2 elk): **Dobbelstenen: 3,1,5,4,2,1,6,3** = 4 treffers
-- 1 Artillerie (verdediging 2): **Dobbelsteen: 4** = 0 treffers
-**Totaal:** 4 treffers
-
-**Verliezen:**
-- Sovjet: 1 Infanterie  
-- Duitsland: 1 Tank (vernietigd - overtroffen in aantal)
-
-**Resultaat:** Sovjet behoudt Rusland - Blitzkrieg mislukt
-
-### 🎓 **LEERREGEL: Hoofdstad Verdediging**
-- **Hoofdsteden** (Moskou, Berlijn, Londen, etc.) zijn zwaar verdedigd
-- **Verovering betekent:** Alle vijandelijke IPC's gestolen + geen inkomen voor verdediger
-- **Bevrijding:** Herstelt oorspronkelijke controle en IPC's
+### **5. Chinese Theater Bijzonderheden**
+- **Geen IPC inkomen** voor China
+- **Gratis eenheden** gebaseerd op territoria
+- **VS besturing** maar aparte resources
+- **Japanse expansie** moet Chinese weerstand breken
 
 ---
 
-# GEAVANCEERDE TACTIEKEN & SAMENVATTING
+## 📊 **EENHEDEN KOSTEN vs EFFECTIVITEIT GIDS**
 
-## 🎓 **BELANGRIJKE TACTISCHE LESSEN**
+### **Grond Eenheden:**
+| Eenheid | Kosten | Aanval | Verdediging | Beste Gebruik |
+|---------|--------|--------|-------------|---------------|
+| Infanterie | 3 IPC | 1 | 2 | **Goedkope verdediging** |
+| Artillerie | 4 IPC | 2 | 2 | **Infanterie ondersteuning** |
+| Tank | 5 IPC | 3 | 3 | **Snelle aanvallen** |
+| AA Gun | 6 IPC | - | 1 | **Luchtafweer** |
 
-### **1. Artillerie Ondersteuning**
-- **1 Artillerie + 1 Infanterie** = Infanterie krijgt aanval 2 (i.p.v. 1)
-- **Goedkoopste manier** om aanvalskracht te vergroten
-- **Verdediging:** Artillerie ondersteunt NIET bij verdediging
+### **💡 Tactische Tips:**
+- **3 Infanterie** (9 IPC) = 3 aanval, 6 verdediging
+- **2 Infanterie + 1 Artillerie** (10 IPC) = 4 aanval, 6 verdediging (betere aanval!)
+- **2 Tanks** (10 IPC) = 6 aanval, 6 verdediging (duurder maar sneller)
 
-### **2. Gecombineerde Aanvallen**  
-- **Land + Lucht + Zee** coördinatie is krachtigst
-- **Luchtsteun** kan zich terugtrekken als gevecht slecht gaat
-- **Multiple aanvalsroutes** maken verdediging moeilijker
+---
 
-### **3. Economische Prioriteiten**
-- **Fabrieken beschermen** is cruciaal voor productie
-- **Strategische bombardement** kan economie verlammen  
-- **Nationale Doelstellingen** geven significante bonus IPC's
+## ⚠️ **VEELGEMAAKTE FOUTEN VERMIJDEN**
 
-### **4. Vloot Operaties**
-- **Torpedobootjagers** zijn essentieel tegen onderzeeboten
-- **Vliegdekschepen** geven flexibiliteit maar zijn kwetsbaar
-- **Slagschepen** overleven langer door 2-treffer systeem
+### **🚫 FOUT 1: Overkill Aanvallen**
+**Probleem:** Te veel eenheden tegen zwakke verdediging
+**Voorbeeld:** Duitse aanval op Ukraine (16 eenheden vs 1 Infanterie)
+**Oplossing:** Verdeel krachten over meerdere doelen
 
-### **5. Chinese Theater**
-- **China speciale regels** - geen IPC maar gratis Infanterie
-- **Amerikaanse Flying Tigers** cruciaal voor Chinese verdediging
-- **Japanse uitbreiding** moet Chinese weerstand overwinnen
+### **🚫 FOUT 2: Fabrieken Niet Beschermen**
+**Probleem:** Belangrijke fabrieken kwetsbaar voor bombardement
+**Voorbeeld:** Russia fabriek verliest 80% productie door 1 bommenwerper
+**Oplossing:** AA Guns plaatsen + jagers voor verdediging
 
-## 🏆 **OVERWINNINGSSTEDEN STATUS - EINDE VOORBEELD**
+### **🚫 FOUT 3: Transport Zonder Escorte**
+**Probleem:** Transports zonder oorlogsschepen bescherming
+**Gevolg:** Makkelijke doelen voor vijandelijke aanvallen
+**Oplossing:** Altijd destroyers/cruisers bij transports
 
-**Huidige Controle:**
-- **As (7):** Berlijn, Parijs, Warschau, Tokio, Shanghai, Rome, Wake Island
-- **Geallieerden (11):** Washington, San Francisco, Honolulu, Manila, Londen, Calcutta, Sydney, Hong Kong, Ottawa, Moskou, Stalingrad, Leningrad
+### **🚫 FOUT 4: Inkomen Niet Maximaliseren**
+**Probleem:** Nationale Doelstellingen negeren
+**Gemist:** Duitsland zou +5 IPC kunnen krijgen met meer Oost-Europese controle
+**Oplossing:** Plan strategie rond bonus inkomen voorwaarden
 
-**Voor Overwinning Nodig:** 15 Overwinningssteden
-**Status:** Spel gaat door - geen winnaar nog
+---
 
-## 🎯 **COMPLETE SPELMECHANISMEN GELEERD**
+## 🎯 **STRATEGISCHE PRIORITEITEN PER FASE**
 
-✅ **Alle 7 Fases** van elke beurt  
-✅ **Onderzoek & Ontwikkeling** met technologie doorbraken  
-✅ **Strategische Bombardement** en fabrieksschade  
-✅ **Amfibische Operaties** met volledige procedure  
-✅ **Onderzeeboot Warfare** en speciale vermogens  
-✅ **Tank Blitzkrieg** en geavanceerde beweging  
-✅ **Artillerie Ondersteuning** voor Infanterie  
-✅ **Vliegdekschip & Jager** mechanics  
-✅ **Luchtafweergeschut** tegen vliegtuigen  
-✅ **Chinese Speciale Regels** en plaatsing  
-✅ **Nationale Doelstellingen** voor bonus inkomen  
-✅ **Hoofdstad Verovering** en gevolgen  
+### **Vroeg Spel (Beurt 1-3):**
+- **As:** Snelle territoriale winst, fabrieken aanvallen
+- **Geallieerden:** Verdedigen, economie beschermen, mobiliseren
+
+### **Midden Spel (Beurt 4-6):**
+- **As:** Momentum behouden, meerdere fronten
+- **Geallieerden:** Tegenaanvallen, amfibische operaties
+
+### **Laat Spel (Beurt 7+):**
+- **As:** Overwinningssteden veroveren
+- **Geallieerden:** Economische overmacht gebruiken
+
+---
+
+## 🏆 **COMPLETE SPELMECHANISMEN GELEERD**
+
+✅ **Alle 7 Fases** van elke beurt met echte voorbeelden  
+✅ **Onderzoek & Ontwikkeling** (Improved Shipyards, War Bonds)  
+✅ **Strategische Bombardement** met fabrieksschade  
+✅ **Amfibische Operaties** complete procedure  
+✅ **Pearl Harbor** historische scenario  
+✅ **Nationale Doelstellingen** bonus inkomen systeem  
+✅ **Chinese Speciale Regels** uniek plaatsing systeem  
 ✅ **Multinationale Samenwerking** tussen bondgenoten  
-✅ **Overwinningssteden** tracking en wincondities
+✅ **Economische Oorlogvoering** impact en prioriteiten  
+✅ **Tactische Besluitvorming** waarom bepaalde keuzes  
+✅ **Overwinningssteden** tracking en strategie  
+✅ **Fouten Vermijden** met praktische voorbeelden
 
-**Dit complete scenario geeft je alle kennis om Axis & Allies Anniversary te beheersen!**
+**Met deze complete, accurate Anniversary Edition leerervaring ben je klaar om elk Axis & Allies spel te domineren!** 🎖️
