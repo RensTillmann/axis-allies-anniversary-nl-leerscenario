@@ -1,0 +1,357 @@
+{
+  "chapter_1_june_22_23_1941": {
+    "📚_learning_summary": {
+      "difficulty": "⭐",
+      "what_you_will_learn": [
+        "Basic combat mechanics and dice rolling",
+        "Territory control and movement",
+        "Why leaving territories undefended is dangerous"
+      ],
+      "time_estimate": "30-45 minutes"
+    },
+    "title": "Blitzkrieg Lesson - Territorial Security",
+    "turns": [
+      {
+        "round": 1,
+        "turn": 1,
+        "player": "Germany", 
+        "phase": "round_1_turn_1_phase_3",
+        "phase_name": "Combat Move",
+        "date": "June 22, 1941 04:30",
+        "action": "German forces move from Poland to attack East Poland",
+        "historical_context": {
+          "scene": "In de Commandobunker - 22 Juni 1941, 04:30 uur",
+          "setting": "Hitler staart naar de kaart in zijn Oost-Pruisische hoofdkwartier. Operation Barbarossa, de grootste militaire operatie in de wereldgeschiedenis, begint over enkele uren. 3.8 miljoen soldaten, 3,350 tanks, 2,770 vliegtuigen - allemaal gericht op één doel: de vernietiging van de Sovjet-Unie.",
+          "characters": [
+            "Generaloberst Heinz Guderian",
+            "Adjudant",
+            "Field Marshal von Bock"
+          ],
+          "narrative": "Generaloberst Heinz Guderian staart naar de kaart van Oost-Polen terwijl zijn adjudant de laatste radio-berichten voorleest. De panzerdivisies staan klaar voor de doorbraak - 350 tanks, duizenden infanteristen, allemaal wachtend op zijn bevel.",
+          "dialogue": [
+            "Herr General, Field Marshal von Bock vraagt om maximale snelheid. Alle reserven moeten vooruit - geen eenheid mag achterblijven voor verdediging.",
+            "Alle Panzergruppen: Vorwärts! Maximum snelheid! Laat niets de opmars vertragen! Stalin verwacht ons niet - we moeten hem vernielen voordat hij kan reageren!",
+            "Alle eenheden - VOLLEDIG vooruit. We laten niets achter. De Sovjet staat zal instorten als een kaartenhuis."
+          ],
+          "strategic_thinking": "Guderian's private thoughts: Speed has always been my doctrine. In France, it brought us victory in six weeks. In Poland, we crushed resistance in days. Russia may be vast, but speed and superior technology will overcome numbers. It always has.",
+          "historical_lesson": "Wehrmacht doctrine test - speed vs security dilemma",
+          "hitler_quote": "Wir haben nur an die Tür zu treten, und das ganze verrottete Gebäude wird zusammenbrechen - We hoeven alleen maar tegen de deur te trappen en het hele rottende gebouw zal instorten."
+        },
+        "movement": {
+          "from_territory": "Poland",
+          "to_territory": "East Poland",
+          "units_moved": {
+            "infantry": 4,
+            "tanks": 2,
+            "artillery": 1,
+            "fighters": 1
+          },
+          "units_remaining_poland": 0,
+          "strategic_error": "Left Poland completely undefended - moved ALL units including fighter"
+        },
+        "territory_update_poland": {
+          "controller": "Germany",
+          "units": {
+            "infantry": 0,
+            "tanks": 0,
+            "artillery": 0,
+            "fighters": 0
+          },
+          "status": "Undefended - Critical Error"
+        }
+      },
+      {
+        "round": 1,
+        "turn": 1,
+        "player": "Germany",
+        "phase": "round_1_turn_1_phase_4", 
+        "phase_name": "Conduct Combat",
+        "date": "June 22, 1941 05:00",
+        "action": "Battle for East Poland",
+        "combat": {
+          "location": "East Poland",
+          "attackers": {
+            "infantry": 4,
+            "tanks": 2,
+            "artillery": 1,
+            "fighters": 1
+          },
+          "defenders": {
+            "infantry": 2
+          },
+          "artillery_support": "1 infantry gets attack value 2 instead of 1",
+          "dice_results": {
+            "german_attack": [
+              2,
+              1,
+              4,
+              3,
+              3,
+              5,
+              2,
+              3
+            ],
+            "attack_breakdown": "Inf(supported)=hit, Inf=hit, Inf=miss, Inf=miss, Tank=hit, Tank=miss, Art=hit, Fighter=hit",
+            "german_hits": 5,
+            "soviet_defense": [],
+            "soviet_hits": 0
+          },
+          "casualties": {
+            "soviet": {
+              "infantry": 2
+            },
+            "german": {
+              "infantry": 0,
+              "tanks": 0,
+              "artillery": 0,
+              "fighters": 0
+            }
+          },
+          "outcome": "Complete German victory - East Poland captured"
+        },
+        "territory_update_east_poland": {
+          "old_controller": "USSR",
+          "new_controller": "Germany",
+          "units": {
+            "infantry": 4,
+            "tanks": 2,
+            "artillery": 1,
+            "fighters": 1
+          }
+        },
+        "unit_count_changes": {
+          "USSR": {
+            "infantry": -2
+          },
+          "Germany": {
+            "no_losses": true
+          }
+        },
+        "ipc_changes": {
+          "Germany": {
+            "territory_gain": "+2 from East Poland",
+            "new_income": 33
+          },
+          "USSR": {
+            "territory_loss": "-2 from East Poland",
+            "new_income": 28
+          }
+        }
+      },
+      {
+        "round": 1,
+        "turn": 1,
+        "player": "Germany",
+        "phase": "round_1_turn_1_phase_7",
+        "phase_name": "Collect Income", 
+        "date": "June 22, 1941 18:00",
+        "action": "Germany collects income at end of turn",
+        "income_collection": {
+          "territories_controlled": [
+            "Starting territories",
+            "East Poland"
+          ],
+          "territorial_income": 33,
+          "calculation": "31 base + 2 East Poland",
+          "ipc_collected": 33,
+          "banked_total": 33,
+          "note": "Collects income based on territories controlled at end of turn"
+        }
+      },
+      {
+        "round": 1,
+        "turn": 2,
+        "player": "Soviet Union",
+        "phase": "round_1_turn_2_phase_3",
+        "phase_name": "Combat Move",
+        "date": "June 23, 1941 11:30", 
+        "action": "Soviet forces exploit undefended Poland",
+        "historical_context": {
+          "scene": "Kremlin War Room - 23 Juni 1941, 11:15 uur",
+          "setting": "Terwijl Army Group Center naar het oosten stormde, gebeurde er iets dat veel Wehrmacht commandanten niet hadden voorzien. In de haast om door te breken, was een cruciale militaire regel vergeten...",
+          "characters": [
+            "Maarschalk Georgy Zhukov",
+            "Stalin"
+          ],
+          "narrative": "Maarschalk Georgy Zhukov stormt de vergaderzaal binnen, zijn uniform nog stoffig van de frontlinie inspectie. Stalin kijkt op van de kaarten die de catastrofe in Oost-Polen tonen.",
+          "dialogue": [
+            "Wat is de situatie, Georgy Konstantinovich?",
+            "Tovarisch Stalin, de Duitse aanval was massaal - alle eenheden tegelijk. Maar onze scouts melden iets interessants...",
+            "Ze hebben ALLES naar voren gestuurd. Geen reserves, geen achterhoede. Polen ligt volledig open.",
+            "Betekent dit wat ik denk dat het betekent?",
+            "Onze 15e Regiment in Belorussia kan direct doorstoten. Als de Duitsers dachten dat snelheid belangrijker was dan beveiliging... laten we hen dat leren.",
+            "Немедленно! (Onmiddellijk!) Alle beschikbare troepen - verovert Polen terug. Laat hen leren dat de Rode Leger niet verslagen is!"
+          ],
+          "strategic_thinking": "Zhukov's strategic assessment: They move fast, these Germans. Too fast. They leave gaps, weaknesses. If we can survive their initial assault, if we can learn to use our numbers wisely... then patience will defeat speed.",
+          "historical_lesson": "Never leave territory undefended - exploitation of German strategic error",
+          "soviet_opportunity": "Germany commits entire force forward, leaving no reserves"
+        },
+        "movement": {
+          "from_territory": "Belorussia",
+          "to_territory": "Poland",
+          "units_moved": {
+            "infantry": 2
+          },
+          "strategic_opportunity": "No German defense present"
+        },
+        "territory_update_belorussia": {
+          "controller": "USSR",
+          "units": {
+            "infantry": 0
+          }
+        }
+      },
+      {
+        "round": 1,
+        "turn": 2,
+        "player": "Soviet Union",
+        "phase": "round_1_turn_2_phase_4",
+        "phase_name": "Conduct Combat",
+        "date": "June 23, 1941 11:45",
+        "action": "Automatic capture of Poland",
+        "combat": {
+          "location": "Poland",
+          "attackers": {
+            "infantry": 2
+          },
+          "defenders": 0,
+          "outcome": "Automatic Soviet victory - no German defense",
+          "result": "Poland recaptured by USSR"
+        },
+        "territory_update_poland": {
+          "old_controller": "Germany",
+          "new_controller": "USSR",
+          "units": {
+            "infantry": 2
+          }
+        },
+        "ipc_changes": {
+          "Germany": {
+            "territory_loss": "-2 from Poland",
+            "new_income": 31
+          },
+          "USSR": {
+            "territory_gain": "+2 from Poland",
+            "new_income": 30
+          }
+        }
+      },
+      {
+        "round": 1,
+        "turn": 2,
+        "player": "Soviet Union",
+        "phase": "round_1_turn_2_phase_7",
+        "phase_name": "Collect Income",
+        "date": "June 23, 1941 20:00",
+        "action": "USSR collects income at end of turn",
+        "income_collection": {
+          "territories_controlled": [
+            "Starting territories",
+            "Poland",
+            "lost East Poland"
+          ],
+          "territorial_income": 30,
+          "calculation": "30 base - 2 East Poland + 2 Poland = 30",
+          "ipc_collected": 30,
+          "banked_total": 30,
+          "note": "Net 0 change from starting income"
+        }
+      }
+    ],
+    "chapter_1_end_state": {
+      "victory_cities": {
+        "axis_controlled": [
+          "Berlin",
+          "Rome",
+          "Tokyo",
+          "Paris",
+          "Warsaw",
+          "Shanghai"
+        ],
+        "allied_controlled": [
+          "Moscow",
+          "London",
+          "Washington",
+          "Leningrad",
+          "Stalingrad",
+          "Calcutta",
+          "Sydney",
+          "San Francisco",
+          "Honolulu",
+          "Hong Kong",
+          "Ottawa",
+          "Manila"
+        ],
+        "axis_count": 6,
+        "allies_count": 12,
+        "changes": "No victory city changes"
+      },
+      "ipc_status": {
+        "Germany": {
+          "territorial_income": 31,
+          "ipc_banked": 33,
+          "net_change": "+2",
+          "calculation": "Lost Poland but gained East Poland, collected 33 IPC"
+        },
+        "USSR": {
+          "territorial_income": 30,
+          "ipc_banked": 30,
+          "net_change": 0,
+          "calculation": "Lost East Poland but gained Poland, collected 30 IPC"
+        },
+        "Japan": {
+          "income": 17,
+          "net_change": 0
+        },
+        "UK": {
+          "income": 43,
+          "net_change": 0
+        },
+        "Italy": {
+          "income": 10,
+          "net_change": 0
+        },
+        "USA": {
+          "income": 40,
+          "net_change": 0
+        }
+      },
+      "unit_count_changes": {
+        "Germany": {
+          "infantry": 0,
+          "tanks": 0,
+          "artillery": 0,
+          "total_losses": 0
+        },
+        "USSR": {
+          "infantry": -2,
+          "total_losses": 2
+        }
+      },
+      "territory_control": {
+        "East Poland": {
+          "controller": "Germany",
+          "units": {
+            "infantry": 4,
+            "tanks": 2,
+            "artillery": 1,
+            "fighters": 1
+          }
+        },
+        "Poland": {
+          "controller": "USSR",
+          "units": {
+            "infantry": 2
+          }
+        },
+        "Belorussia": {
+          "controller": "USSR",
+          "units": {
+            "infantry": 0
+          }
+        }
+      },
+      "strategic_lesson": "Never leave territory undefended - 0 net IPC gain despite 'successful' attack"
+    }
+  }
+}

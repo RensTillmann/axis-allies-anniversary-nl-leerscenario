@@ -1,0 +1,471 @@
+{
+  "chapter_4_december_7_1941": {
+    "📚_learning_summary": {
+      "difficulty": "⭐⭐⭐",
+      "what_you_will_learn": [
+        "Naval warfare and carrier operations",
+        "NATIONAL OBJECTIVES for bonus income",
+        "Dangers of overconfidence after victory"
+      ],
+      "time_estimate": "60 minutes"
+    },
+    "title": "Pearl Harbor - Naval Overconfidence",
+    "turns": [
+      {
+        "round": 4,
+        "turn": 3,
+        "player": "Japan",
+        "phase": "round_4_turn_3_phase_3",
+        "phase_name": "Combat Move",
+        "date": "December 7, 1941 06:00",
+        "action": "Japanese fleet moves to attack Pearl Harbor",
+        "historical_context": {
+          "scene": "Imperial Navy Headquarters, Tokyo - 6 December 1941",
+          "setting": "Admiral Yamamoto staat voor de grootste gamble van zijn carrière. Na 2 jaar oorlog voelt Japan zich onoverwinnelijk. Chinese weerstand gebroken, Franse Indochina veroverd, Thailand gekapituleerd.",
+          "characters": [
+            "Admiral Yamamoto",
+            "Imperial Navy staff"
+          ],
+          "narrative": "De Datum Die Zal Leven in Schande - President Roosevelt's woorden zullen de geschiedenis ingaan, maar op dit moment denkt Japan alleen aan totale overwinning.",
+          "strategic_belief": "Watashi-tachi no kōkūbokan wa sekai de mottomo tsuyoi - Our carriers are the strongest in the world",
+          "the_plan": "Vernietig de Amerikaanse vloot in één slag, dan kan Japan de hele Pacific beheersen",
+          "dangerous_conviction": "Vroege overwinningen kweken overmoedigheid...",
+          "operation_z": "Ichigeki Hissatsu - Destroy in One Blow",
+          "tactical_advantage": "11 vs 1 unit advantage - overwhelming Japanese naval superiority",
+          "perfect_execution": "Total surprise achieved, Pacific dominance established",
+          "fatal_conclusion": "Kijk hoe makkelijk! Onze zeemacht doctrine is ongenaakbaar. Met deze strategie kunnen we overal aanvallen en winnen!",
+          "historical_lesson": "Overwhelming victory breeds dangerous overconfidence and expansion syndrome"
+        },
+        "force_verification": {
+          "japanese_pacific_fleet": {
+            "carriers": 3,
+            "fighters": 6,
+            "battleship": 1,
+            "cruiser": 1,
+            "total_units": 11,
+            "attacking_units": 8,
+            "note": "Carriers have attack value 0, don't roll dice"
+          },
+          "american_pearl_harbor": {
+            "battleship": 1,
+            "total_defenders": 1
+          }
+        },
+        "combat": {
+          "location": "Pearl Harbor (Sea Zone 53)",
+          "attackers": {
+            "carriers": 3,
+            "fighters": 6,
+            "battleship": 1,
+            "cruiser": 1
+          },
+          "defenders": {
+            "battleship": 1
+          },
+          "combat_resolution": {
+            "japanese_attack_dice": [
+              2,
+              1,
+              4,
+              3,
+              2,
+              5,
+              4,
+              3
+            ],
+            "attack_breakdown": "Fighter=hit, Fighter=hit, Fighter=miss, Fighter=hit, Fighter=hit, Fighter=miss, Battleship=hit, Cruiser=hit",
+            "japanese_hits": 6,
+            "american_defense": [
+              2
+            ],
+            "defense_breakdown": "Battleship=hit",
+            "american_hits": 1
+          },
+          "casualties": {
+            "american": {
+              "battleship": 1
+            },
+            "japanese": {
+              "fighters": 1
+            }
+          },
+          "outcome": "Overwhelming Japanese victory - Pacific naval dominance established"
+        },
+        "unit_count_changes": {
+          "Japan": {
+            "fighters": -1
+          },
+          "USA": {
+            "battleship": -1
+          }
+        }
+      },
+      {
+        "round": 4,
+        "turn": 3,
+        "player": "Japan",
+        "phase": "round_4_turn_3_phase_4",
+        "phase_name": "Conduct Combat",
+        "date": "December 7, 1941 07:30",
+        "action": "Naval battle at Pearl Harbor",
+        "combat_results": "1 US battleship sunk, 1 Japanese fighter lost"
+      },
+      {
+        "round": 4,
+        "turn": 3,
+        "player": "Japan",
+        "phase": "round_4_turn_3_phase_4",
+        "phase_name": "Conduct Combat - Manila",
+        "date": "December 7-25, 1941",
+        "action": "Manila capture operation",
+        "manila_operation": {
+          "location": "Philippines",
+          "japanese_force": {
+            "infantry": 3,
+            "cruiser": 1,
+            "transport": 1
+          },
+          "american_defenders": {
+            "infantry": 1
+          },
+          "outcome": "Japanese capture Manila",
+          "victory_city_change": {
+            "manila": {
+              "old_controller": "USA",
+              "new_controller": "Japan",
+              "victory_city_impact": "Axis +1, Allies -1"
+            }
+          }
+        },
+        "unit_count_changes": {
+          "USA": {
+            "infantry": -1
+          },
+          "Japan": {
+            "infantry": 0,
+            "note": "Forces committed to garrison"
+          }
+        }
+      },
+      {
+        "round": 4,
+        "turn": 3,
+        "player": "Japan",
+        "phase": "round_4_turn_3_phase_7",
+        "phase_name": "Collect Income",
+        "date": "December 25, 1941",
+        "action": "Japan collects income with National Objectives introduction",
+        "historical_context": {
+          "scene": "Imperial Palace, Tokyo - December 25, 1941",
+          "setting": "Emperor Hirohito receives reports of Japan's stunning victories. The Greater East Asia Co-Prosperity Sphere seems within reach.",
+          "characters": [
+            "Emperor Hirohito",
+            "Prime Minister Tojo",
+            "Admiral Yamamoto"
+          ],
+          "narrative": "With Pearl Harbor destroyed and Manila captured, Japan's strategic vision for Asia becomes reality. But each nation has its own historical goals that drive their war effort.",
+          "dialogue": [
+            "Your Majesty, we have achieved our first great objective. The Americans are crippled, Manila is ours.",
+            "Excellent. The Co-Prosperity Sphere grows. Each territory we liberate brings us closer to our destiny.",
+            "Your Majesty, controlling key territories brings more than just their base income. Our people rally when we achieve historic goals.",
+            "Indeed. When we control Manchuria, Kiangsu, and French Indo-China together, our industry produces an extra 5 IPC from national pride and efficiency."
+          ],
+          "strategic_thinking": "National Objectives represent historical goals that motivated each nation. Achieving them provides bonus income beyond territorial value.",
+          "historical_lesson": "WWII was driven by competing national visions - understanding these objectives explains strategic decisions"
+        },
+        "🎓_national_objectives_introduction": {
+          "rule_explanation": "National Objectives are OPTIONAL rules that add historical flavor and strategic depth. Each nation has specific territorial goals that provide +5 IPC bonus income when achieved.",
+          "key_mechanics": [
+            "Checked during Collect Income phase",
+            "Bonus income added to regular territorial income",
+            "Must control ALL listed territories at END of turn",
+            "Can achieve multiple objectives for multiple bonuses",
+            "Lost immediately if any required territory is lost"
+          ],
+          "strategic_impact": "Changes game from pure conquest to achieving historical goals. Players must balance expansion with protecting objective territories."
+        },
+        "japanese_objectives_check": {
+          "objective_1": {
+            "name": "Greater East Asia Co-Prosperity Sphere - Core",
+            "requirement": "Control Manchuria, Kiangsu, French Indo-China/Thailand",
+            "territories_controlled": {
+              "Manchuria": "✓ Japan controls",
+              "Kiangsu": "✓ Japan controls",
+              "French_Indo_China": "✓ Japan controls"
+            },
+            "status": "ACHIEVED! +5 IPC bonus",
+            "🎓_historical_note": "These territories formed Japan's vision of Asian dominance under Japanese leadership"
+          },
+          "objective_2": {
+            "name": "Pacific Resource Sphere",
+            "requirement": "Control 4+ of: Kwangtung, East Indies, Borneo, Philippines, New Guinea, Solomon Islands",
+            "territories_controlled": {
+              "Kwangtung": "✓ Japan controls",
+              "East_Indies": "✓ Japan controls",
+              "Borneo": "✓ Japan controls",
+              "Philippines": "✓ Japan controls (just captured!)",
+              "New_Guinea": "✗ Not controlled",
+              "Solomon_Islands": "✗ Not controlled"
+            },
+            "count": "4 of 6 required",
+            "status": "ACHIEVED! +5 IPC bonus",
+            "🎓_historical_note": "Japan needed oil, rubber, and resources from these territories to fuel their war machine"
+          },
+          "objective_3": {
+            "name": "Strike at Western Powers",
+            "requirement": "Control 1+ of: Hawaiian Islands, Australia, India",
+            "territories_controlled": {
+              "Hawaiian_Islands": "✗ Not controlled",
+              "Australia": "✗ Not controlled",
+              "India": "✗ Not controlled"
+            },
+            "status": "Not achieved - 0 IPC bonus",
+            "🎓_future_target": "Japan must decide: consolidate current gains or risk overextension for this objective?"
+          }
+        },
+        "american_objectives_check": {
+          "objective_1": {
+            "name": "Arsenal of Democracy - Homeland",
+            "requirement": "Allied control of Western US, Central US, Eastern US",
+            "status": "ACHIEVED! +5 IPC (all US territories secure)",
+            "🎓_note": "As long as US homeland is secure, American industry operates at peak efficiency"
+          },
+          "objective_2": {
+            "name": "Pacific Bastion - Philippines",
+            "requirement": "Allied control of Philippine Islands",
+            "status": "LOST! Japan just captured Manila. 0 IPC bonus",
+            "impact": "USA loses potential +5 IPC bonus",
+            "🎓_strategic_consequence": "Losing Philippines costs USA both territorial income AND objective bonus"
+          }
+        },
+        "income_collection": {
+          "territories_controlled": [
+            "Starting Pacific territories",
+            "Manila"
+          ],
+          "territorial_income": 19,
+          "calculation": "17 base + 2 Manila captured",
+          "national_objectives": [
+            "+5 IPC (Co-Prosperity Sphere Core)",
+            "+5 IPC (Pacific Resources)"
+          ],
+          "total_objectives_bonus": 10,
+          "ipc_collected": 29,
+          "banked_total": 46,
+          "note": "17 previous + 29 collected = 46 total"
+        },
+        "income_calculations_with_objectives": {
+          "Japan": {
+            "base_territorial_income": 19,
+            "calculation": "17 starting + 2 Philippines",
+            "national_objectives": [
+              "+5 IPC (Co-Prosperity Sphere Core)",
+              "+5 IPC (Pacific Resources)"
+            ],
+            "total_objectives_bonus": 10,
+            "total_income_this_turn": 29,
+            "🎓_dramatic_increase": "National Objectives increase income by 53%!"
+          },
+          "USA": {
+            "base_territorial_income": 38,
+            "calculation": "40 starting - 2 Philippines",
+            "national_objectives": [
+              "+5 IPC (Arsenal of Democracy)",
+              "+0 IPC (Lost Philippines objective)"
+            ],
+            "total_objectives_bonus": 5,
+            "total_income_this_turn": 43,
+            "🎓_strategic_impact": "Despite losing territory, objectives partially offset the loss"
+          }
+        },
+        "other_nations_preview": {
+          "Germany": {
+            "lebensraum": "Control European territories for bonuses",
+            "preview": "Can achieve up to +15 IPC from three objectives"
+          },
+          "USSR": {
+            "patriotic_war": "Defend motherland and liberate neighbors",
+            "preview": "Bonuses for controlling border states"
+          },
+          "UK": {
+            "empire": "Maintain global empire and beat back Axis",
+            "preview": "Bonuses for holding empire together"
+          },
+          "Italy": {
+            "mare_nostrum": "Control Mediterranean as 'Roman lake'",
+            "preview": "Bonus requires naval supremacy"
+          }
+        },
+        "strategic_lessons": {
+          "income_multiplication": "National Objectives can increase income by 25-50%",
+          "historical_accuracy": "Objectives reflect actual WWII strategic goals",
+          "strategic_choices": "Players must balance conquest with protecting objective territories",
+          "🎓_key_decision": "Is it worth overextending to capture objective territories?"
+        }
+      },
+      {
+        "round": 4,
+        "turn": 6,
+        "player": "United States",
+        "phase": "round_4_turn_6_phase_2",
+        "phase_name": "Purchase Units",
+        "date": "December 1941",
+        "action": "Emergency mobilization",
+        "american_purchases": {
+          "infantry": {
+            "quantity": 6,
+            "unit_cost": 3,
+            "total_cost": 18
+          },
+          "transports": {
+            "quantity": 2,
+            "unit_cost": 7,
+            "total_cost": 14
+          },
+          "destroyers": {
+            "quantity": 1,
+            "unit_cost": 8,
+            "total_cost": 8
+          },
+          "total_spent": 40
+        },
+        "unit_count_changes": {
+          "USA": {
+            "infantry": 6,
+            "transports": 2,
+            "destroyers": 1
+          }
+        }
+      },
+      {
+        "round": 4,
+        "turn": 6,
+        "player": "United States",
+        "phase": "round_4_turn_6_phase_3",
+        "phase_name": "Combat Move",
+        "date": "December 1941",
+        "action": "Wake Island counter-attack",
+        "wake_island_operation": {
+          "result": "US recaptures Wake Island with carrier task force",
+          "strategic_impact": "Limited response to massive Japanese advantage"
+        }
+      },
+      {
+        "round": 4,
+        "turn": 6,
+        "player": "United States",
+        "phase": "round_4_turn_6_phase_7",
+        "phase_name": "Collect Income",
+        "date": "December 1941",
+        "action": "United States collects income at end of their turn",
+        "income_collection": {
+          "territories_controlled": [
+            "Starting territories minus Manila"
+          ],
+          "territorial_income": 38,
+          "calculation": "40 base - 2 Manila lost",
+          "national_objectives": [
+            "+5 IPC (Arsenal of Democracy)",
+            "+0 IPC (Lost Philippines objective)"
+          ],
+          "total_objectives_bonus": 5,
+          "ipc_collected": 43,
+          "banked_total": 3,
+          "note": "0 previous + 43 collected - 40 spent = 3 banked"
+        },
+        "🎓_rule_explanation": "Each nation collects income only during their own turn as Phase 7. United States collects income now because this is the end of their turn sequence."
+      }
+    ],
+    "chapter_4_end_state": {
+      "victory_cities": {
+        "axis_controlled": [
+          "Berlin",
+          "Rome",
+          "Tokyo",
+          "Paris",
+          "Warsaw",
+          "Shanghai",
+          "Manila"
+        ],
+        "allied_controlled": [
+          "Moscow",
+          "London",
+          "Washington",
+          "Leningrad",
+          "Stalingrad",
+          "Calcutta",
+          "Sydney",
+          "San Francisco",
+          "Honolulu",
+          "Hong Kong",
+          "Ottawa"
+        ],
+        "axis_count": 7,
+        "allies_count": 11,
+        "changes": "Manila captured by Japan (+1 Axis, -1 Allies)"
+      },
+      "ipc_status": {
+        "Germany": {
+          "income": 33,
+          "banked": 87
+        },
+        "USSR": {
+          "income": 28,
+          "banked": 80
+        },
+        "Japan": {
+          "income": 19,
+          "banked": 46,
+          "gain": "+2 from Manila, +10 from National Objectives"
+        },
+        "UK": {
+          "income": 43,
+          "banked": 86,
+          "constraint": "4 IPC production max"
+        },
+        "Italy": {
+          "income": 10,
+          "banked": 20
+        },
+        "USA": {
+          "income": 38,
+          "banked": 3,
+          "loss": "-2 from Manila",
+          "spent": 40,
+          "national_objectives": "+5 from Arsenal of Democracy"
+        }
+      },
+      "unit_count_totals": {
+        "Japan": {
+          "infantry": 20,
+          "fighters": 7,
+          "bombers": 2,
+          "carriers": 3,
+          "battleships": 3,
+          "cruisers": 3,
+          "changes_this_chapter": {
+            "fighters": -1
+          }
+        },
+        "USA": {
+          "infantry": 17,
+          "destroyers": 4,
+          "transports": 4,
+          "battleships": 3,
+          "changes_this_chapter": {
+            "infantry": 5,
+            "transports": 2,
+            "destroyers": 1,
+            "battleships": -1
+          }
+        }
+      },
+      "strategic_consequences": {
+        "japanese_confidence": "Peak overconfidence syndrome - believes carrier doctrine makes them invincible",
+        "expansion_syndrome": "Planning simultaneous attacks on Australia, India, AND Philippines",
+        "fatal_delusion": "If Pearl Harbor was so easy, why not attack everywhere simultaneously?",
+        "pacific_balance": "Japanese overwhelming naval superiority established"
+      }
+    }
+  }
+}

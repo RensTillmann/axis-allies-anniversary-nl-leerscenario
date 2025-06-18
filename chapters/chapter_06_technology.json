@@ -1,0 +1,511 @@
+{
+  "chapter_6_summer_1942": {
+    "📚_learning_summary": {
+      "difficulty": "⭐⭐⭐⭐",
+      "what_you_will_learn": [
+        "RESEARCH & DEVELOPMENT system",
+        "Multiple technology breakthroughs",
+        "Technology as strategic game-changer"
+      ],
+      "time_estimate": "60 minutes",
+      "new_rules_learned": [
+        {
+          "rule": "Factory Repair Mechanics",
+          "cost": "1 IPC per damage marker",
+          "timing": "Purchase Phase",
+          "strategic_value": "Restores production capacity",
+          "common_mistake": "Players often forget this option exists"
+        }
+      ],
+      "strategic_lessons": [
+        {
+          "lesson": "Infrastructure Investment vs Immediate Production",
+          "principle": "Sometimes investing in capacity is better than buying units",
+          "application": "UK repair cost (4 IPC) pays for itself in one turn of increased production",
+          "🎓_key_insight": "Long-term thinking often beats short-term unit accumulation"
+        }
+      ]
+    },
+    "title": "Technology Race - Scientific Warfare",
+    "turns": [
+      {
+        "round": 6,
+        "turn": 1,
+        "player": "Germany",
+        "phase": "round_6_turn_1_phase_1",
+        "phase_name": "Research & Development",
+        "date": "June 1942",
+        "action": "Technology race begins",
+        "german_rd_investment": {
+          "investment": 15,
+          "tokens": 3,
+          "dice_rolls": [
+            4,
+            6,
+            2
+          ],
+          "breakthroughs": 1,
+          "technology_chart_roll": 4,
+          "result": "Super Submarines",
+          "effect": "All German submarines get Attack 3, Defense 2 (enhanced from Attack 2, Defense 1)",
+          "activation": "Beginning of next German turn"
+        },
+        "allied_rd_investments": {
+          "usa": {
+            "investment": 10,
+            "tokens": 2,
+            "dice_rolls": [
+              3,
+              6
+            ],
+            "breakthroughs": 1,
+            "technology_chart_roll": 2,
+            "result": "Radar",
+            "effect": "All Allied AA Guns hit on 1-2 instead of 1 only",
+            "activation": "Beginning of next Allied turn"
+          },
+          "uk": {
+            "investment": 10,
+            "tokens": 2,
+            "dice_rolls": [
+              5,
+              1
+            ],
+            "breakthroughs": 0
+          },
+          "ussr": {
+            "investment": 5,
+            "tokens": 1,
+            "dice_rolls": [
+              2
+            ],
+            "breakthroughs": 0
+          }
+        },
+        "ipc_changes": {
+          "Germany": {
+            "spent_on_rd": 15,
+            "remaining": 43
+          },
+          "USA": {
+            "spent_on_rd": 10,
+            "remaining": 28
+          },
+          "UK": {
+            "spent_on_rd": 10,
+            "remaining": 31
+          },
+          "USSR": {
+            "spent_on_rd": 5,
+            "remaining": 47
+          }
+        }
+      },
+      {
+        "round": 6,
+        "turn": 4,
+        "player": "United Kingdom",
+        "phase": "round_6_turn_4_phase_2",
+        "phase_name": "Purchase Units",
+        "date": "March 1942",
+        "action": "UK Industrial Complex Repair - Strategic Infrastructure Investment",
+        "historical_context": {
+          "scene": "War Cabinet Rooms, Whitehall - March 1942",
+          "setting": "Minister of Production Lord Beaverbrook presents his industrial report to Churchill. Despite the war's pressures, Britain's treasury has accumulated substantial reserves.",
+          "characters": [
+            "Winston Churchill (Prime Minister)",
+            "Lord Beaverbrook (Minister of Production)",
+            "Sir Kingsley Wood (Chancellor of the Exchequer)",
+            "General Sir Alan Brooke (CIGS)"
+          ],
+          "narrative": "With 127 IPC in the treasury and American Lend-Lease beginning to flow, Britain can finally address the industrial damage from German strategic bombing.",
+          "dialogue": [
+            "Lord Beaverbrook, our factories have been running at half capacity since December. What's our repair status?",
+            "Prime Minister, we have 4 damage markers reducing our production from 8 to 4 units. Repair cost: 4 IPC total.",
+            "Sir Kingsley, we have 127 IPC banked. Can we afford both repairs and immediate production?",
+            "Absolutely, PM. 4 IPC for repairs leaves us 123 IPC for a massive production surge.",
+            "Excellent! Repair all damage immediately. Britain's industrial might must be fully restored!"
+          ],
+          "strategic_thinking": "Factory repairs are often overlooked but provide immediate doubling of production capacity",
+          "historical_lesson": "Industrial infrastructure is the foundation of military capability"
+        },
+        "🎓_repair_mechanics_tutorial": {
+          "rule_explanation": "FACTORY REPAIR is an often-overlooked strategic option. During the Purchase Phase, players can spend 1 IPC per damage marker to restore factory capacity.",
+          "key_mechanics": [
+            "Repair cost: 1 IPC per damage marker",
+            "Timing: Can be done during Purchase Phase",
+            "Immediate effect: Production capacity restored same turn",
+            "Strategic value: Often better ROI than buying new units",
+            "Common oversight: Players forget this option exists"
+          ],
+          "cost_benefit_analysis": {
+            "repair_cost": 4,
+            "capacity_restored": 4,
+            "break_even": "Pays for itself if you produce 1+ extra unit",
+            "long_term_value": "Doubles production capacity for remainder of game"
+          },
+          "strategic_timing": "Best done when you have surplus IPC and plan extended production"
+        },
+        "factory_repair_action": {
+          "target": "UK Industrial Complex (London)",
+          "current_status": {
+            "base_capacity": 8,
+            "damage_markers": 4,
+            "effective_capacity": 4
+          },
+          "repair_decision": {
+            "damage_markers_repaired": 4,
+            "repair_cost_per_marker": 1,
+            "total_repair_cost": 4,
+            "immediate_benefit": "Production capacity restored from 4 to 8 units"
+          },
+          "post_repair_status": {
+            "base_capacity": 8,
+            "damage_markers": 0,
+            "effective_capacity": 8,
+            "production_increase": "+4 units per turn"
+          }
+        },
+        "ipc_transaction": {
+          "uk_treasury_before": 127,
+          "repair_cost": 4,
+          "uk_treasury_after": 123,
+          "note": "Still massive surplus available for unit production"
+        },
+        "strategic_impact": {
+          "immediate": "UK can now produce 8 units per turn instead of 4",
+          "long_term": "Effectively doubles UK military production for rest of campaign",
+          "opportunity_cost": "4 IPC could have bought 1 infantry + 1 IPC saved",
+          "strategic_value": "Repair gives permanent capacity increase vs one-time unit purchase",
+          "🎓_lesson": "Infrastructure investment often provides better long-term value than immediate unit purchases"
+        },
+        "production_planning": {
+          "previous_constraint": "Limited to 4 units per turn due to damage",
+          "new_capacity": "Full 8-unit production restored",
+          "recommended_next_purchase": "Immediately utilize restored capacity with large unit order",
+          "strategic_advice": "With 123 IPC remaining, UK can afford massive production surge"
+        },
+        "massive_production_surge": {
+          "strategic_decision": "With factories repaired and 123 IPC available, UK commits to massive military buildup",
+          "purchase_breakdown": {
+            "infantry": {
+              "quantity": 8,
+              "cost": 24,
+              "rationale": "Maximum factory output to rebuild army"
+            },
+            "destroyers": {
+              "quantity": 6,
+              "cost": 48,
+              "rationale": "Counter German submarine threat"
+            },
+            "fighters": {
+              "quantity": 4,
+              "cost": 40,
+              "rationale": "Air defense and escort missions"
+            }
+          },
+          "total_spending": 112,
+          "treasury_calculation": "123 available - 112 spent = 11 IPC remaining",
+          "strategic_impact": "Largest UK production turn of the war - full industrial mobilization"
+        }
+      },
+      {
+        "round": 6,
+        "turn": 1,
+        "player": "Germany",
+        "phase": "round_6_turn_1_phase_2",
+        "phase_name": "Purchase Units",
+        "date": "June 1942",
+        "action": "Immediate submarine production after technology breakthrough",
+        "submarine_purchase": {
+          "submarines": {
+            "quantity": 3,
+            "unit_cost": 6,
+            "total_cost": 18
+          },
+          "placement": "Baltic Sea (Sea Zone 5)",
+          "strategic_intent": "Deploy to Atlantic convoy routes next turn with enhanced capabilities"
+        },
+        "unit_count_changes": {
+          "Germany": {
+            "submarines": 3
+          }
+        },
+        "ipc_update": {
+          "Germany": {
+            "available": 43,
+            "spent": 18,
+            "remaining": 25
+          }
+        }
+      },
+      {
+        "round": 6,
+        "turn": 6,
+        "player": "United States",
+        "phase": "round_6_turn_6_phase_1",
+        "phase_name": "Research & Development",
+        "date": "July 1942",
+        "action": "Arms race intensifies - Multiple nations achieve breakthroughs",
+        "historical_context": {
+          "scene": "Allied Scientific Conference, Los Alamos - July 1942",
+          "setting": "Top scientists from USA and UK meet to coordinate research efforts. Meanwhile, German and Japanese labs push for their own breakthroughs.",
+          "characters": [
+            "Dr. Robert Oppenheimer",
+            "British Scientific Liaison",
+            "General Leslie Groves"
+          ],
+          "narrative": "The war has become as much about technology as territory. Each breakthrough can shift the balance of power.",
+          "dialogue": [
+            "Gentlemen, the Germans have developed enhanced submarines. Our convoy losses are mounting.",
+            "Our radar technology helps, but we need more. Heavy bombers could devastate their industry.",
+            "And jet fighters would give us air superiority. Every nation is racing for the next breakthrough.",
+            "This is total war - fought in laboratories as much as battlefields."
+          ],
+          "strategic_thinking": "Technology provides asymmetric advantages that can overcome numerical disadvantages",
+          "historical_lesson": "WWII accelerated technological development - radar, jets, rockets all emerged from this crucible"
+        },
+        "🎓_expanded_technology_tree": {
+          "rule_reminder": "Each nation can develop different technologies. Some complement each other (Heavy Bombers + Long Range Aircraft), others counter enemy tech (Radar vs Strategic Bombing).",
+          "strategic_choices": "Do you invest heavily in R&D or buy more units? Do you pursue offensive or defensive technologies?"
+        },
+        "additional_rd_investments": {
+          "uk_second_attempt": {
+            "narrative": "Churchill demands breakthrough after German submarine success",
+            "investment": 15,
+            "tokens": 3,
+            "dice_rolls": [
+              5,
+              6,
+              6
+            ],
+            "breakthroughs": 2,
+            "first_technology": {
+              "chart_choice": 2,
+              "roll": 6,
+              "result": "Heavy Bombers",
+              "effect": "Bombers roll 2 dice in combat AND strategic bombing",
+              "🎓_synergy": "Combines perfectly with strategic bombing campaigns"
+            },
+            "second_technology": {
+              "chart_choice": 2,
+              "roll": 5,
+              "result": "Long-Range Aircraft",
+              "effect": "Fighters: range 6, Bombers: range 8",
+              "🎓_strategic_impact": "UK bombers can now reach deep into Germany from Britain"
+            }
+          },
+          "germany_defensive_response": {
+            "narrative": "Göring responds to Allied bomber threat",
+            "investment": 10,
+            "tokens": 2,
+            "dice_rolls": [
+              3,
+              6
+            ],
+            "breakthroughs": 1,
+            "technology": {
+              "chart_choice": 2,
+              "roll": 2,
+              "result": "Jet Fighters",
+              "effect": "Fighters attack at 4 (defense remains 4)",
+              "🎓_historical_note": "Me 262 - world's first operational jet fighter"
+            }
+          },
+          "japan_production_efficiency": {
+            "narrative": "Japan seeks to maximize limited resources",
+            "investment": 5,
+            "tokens": 1,
+            "dice_rolls": [
+              6
+            ],
+            "breakthroughs": 1,
+            "technology": {
+              "chart_choice": 2,
+              "roll": 3,
+              "result": "Improved Shipyards",
+              "effect": "All naval units cost reduced: BB 17, CV 11, CA 10, DD 7, TR 6, SS 5",
+              "🎓_impact": "Critical for island nation - makes naval expansion 15-20% cheaper"
+            }
+          },
+          "soviet_mass_warfare": {
+            "narrative": "Stalin emphasizes quantity and mobility",
+            "investment": 10,
+            "tokens": 2,
+            "dice_rolls": [
+              2,
+              6
+            ],
+            "breakthroughs": 1,
+            "technology": {
+              "chart_choice": 1,
+              "roll": 6,
+              "result": "Mechanized Infantry",
+              "effect": "Infantry paired with tanks can move 2 spaces",
+              "🎓_doctrine": "Deep Battle doctrine - combined arms breakthrough operations"
+            }
+          }
+        },
+        "technology_interactions": {
+          "uk_bombing_campaign": {
+            "heavy_bombers_plus_range": "UK can now hit any German factory with 2 dice per bomber",
+            "german_counter": "Jet fighters provide better interception capability",
+            "strategic_dynamic": "Offense vs defense technology race"
+          },
+          "naval_technology_gap": {
+            "german_subs": "Attack 3 submarines threaten Allied shipping",
+            "japanese_shipyards": "Cheaper naval production but no combat improvement",
+            "allied_response": "Need destroyer technology or ASW improvements"
+          },
+          "land_warfare_evolution": {
+            "soviet_mechanization": "Infantry can keep pace with tanks",
+            "german_jets": "Air superiority but doesn't help ground forces",
+            "combined_arms": "Technology changing fundamental tactics"
+          }
+        },
+        "strategic_technology_summary": {
+          "offensive_technologies": [
+            "Heavy Bombers",
+            "Long-Range Aircraft",
+            "Super Submarines"
+          ],
+          "defensive_technologies": [
+            "Radar",
+            "Jet Fighters"
+          ],
+          "economic_technologies": [
+            "Improved Shipyards",
+            "War Bonds"
+          ],
+          "tactical_technologies": [
+            "Mechanized Infantry",
+            "Advanced Artillery"
+          ],
+          "🎓_key_lesson": "Technology provides options but costs resources - balance is crucial"
+        }
+      },
+      {
+        "round": 6,
+        "turn": 1,
+        "player": "Germany",
+        "phase": "round_6_turn_1_phase_7",
+        "phase_name": "Collect Income",
+        "date": "June 1942",
+        "action": "Germany collects income at end of their turn",
+        "income_collection": {
+          "territories_controlled": [
+            "Starting territories",
+            "East Poland",
+            "Ukraine", 
+            "Belorussia",
+            "Archangel",
+            "expanded eastern territories"
+          ],
+          "territorial_income": 39,
+          "calculation": "31 base + 2 East Poland + 2 Ukraine + 3 Belorussia + 3 Archangel - 2 Poland lost (same as Chapter 5)",
+          "ipc_collected": 39,
+          "banked_total": 167,
+          "note": "Continued territorial consolidation - 128 previous + 39 collected"
+        },
+        "🎓_rule_explanation": "Each nation collects income only during their own turn as Phase 7. Germany collects income now because this is the end of their turn sequence."
+      }
+    ],
+    "chapter_6_end_state": {
+      "victory_cities": {
+        "axis_controlled": [
+          "Berlin",
+          "Rome",
+          "Tokyo",
+          "Paris",
+          "Warsaw",
+          "Shanghai",
+          "Manila",
+          "Cairo"
+        ],
+        "allied_controlled": [
+          "Moscow",
+          "London",
+          "Washington",
+          "Leningrad",
+          "Stalingrad",
+          "Calcutta",
+          "Sydney",
+          "San Francisco",
+          "Honolulu",
+          "Hong Kong",
+          "Ottawa"
+        ],
+        "axis_count": 8,
+        "allies_count": 10,
+        "changes": "No victory city changes this chapter"
+      },
+      "active_technologies": {
+        "Germany": {
+          "super_submarines": {
+            "effect": "Attack 3, Defense 2",
+            "applies_to": "All German submarines",
+            "strategic_impact": "Enhanced convoy raid capability"
+          }
+        },
+        "USA": {
+          "radar": {
+            "effect": "AA Guns hit on 1-2 instead of 1 only",
+            "applies_to": "All Allied AA Guns",
+            "strategic_impact": "Air defense effectiveness doubled (33% vs 17%)"
+          }
+        }
+      },
+      "ipc_status": {
+        "Germany": {
+          "income": 39,
+          "banked": 7,
+          "rd_investment": 15,
+          "production": 18
+        },
+        "USSR": {
+          "income": 22,
+          "banked": 41,
+          "rd_investment": 5,
+          "territorial_losses": "Belorussia, Archangel to Germany"
+        },
+        "Japan": {
+          "income": 19,
+          "banked": 0
+        },
+        "UK": {
+          "income": 43,
+          "banked": 11,
+          "rd_investment": 10,
+          "factory_repairs": 4,
+          "production_surge": 112,
+          "note": "Massive military buildup after factory repairs - 127 - 4 repairs - 10 R&D - 112 production = 11 remaining"
+        },
+        "Italy": {
+          "income": 10,
+          "banked": 0,
+          "note": "Lost Cairo in Chapter 5"
+        },
+        "USA": {
+          "income": 38,
+          "banked": 28,
+          "rd_investment": 10
+        }
+      },
+      "unit_count_totals": {
+        "Germany": {
+          "submarines": 6,
+          "changes_this_chapter": {
+            "submarines": 3
+          },
+          "technology_enhancement": "All submarines now Attack 3, Defense 2"
+        }
+      },
+      "technology_race_balance": {
+        "german_advantage": "Naval warfare supremacy via Super Submarines",
+        "allied_advantage": "Air defense superiority via Radar",
+        "strategic_consequence": "Technology specialization creates asymmetric advantages",
+        "future_implications": "Continuous R&D investment now necessary for competitive balance"
+      }
+    }
+  }
+}

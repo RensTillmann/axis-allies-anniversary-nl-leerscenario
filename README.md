@@ -4,9 +4,23 @@
 
 Een complete, Nederlandstalige leerervaring voor **Axis & Allies Anniversary Edition** die spelers van absolute beginner naar gevorderd niveau brengt. Met correcte gebiedsnamen en startopstellingen gebaseerd op echte setup charts.
 
-**PDF versie:** [leerscenario.pdf](https://github.com/RensTillmann/axis-allies-anniversary-nl-leerscenario/releases/download/v1/leerscenario.pdf)
+## 🚀 **HOE TE BEGINNEN**
 
-**Markdown versie:**  [leerscenario.md](leerscenario.md)
+### **👶 Ben je een beginner?**
+**👉 START HIER: [Level 1: Basis Gevecht](level-1-basis-gevecht.md)**
+
+📚 **Volg het Level 1-7 Systeem:**
+- **Geleidelijke leer progressie** van simpel naar complex
+- **Doorlopend spel** - je acties hebben permanente gevolgen
+- **Perfecte balans** tussen uitdaging en leren
+
+📋 **Overzicht van het complete leerpad:** [leerpad-overzicht.md](leerpad-overzicht.md)
+
+### **🎖️ Ben je al ervaren?**
+**Advanced Scenario:** [complete-game-experience.md](complete-game-experience.md)
+- Volledige partij vanaf beurt 1
+- Alle 6 landen, alle regels
+- Historische scenarios (Pearl Harbor, Barbarossa)
 
 ## 📋 **WAT JE LEERT IN DIT SCENARIO**
 

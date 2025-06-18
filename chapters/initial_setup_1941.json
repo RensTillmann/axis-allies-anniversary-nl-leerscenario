@@ -1,0 +1,832 @@
+{
+  "turn": 0,
+  "phase": "Initial Setup",
+  "date": "June 1941",
+  "scenario": "1941 Scenario",
+  "victory_cities": {
+    "axis_controlled": [
+      "Berlin",
+      "Rome", 
+      "Tokyo",
+      "Paris",
+      "Warsaw",
+      "Shanghai"
+    ],
+    "allied_controlled": [
+      "Moscow",
+      "London",
+      "Washington",
+      "Leningrad",
+      "Stalingrad",
+      "Calcutta",
+      "Sydney",
+      "San Francisco",
+      "Honolulu",
+      "Hong Kong",
+      "Ottawa",
+      "Manila"
+    ],
+    "axis_count": 6,
+    "allies_count": 12,
+    "🎓_rule_reminder": "Victory Condition: First side to control 15 victory cities at end of complete round wins. Total cities: 18. Current: Axis needs 9 more, Allies need 3 more.",
+    "🎯_strategic_note": "Allies start with significant advantage (12 vs 6), but Axis expansion can quickly change the balance."
+  },
+  "ipc_status": {
+    "Germany": {
+      "income": 31,
+      "banked": 0,
+      "total_available": 31
+    },
+    "USSR": {
+      "income": 30,
+      "banked": 0,
+      "total_available": 30
+    },
+    "Japan": {
+      "income": 17,
+      "banked": 0,
+      "total_available": 17
+    },
+    "UK": {
+      "income": 43,
+      "banked": 0,
+      "total_available": 43
+    },
+    "Italy": {
+      "income": 10,
+      "banked": 0,
+      "total_available": 10
+    },
+    "USA": {
+      "income": 40,
+      "banked": 0,
+      "total_available": 40
+    }
+  },
+  "territory_setup": {
+    "Germany": {
+      "Northwestern Europe": {
+        "controller": "Germany",
+        "ipc_value": 2,
+        "units": {
+          "infantry": 1,
+          "fighters": 1
+        }
+      },
+      "Germany": {
+        "controller": "Germany",
+        "ipc_value": 10,
+        "victory_city": true,
+        "victory_city_name": "Berlin",
+        "units": {
+          "infantry": 3,
+          "artillery": 1,
+          "fighters": 1,
+          "bombers": 1,
+          "aa_guns": 1
+        },
+        "structures": {
+          "factory": true
+        }
+      },
+      "Norway": {
+        "controller": "Germany",
+        "ipc_value": 3,
+        "units": {
+          "infantry": 2,
+          "fighters": 1
+        }
+      },
+      "Finland": {
+        "controller": "Germany",
+        "ipc_value": 0,
+        "units": {
+          "infantry": 2
+        }
+      },
+      "Poland": {
+        "controller": "Germany",
+        "ipc_value": 2,
+        "units": {
+          "infantry": 4,
+          "artillery": 1,
+          "tanks": 2,
+          "fighters": 1
+        }
+      },
+      "Czechoslovakia Hungary": {
+        "controller": "Germany",
+        "ipc_value": 3,
+        "units": {
+          "tanks": 2
+        }
+      },
+      "Bulgaria Romania": {
+        "controller": "Germany",
+        "ipc_value": 3,
+        "units": {
+          "infantry": 3,
+          "artillery": 1,
+          "tanks": 2
+        }
+      },
+      "Libya": {
+        "controller": "Germany",
+        "ipc_value": 0,
+        "units": {
+          "infantry": 1,
+          "artillery": 1,
+          "tanks": 1
+        }
+      },
+      "Morocco Algeria": {
+        "controller": "Germany",
+        "ipc_value": 1,
+        "units": {
+          "infantry": 1
+        }
+      },
+      "France": {
+        "controller": "Germany",
+        "ipc_value": 6,
+        "victory_city": true,
+        "victory_city_name": "Paris",
+        "units": {
+          "infantry": 2,
+          "tanks": 1
+        }
+      }
+    },
+    "USSR": {
+      "Karelia S.S.R.": {
+        "controller": "USSR",
+        "ipc_value": 2,
+        "units": {
+          "infantry": 5,
+          "artillery": 1,
+          "aa_guns": 1
+        },
+        "structures": {
+          "factory": true
+        }
+      },
+      "Russia": {
+        "controller": "USSR",
+        "ipc_value": 6,
+        "victory_city": true,
+        "victory_city_name": "Moscow",
+        "units": {
+          "infantry": 3,
+          "artillery": 1,
+          "tanks": 1,
+          "aa_guns": 1
+        },
+        "structures": {
+          "factory": true
+        }
+      },
+      "Archangel": {
+        "controller": "USSR",
+        "ipc_value": 1,
+        "units": {
+          "infantry": 2
+        }
+      },
+      "Caucasus": {
+        "controller": "USSR",
+        "ipc_value": 4,
+        "units": {
+          "infantry": 4,
+          "aa_guns": 1
+        },
+        "structures": {
+          "factory": true
+        }
+      },
+      "Evenki National Okrug": {
+        "controller": "USSR",
+        "ipc_value": 0,
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Yakut S.S.R.": {
+        "controller": "USSR",
+        "ipc_value": 0,
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Stanovoj Chrebet": {
+        "controller": "USSR",
+        "ipc_value": 0,
+        "units": {
+          "infantry": 2
+        }
+      },
+      "Soviet Far East": {
+        "controller": "USSR",
+        "ipc_value": 1,
+        "units": {
+          "infantry": 2
+        }
+      },
+      "Buryatia S.S.R.": {
+        "controller": "USSR",
+        "ipc_value": 0,
+        "units": {
+          "infantry": 3
+        }
+      },
+      "Novosibirsk": {
+        "controller": "USSR",
+        "ipc_value": 1,
+        "units": {
+          "infantry": 2
+        }
+      },
+      "Kazakh S.S.R.": {
+        "controller": "USSR",
+        "ipc_value": 2,
+        "units": {
+          "infantry": 2
+        }
+      },
+      "Eastern Ukraine": {
+        "controller": "USSR",
+        "ipc_value": 1,
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Ukraine": {
+        "controller": "USSR",
+        "ipc_value": 2,
+        "units": {
+          "infantry": 2
+        }
+      },
+      "East Poland": {
+        "controller": "USSR",
+        "ipc_value": 2,
+        "units": {
+          "infantry": 2
+        }
+      },
+      "Belorussia": {
+        "controller": "USSR",
+        "ipc_value": 1,
+        "units": {
+          "infantry": 2
+        }
+      },
+      "Baltic States": {
+        "controller": "USSR",
+        "ipc_value": 2,
+        "units": {
+          "infantry": 3
+        }
+      },
+      "Leningrad": {
+        "controller": "USSR",
+        "ipc_value": 1,
+        "victory_city": true,
+        "victory_city_name": "Leningrad"
+      },
+      "Stalingrad": {
+        "controller": "USSR",
+        "ipc_value": 1,
+        "victory_city": true,
+        "victory_city_name": "Stalingrad"
+      }
+    },
+    "Japan": {
+      "Japan": {
+        "controller": "Japan",
+        "ipc_value": 8,
+        "victory_city": true,
+        "victory_city_name": "Tokyo",
+        "units": {
+          "infantry": 4,
+          "artillery": 1,
+          "tanks": 1,
+          "fighters": 1,
+          "aa_guns": 1
+        },
+        "structures": {
+          "factory": true
+        }
+      },
+      "Okinawa": {
+        "controller": "Japan",
+        "ipc_value": 0,
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Manchuria": {
+        "controller": "Japan",
+        "ipc_value": 3,
+        "units": {
+          "infantry": 3,
+          "fighters": 1
+        }
+      },
+      "Iwo Jima": {
+        "controller": "Japan",
+        "ipc_value": 0,
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Caroline Islands": {
+        "controller": "Japan",
+        "ipc_value": 0,
+        "units": {
+          "infantry": 3
+        }
+      },
+      "Formosa": {
+        "controller": "Japan",
+        "ipc_value": 0,
+        "units": {
+          "fighters": 1
+        }
+      },
+      "French Indo-China Thailand": {
+        "controller": "Japan",
+        "ipc_value": 2,
+        "units": {
+          "infantry": 3
+        }
+      },
+      "Kiangsu": {
+        "controller": "Japan",
+        "ipc_value": 2,
+        "victory_city": true,
+        "victory_city_name": "Shanghai",
+        "units": {
+          "infantry": 3
+        }
+      }
+    },
+    "UK": {
+      "United Kingdom": {
+        "controller": "UK",
+        "ipc_value": 8,
+        "victory_city": true,
+        "victory_city_name": "London",
+        "units": {
+          "infantry": 2,
+          "artillery": 1,
+          "tanks": 1,
+          "fighters": 2,
+          "bombers": 1,
+          "aa_guns": 1
+        },
+        "structures": {
+          "factory": true
+        }
+      },
+      "Western Canada": {
+        "controller": "UK",
+        "ipc_value": 1,
+        "victory_city": true,
+        "victory_city_name": "Ottawa",
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Eastern Canada": {
+        "controller": "UK",
+        "ipc_value": 3,
+        "units": {
+          "tanks": 1
+        }
+      },
+      "Australia": {
+        "controller": "UK",
+        "ipc_value": 2,
+        "victory_city": true,
+        "victory_city_name": "Sydney",
+        "units": {
+          "infantry": 3,
+          "artillery": 1,
+          "aa_guns": 1
+        }
+      },
+      "India": {
+        "controller": "UK",
+        "ipc_value": 3,
+        "victory_city": true,
+        "victory_city_name": "Calcutta",
+        "units": {
+          "infantry": 3,
+          "artillery": 1,
+          "aa_guns": 1
+        }
+      },
+      "Egypt": {
+        "controller": "UK",
+        "ipc_value": 2,
+        "units": {
+          "infantry": 2,
+          "artillery": 1,
+          "tanks": 1,
+          "fighters": 1
+        }
+      },
+      "Kwangtung": {
+        "controller": "UK",
+        "ipc_value": 2,
+        "victory_city": true,
+        "victory_city_name": "Hong Kong",
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Trans-Jordan": {
+        "controller": "UK",
+        "ipc_value": 1,
+        "units": {
+          "infantry": 2
+        }
+      },
+      "Union of South Africa": {
+        "controller": "UK",
+        "ipc_value": 2,
+        "units": {
+          "infantry": 2
+        }
+      },
+      "Burma": {
+        "controller": "UK",
+        "ipc_value": 1,
+        "units": {
+          "infantry": 1
+        }
+      }
+    },
+    "Italy": {
+      "Italy": {
+        "controller": "Italy",
+        "ipc_value": 6,
+        "victory_city": true,
+        "victory_city_name": "Rome",
+        "units": {
+          "infantry": 1,
+          "artillery": 1,
+          "tanks": 1,
+          "fighters": 1,
+          "aa_guns": 1
+        },
+        "structures": {
+          "factory": true
+        }
+      },
+      "Balkans": {
+        "controller": "Italy",
+        "ipc_value": 2,
+        "units": {
+          "infantry": 2,
+          "tanks": 1
+        }
+      },
+      "Libya": {
+        "controller": "Italy",
+        "ipc_value": 0,
+        "units": {
+          "infantry": 2
+        }
+      }
+    },
+    "USA": {
+      "Eastern United States": {
+        "controller": "USA",
+        "ipc_value": 12,
+        "victory_city": true,
+        "victory_city_name": "Washington",
+        "units": {
+          "infantry": 1,
+          "artillery": 1,
+          "fighters": 1,
+          "bombers": 1,
+          "aa_guns": 1
+        },
+        "structures": {
+          "factory": true
+        }
+      },
+      "Western United States": {
+        "controller": "USA",
+        "ipc_value": 10,
+        "victory_city": true,
+        "victory_city_name": "San Francisco",
+        "units": {
+          "infantry": 1,
+          "fighters": 1,
+          "bombers": 1,
+          "aa_guns": 1
+        },
+        "structures": {
+          "factory": true
+        }
+      },
+      "Central United States": {
+        "controller": "USA",
+        "ipc_value": 6,
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Alaska": {
+        "controller": "USA",
+        "ipc_value": 2,
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Midway": {
+        "controller": "USA",
+        "ipc_value": 0,
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Wake Island": {
+        "controller": "USA",
+        "ipc_value": 0,
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Hawaiian Islands": {
+        "controller": "USA",
+        "ipc_value": 1,
+        "victory_city": true,
+        "victory_city_name": "Honolulu",
+        "units": {
+          "infantry": 1,
+          "fighters": 1
+        }
+      },
+      "Philippine Islands": {
+        "controller": "USA",
+        "ipc_value": 3,
+        "victory_city": true,
+        "victory_city_name": "Manila",
+        "units": {
+          "infantry": 2
+        }
+      }
+    },
+    "China": {
+      "Suiyuan": {
+        "controller": "China",
+        "ipc_value": 1,
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Hupeh": {
+        "controller": "China",
+        "ipc_value": 1,
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Fukien": {
+        "controller": "China",
+        "ipc_value": 1,
+        "units": {
+          "infantry": 1
+        }
+      },
+      "Yunnan": {
+        "controller": "China",
+        "ipc_value": 1,
+        "units": {
+          "infantry": 1,
+          "fighters": 1
+        },
+        "🎓_note": "Flying Tigers - US fighter aiding Chinese forces"
+      }
+    }
+  },
+  "sea_zones": {
+    "Germany": {
+      "Sea Zone 5": {
+        "units": {
+          "transports": 1,
+          "cruisers": 1,
+          "submarines": 1
+        }
+      },
+      "Sea Zone 7": {
+        "units": {
+          "submarines": 2
+        }
+      },
+      "Sea Zone 13": {
+        "units": {
+          "transports": 1
+        }
+      }
+    },
+    "USSR": {
+      "Sea Zone 4": {
+        "units": {
+          "submarines": 1
+        }
+      }
+    },
+    "Japan": {
+      "Sea Zone 51": {
+        "units": {
+          "destroyers": 1,
+          "transports": 2
+        }
+      },
+      "Sea Zone 57": {
+        "units": {
+          "carriers": 2,
+          "fighters": 4
+        }
+      },
+      "Sea Zone 61": {
+        "units": {
+          "carriers": 1,
+          "fighters": 2,
+          "battleships": 1,
+          "cruisers": 1,
+          "transports": 2
+        },
+        "transport_cargo": {
+          "transport_1": ["infantry", "artillery"],
+          "transport_2": ["infantry", "infantry"]
+        }
+      },
+      "Sea Zone 62": {
+        "units": {
+          "transports": 1
+        }
+      }
+    },
+    "UK": {
+      "Sea Zone 2": {
+        "units": {
+          "battleships": 1,
+          "transports": 1
+        }
+      },
+      "Sea Zone 6": {
+        "units": {
+          "destroyers": 1
+        }
+      },
+      "Sea Zone 9": {
+        "units": {
+          "destroyers": 1,
+          "transports": 1
+        }
+      },
+      "Sea Zone 12": {
+        "units": {
+          "cruisers": 1,
+          "destroyers": 1
+        }
+      },
+      "Sea Zone 35": {
+        "units": {
+          "destroyers": 1,
+          "transports": 1
+        }
+      },
+      "Sea Zone 41": {
+        "units": {
+          "destroyers": 1,
+          "transports": 1
+        }
+      }
+    },
+    "Italy": {
+      "Sea Zone 14": {
+        "units": {
+          "battleships": 1,
+          "cruisers": 2,
+          "transports": 1
+        }
+      }
+    },
+    "USA": {
+      "Sea Zone 10": {
+        "units": {
+          "destroyers": 1,
+          "transports": 1
+        }
+      },
+      "Sea Zone 44": {
+        "units": {
+          "carriers": 1,
+          "fighters": 1,
+          "destroyers": 1
+        }
+      },
+      "Sea Zone 50": {
+        "units": {
+          "destroyers": 1,
+          "transports": 1
+        }
+      },
+      "Sea Zone 53": {
+        "units": {
+          "battleships": 1
+        }
+      },
+      "Sea Zone 56": {
+        "units": {
+          "destroyers": 1,
+          "transports": 1
+        }
+      }
+    }
+  },
+  "unit_counts_summary": {
+    "Germany": {
+      "infantry": 19,
+      "artillery": 3,
+      "tanks": 5,
+      "fighters": 4,
+      "bombers": 1,
+      "aa_guns": 1,
+      "submarines": 3,
+      "cruisers": 1,
+      "transports": 2,
+      "factories": 1
+    },
+    "USSR": {
+      "infantry": 33,
+      "artillery": 2,
+      "tanks": 1,
+      "aa_guns": 3,
+      "submarines": 1,
+      "factories": 3
+    },
+    "Japan": {
+      "infantry": 15,
+      "artillery": 1,
+      "tanks": 1,
+      "fighters": 3,
+      "aa_guns": 1,
+      "carriers": 3,
+      "fighters_on_carriers": 6,
+      "battleships": 1,
+      "cruisers": 1,
+      "destroyers": 1,
+      "transports": 5,
+      "factories": 1
+    },
+    "UK": {
+      "infantry": 16,
+      "artillery": 3,
+      "tanks": 2,
+      "fighters": 3,
+      "bombers": 1,
+      "aa_guns": 3,
+      "battleships": 1,
+      "cruisers": 1,
+      "destroyers": 5,
+      "transports": 4,
+      "factories": 1
+    },
+    "Italy": {
+      "infantry": 5,
+      "artillery": 1,
+      "tanks": 2,
+      "fighters": 1,
+      "aa_guns": 1,
+      "battleships": 1,
+      "cruisers": 2,
+      "transports": 1,
+      "factories": 1
+    },
+    "USA": {
+      "infantry": 8,
+      "artillery": 1,
+      "fighters": 3,
+      "bombers": 2,
+      "aa_guns": 2,
+      "carriers": 1,
+      "battleships": 1,
+      "destroyers": 3,
+      "transports": 3,
+      "factories": 2
+    },
+    "China": {
+      "infantry": 4,
+      "fighters": 1,
+      "🎓_note": "China controlled by US player, has 1 US Flying Tigers fighter in Yunnan"
+    }
+  },
+  "🎓_tutorial_approach": "TUTORIAL DESIGN: For educational purposes, all nations start with 0 banked IPC and learn income collection progressively. Official rules have nations start with banked IPC equal to income, but this tutorial approach prevents excessive early accumulation and teaches economic management step-by-step."
+}

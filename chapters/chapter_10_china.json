@@ -1,0 +1,247 @@
+{
+  "chapter_10_china_theater": {
+    "title": "China Resistance - Special Power Mechanics",
+    "timeline": "May 1943 - Chinese Theater",
+    "focus": "Demonstration of Chinese special rules and US-China coordination",
+    "turns": [
+      {
+        "round": 10,
+        "turn": 6,
+        "player": "United States",
+        "phase": "round_10_turn_6_phase_3",
+        "phase_name": "Combat Move",
+        "date": "May 1943",
+        "action": "US player controls Chinese forces separately from US forces",
+        "🎓_china_rules_introduction": {
+          "controller": "Chinese units controlled by US player, but separate from US forces",
+          "turn_sequence": "US player must complete ALL Chinese actions before starting US actions",
+          "resource_separation": "Chinese forces have NO IPC system - completely different from other powers",
+          "movement_restrictions": "Chinese units limited to Chinese territories plus Kiangsu and Manchuria only"
+        },
+        "chinese_territorial_status": {
+          "controlled_territories": [
+            "Yunnan",
+            "Szechwan",
+            "Hupeh",
+            "Suiyuan"
+          ],
+          "territory_count": 4,
+          "🎓_income_rule": "China gets 1 free infantry per 2 territories controlled (NO IPC collection)",
+          "production_calculation": "4 territories ÷ 2 = 2 new infantry this turn",
+          "🎓_placement_rule": "New infantry can be placed on ANY Chinese-controlled territory, max 3 units per territory"
+        },
+        "flying_tigers_status": {
+          "current_location": "Yunnan",
+          "unit_type": "1 US Fighter permanently stationed in China",
+          "🎓_special_rule": "Flying Tigers: This US fighter moves and fights with Chinese forces, not US forces",
+          "⚠️_irreplaceable": "If destroyed, US player CANNOT purchase replacement fighter for China"
+        },
+        "chinese_force_composition": {
+          "infantry": 8,
+          "flying_tigers_fighter": 1,
+          "total_chinese_units": 9,
+          "🎓_no_other_units": "China can ONLY have infantry units (plus the 1 Flying Tigers fighter)"
+        }
+      },
+      {
+        "round": 10,
+        "turn": 6,
+        "player": "United States",
+        "phase": "round_10_turn_6_phase_6",
+        "phase_name": "Mobilize New Units",
+        "date": "May 1943",
+        "action": "Place new Chinese infantry according to special rules",
+        "unit_placement": {
+          "new_infantry": 2,
+          "placement_options": {
+            "Yunnan": {
+              "current_units": 3,
+              "can_place": 0,
+              "reason": "Already at 3-unit maximum"
+            },
+            "Szechwan": {
+              "current_units": 2,
+              "can_place": 1,
+              "reason": "Can place 1 more (max 3)"
+            },
+            "Hupeh": {
+              "current_units": 1,
+              "can_place": 1,
+              "reason": "Can place 1 more (max 3)"
+            },
+            "Suiyuan": {
+              "current_units": 2,
+              "can_place": 1,
+              "reason": "Can place 1 more (max 3)"
+            }
+          },
+          "placement_decision": {
+            "Szechwan": 1,
+            "Hupeh": 1
+          },
+          "🎓_placement_rule": "Chinese units placed during US Mobilize New Units phase, same timing as US units"
+        }
+      },
+      {
+        "round": 10,
+        "turn": 3,
+        "player": "Japan",
+        "phase": "round_10_turn_3_phase_4",
+        "phase_name": "Conduct Combat",
+        "date": "May 1943",
+        "action": "Japan attacks Hupeh with ground forces",
+        "japanese_attack": {
+          "attacking_units": {
+            "infantry": 3,
+            "tanks": 1,
+            "artillery": 1
+          },
+          "defending_units": {
+            "infantry": 2
+          },
+          "🎓_chinese_defense": "Chinese infantry defend normally (Defense value 2)",
+          "combat_resolution": {
+            "japanese_attack_dice": [
+              2,
+              1,
+              4,
+              3,
+              1
+            ],
+            "attack_breakdown": "Inf=hit, Inf=hit, Tank=miss, Art=hit, Total: 3 hits",
+            "chinese_defense_dice": [
+              6,
+              3
+            ],
+            "defense_breakdown": "Inf=miss, Inf=miss, Total: 0 hits",
+            "result": "Japan captures Hupeh",
+            "chinese_casualties": {
+              "infantry": 2
+            }
+          },
+          "🎓_chinese_territorial_loss": {
+            "territory_lost": "Hupeh",
+            "new_chinese_territory_count": 3,
+            "next_turn_production": "3 territories ÷ 2 = 1 new infantry (rounded down)",
+            "strategic_impact": "Each territory loss reduces Chinese production capacity"
+          }
+        }
+      },
+      {
+        "round": 10,
+        "turn": 6,
+        "player": "United States",
+        "phase": "round_10_turn_6_phase_4",
+        "phase_name": "Conduct Combat",
+        "date": "May 1943",
+        "action": "Demonstration of Chinese movement restrictions",
+        "movement_restrictions_demo": {
+          "🎓_territory_limits": "Chinese units can ONLY move within Chinese territories, plus Kiangsu and Manchuria",
+          "forbidden_territories": [
+            "Korea",
+            "Japan",
+            "Philippines",
+            "East Indies",
+            "India",
+            "Burma"
+          ],
+          "⚠️_cannot_board_transports": "Chinese units can NEVER be loaded onto transports",
+          "special_case_kwangtung": {
+            "rule": "Chinese forces can attack and occupy Kwangtung",
+            "limitation": "Chinese cannot CONTROL Kwangtung (IPC goes to UK)",
+            "purpose": "Only non-Chinese territory Chinese units may occupy"
+          }
+        },
+        "chinese_counterattack": {
+          "target": "Attempt to recapture Hupeh",
+          "attacking_force": {
+            "infantry": 2,
+            "flying_tigers": 1
+          },
+          "🎓_flying_tigers_combat": "US fighter attacks at 3, defends at 4 when fighting with Chinese forces",
+          "combat_dice": {
+            "chinese_attack": [
+              1,
+              5,
+              2
+            ],
+            "attack_breakdown": "Inf=hit, Inf=miss, Fighter=hit, Total: 2 hits",
+            "japanese_defense": [
+              4,
+              2,
+              6,
+              3,
+              1
+            ],
+            "defense_breakdown": "Inf=miss, Inf=hit, Inf=miss, Tank=hit, Art=hit, Total: 3 hits",
+            "result": "Japan holds Hupeh",
+            "chinese_casualties": {
+              "infantry": 2,
+              "flying_tigers": 1
+            }
+          },
+          "⚠️_flying_tigers_lost": {
+            "strategic_impact": "Flying Tigers destroyed - cannot be replaced",
+            "remaining_chinese_air_support": 0,
+            "🎓_irreplaceable_rule": "US player cannot purchase new fighters for Chinese forces"
+          }
+        }
+      },
+      {
+        "round": 10,
+        "turn": 6,
+        "player": "United States",
+        "phase": "round_10_turn_6_phase_5",
+        "phase_name": "Noncombat Move",
+        "date": "May 1943",
+        "action": "US player begins regular US turn after completing Chinese operations",
+        "🎓_turn_separation": {
+          "sequence_rule": "US player must complete ALL Chinese Combat Move, Conduct Combat phases before beginning US Combat Move",
+          "resource_separation": "US IPC cannot be spent on Chinese forces, Chinese production cannot help US forces",
+          "coordination_allowed": "US and Chinese forces can defend same territory together, but attack separately"
+        },
+        "us_pacific_operations": {
+          "support_mission": "US naval forces provide indirect support by attacking Japanese shipping",
+          "🎓_multinational_defense": "If Chinese territory attacked, US and Chinese units defend together",
+          "🎓_separate_attacks": "US and Chinese forces cannot attack same target together on same turn"
+        }
+      }
+    ],
+    "chapter_10_end_state": {
+      "chinese_territorial_control": {
+        "controlled_territories": [
+          "Yunnan",
+          "Szechwan",
+          "Suiyuan"
+        ],
+        "territory_count": 3,
+        "next_turn_production": "3 ÷ 2 = 1 new infantry",
+        "territories_lost_this_chapter": [
+          "Hupeh"
+        ]
+      },
+      "chinese_force_status": {
+        "remaining_infantry": 6,
+        "flying_tigers_status": "DESTROYED - cannot be replaced",
+        "total_chinese_units": 6,
+        "production_capacity_reduced": "Loss of territory reduces future reinforcements"
+      },
+      "🎓_chinese_rules_summary": {
+        "income_system": "1 free infantry per 2 territories (NO IPC collection)",
+        "placement_rules": "Any Chinese territory, max 3 units per territory",
+        "movement_restrictions": "Chinese territories + Kiangsu + Manchuria only",
+        "special_territory": "Can occupy Kwangtung but not control it (IPC to UK)",
+        "transport_restriction": "Cannot use transports",
+        "flying_tigers": "1 US fighter, irreplaceable if lost",
+        "controller": "US player controls but separate from US forces"
+      },
+      "strategic_lessons": {
+        "territorial_importance": "Each Chinese territory directly affects production capacity",
+        "resource_constraints": "No IPC system makes every unit valuable",
+        "movement_limitations": "Geographic restrictions require careful positioning",
+        "air_support_value": "Flying Tigers irreplaceable - protect carefully",
+        "coordination_complexity": "Separate force management within single player turn"
+      }
+    }
+  }
+}

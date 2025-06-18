@@ -1,0 +1,78 @@
+{
+  "_description": "Axis & Allies Anniversary Campaign - Modular Index",
+  "_created": "2025-06-17T18:09:44.890940",
+  "_format_version": "3.0",
+  "_note": "Load this index first, then load referenced files as needed",
+  "_structural_update": "2025-06-17: All chapters updated to proper round_X_turn_Y_phase_Z format with correct turn sequencing",
+  "campaign_structure": {
+    "metadata": "chapters/metadata.json",
+    "initial_setup": "chapters/initial_setup_1941.json",
+    "chapters": [
+      {
+        "number": 1,
+        "key": "chapter_1_june_22_23_1941",
+        "file": "chapters/chapter_01_barbarossa.json",
+        "title": "Operation Barbarossa - The Blitzkrieg Lesson"
+      },
+      {
+        "number": 2,
+        "key": "chapter_2_october_1941",
+        "file": "chapters/chapter_02_moscow.json",
+        "title": "The Moscow Offensive - Quality vs Quantity"
+      },
+      {
+        "number": 3,
+        "key": "chapter_3_december_1941",
+        "file": "chapters/chapter_03_britain.json",
+        "title": "Battle of Britain - Strategic Bombing"
+      },
+      {
+        "number": 4,
+        "key": "chapter_4_december_7_1941",
+        "file": "chapters/chapter_04_pearl_harbor.json",
+        "title": "Pearl Harbor - The Pacific War Begins"
+      },
+      {
+        "number": 5,
+        "key": "chapter_5_spring_1942",
+        "file": "chapters/chapter_05_global_conflict.json",
+        "title": "Global Conflict - Shore Bombardment & Tank Blitzing"
+      },
+      {
+        "number": 6,
+        "key": "chapter_6_summer_1942",
+        "file": "chapters/chapter_06_technology.json",
+        "title": "Technology Race - Research & Development"
+      },
+      {
+        "number": 7,
+        "key": "chapter_7_autumn_1942",
+        "file": "chapters/chapter_07_atlantic.json",
+        "title": "Atlantic Crisis - Canal Control & Convoy Raids"
+      },
+      {
+        "number": 8,
+        "key": "chapter_8_winter_1942_43",
+        "file": "chapters/chapter_08_submarines.json",
+        "title": "Submarine Warfare - Neutral Invasion Consequences"
+      },
+      {
+        "number": 9,
+        "key": "chapter_9_spring_1943",
+        "file": "chapters/chapter_09_victory.json",
+        "title": "The Counter-Attack - Coalition Victory"
+      },
+      {
+        "number": 10,
+        "key": "chapter_10_china_theater",
+        "file": "chapters/chapter_10_china.json",
+        "title": "China Theater - Special Rules & Victory"
+      }
+    ]
+  },
+  "loading_instructions": {
+    "full_campaign": "Load all files in sequence",
+    "single_chapter": "Load metadata.json, initial_setup_1941.json, and desired chapter file",
+    "continue_game": "Load metadata.json and chapter files from current position onward"
+  }
+}

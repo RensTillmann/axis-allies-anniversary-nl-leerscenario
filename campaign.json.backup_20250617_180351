@@ -1,0 +1,54 @@
+{
+  "_description": "Campaign index file - points to modular chapter files",
+  "_created": "2025-06-17T18:01:54.992377",
+  "_format_version": "2.0",
+  "metadata_file": "chapters/metadata.json",
+  "initial_setup_file": "chapters/initial_setup_1941.json",
+  "chapters": [
+    {
+      "file": "chapters/chapter_1_barbarossa.json",
+      "name": "Chapter 1 Barbarossa"
+    },
+    {
+      "file": "chapters/chapter_2_moscow.json",
+      "name": "Chapter 2 Moscow"
+    },
+    {
+      "file": "chapters/chapter_3_pearl_harbor_prep.json",
+      "name": "Chapter 3 Pearl Harbor Prep"
+    },
+    {
+      "file": "chapters/chapter_4_pearl_harbor.json",
+      "name": "Chapter 4 Pearl Harbor"
+    },
+    {
+      "file": "chapters/chapter_5_global_conflict.json",
+      "name": "Chapter 5 Global Conflict"
+    },
+    {
+      "file": "chapters/chapter_6_technology_race.json",
+      "name": "Chapter 6 Technology Race"
+    },
+    {
+      "file": "chapters/chapter_7_strategic_chokepoints.json",
+      "name": "Chapter 7 Strategic Chokepoints"
+    },
+    {
+      "file": "chapters/chapter_8_submarine_warfare.json",
+      "name": "Chapter 8 Submarine Warfare"
+    },
+    {
+      "file": "chapters/chapter_9_endgame.json",
+      "name": "Chapter 9 Endgame"
+    },
+    {
+      "file": "chapters/chapter_10_china_rules.json",
+      "name": "Chapter 10 China Rules"
+    }
+  ],
+  "usage": {
+    "description": "This index file points to all campaign components",
+    "loading": "Load this file first, then load referenced files as needed",
+    "backwards_compatible": "Original campaign.json backed up with timestamp"
+  }
+}

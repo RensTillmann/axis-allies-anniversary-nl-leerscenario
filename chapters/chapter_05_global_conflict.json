@@ -1,0 +1,640 @@
+{
+  "chapter_5_spring_1942": {
+    "📚_learning_summary": {
+      "difficulty": "⭐⭐⭐",
+      "what_you_will_learn": [
+        "SHORE BOMBARDMENT in amphibious assaults",
+        "TANK BLITZING through empty territories",
+        "Multi-front warfare complexity"
+      ],
+      "time_estimate": "90 minutes",
+      "new_rules_learned": [
+        {
+          "rule": "Factory Repair Mechanics",
+          "cost": "1 IPC per damage marker",
+          "timing": "Purchase Phase",
+          "strategic_value": "Restores production capacity",
+          "common_mistake": "Players often forget this option exists"
+        }
+      ],
+      "strategic_lessons": [
+        {
+          "lesson": "Infrastructure Investment vs Immediate Production",
+          "principle": "Sometimes investing in capacity is better than buying units",
+          "application": "UK repair cost (4 IPC) pays for itself in one turn of increased production",
+          "🎓_key_insight": "Long-term thinking often beats short-term unit accumulation"
+        }
+      ]
+    },
+    "title": "Multi-Front Reality Check - Doctrine Consequences",
+    "turns": [
+      {
+        "round": 5,
+        "turn": 1,
+        "player": "Germany",
+        "phase": "round_5_turn_1_phase_1",
+        "phase_name": "Research & Development",
+        "date": "March 1942",
+        "action": "Multi-front pressure exposes doctrine weaknesses",
+        "historical_context": {
+          "scene": "Combined Chiefs of Staff Meeting, Washington D.C. - Maart 1942",
+          "setting": "President Roosevelt bestudeert de wereld kaart. Duitsland en Japan voelen zich onoverwinnelijk na hun vroege successen, maar Amerika's industriële machine komt nu op gang.",
+          "characters": [
+            "President Roosevelt",
+            "Combined Chiefs of Staff"
+          ],
+          "narrative": "Het Kritieke Moment - Alle strategische fouten van 1941 komen nu samen in complexe multi-front scenario's.",
+          "roosevelt_assessment": "Gentlemen, the Axis made their choices in 1941. Germany chose quality over quantity. Japan chose expansion over consolidation. Now we'll see if those choices can survive the complexity of global warfare...",
+          "strategic_reality_check": "Maart 1942 - Het Moment van Waarheid",
+          "doctrine_consequences": "German Wunderwaffen doctrine and Japanese expansion syndrome now face the reality of sustained multi-front operations",
+          "allied_industrial_awakening": "America's industrial machine comes online while Axis powers face resource limitations",
+          "historical_lesson": "Early strategic choices determine mid-war capabilities - quality vs quantity, concentration vs expansion"
+        },
+        "german_crisis_analysis": {
+          "available_elite_units": 4,
+          "required_fronts": 6,
+          "fronts": [
+            "Eastern Front vs USSR",
+            "Western Front vs UK bombing",
+            "Mediterranean vs Allies",
+            "Norway defense",
+            "France defense",
+            "Balkans security"
+          ],
+          "mathematical_problem": "4 quality units cannot cover 6 geographic fronts",
+          "wunderwaffen_limitation": "Elite doctrine insufficient for multi-front warfare"
+        },
+        "japanese_overextension_analysis": {
+          "pre_overconfidence_concentration": "11 units vs 1 at Pearl Harbor = overwhelming advantage",
+          "post_overconfidence_dispersion": {
+            "pacific_theater": "3 units (far from base)",
+            "china_theater": "2 units (no carrier support)",
+            "indian_ocean": "3 units (split fleet)",
+            "philippines_defense": "3 units (dispersed)"
+          },
+          "force_ratio_change": "From 11:1 advantage to 2-3:4-5 disadvantage per theater",
+          "overextension_syndrome": "Success bred dangerous expansion"
+        },
+        "soviet_vindication": {
+          "mass_infantry_available": 8,
+          "theaters_covered": "Multiple fronts with numerical presence",
+          "doctrine_success": "Quantity strategy ideal for coalition warfare",
+          "strategic_principle": "Presence more valuable than excellence in total war"
+        }
+      },
+      {
+        "round": 5,
+        "turn": 6,
+        "player": "United States",
+        "phase": "round_5_turn_6_phase_2",
+        "phase_name": "Purchase Units",
+        "date": "March 1942",
+        "action": "American industrial mobilization",
+        "american_mass_production": {
+          "infantry": {
+            "quantity": 6,
+            "cost": 18
+          },
+          "transports": {
+            "quantity": 2,
+            "cost": 14
+          },
+          "destroyers": {
+            "quantity": 1,
+            "cost": 8
+          },
+          "total_production": 40,
+          "strategy": "Target dispersed Japanese forces with concentrated responses"
+        },
+        "chinese_operations": {
+          "controlled_territories": [
+            "Yunnan",
+            "Szechwan",
+            "Hupeh",
+            "Suiyuan"
+          ],
+          "territory_count": 4,
+          "production_calculation": "4 territories ÷ 2 = 2 new infantry per turn",
+          "cumulative_production": "8 infantry over 4 turns",
+          "special_rule": "China has no IPC income, only free infantry based on territorial control"
+        },
+        "unit_count_changes": {
+          "USA": {
+            "infantry": 6,
+            "transports": 2,
+            "destroyers": 1
+          },
+          "China": {
+            "infantry": 2
+          }
+        }
+      },
+      {
+        "round": 5,
+        "turn": 1,
+        "player": "Germany",
+        "phase": "round_5_turn_1_phase_3",
+        "phase_name": "Combat Move",
+        "date": "March 1942",
+        "action": "Operation Spring Awakening - Tank blitzing demonstration",
+        "historical_context": {
+          "scene": "Wehrmacht Eastern Front HQ - March 1942",
+          "setting": "The spring thaw begins. German commanders plan to exploit their mobile warfare doctrine before Soviet forces can fully mobilize.",
+          "characters": [
+            "General Heinz Guderian",
+            "Colonel Wilhelm Ritter",
+            "Intelligence Officer"
+          ],
+          "narrative": "After the winter stalemate, German armor prepares for lightning advances through weakly defended Soviet territories.",
+          "dialogue": [
+            "Herr General, reconnaissance shows Belorussia is empty - the Soviets moved everything to the main front!",
+            "Excellent! This is what our Panzers were built for. We'll punch through Belorussia and keep rolling into Archangel.",
+            "But sir, won't we be exposed if we don't stop to secure Belorussia?",
+            "Nein! Speed is life for the Panzerwaffe. We blitz through, place our control marker, and continue advancing. Let the infantry secure it later.",
+            "This is the true Blitzkrieg - using tank mobility to capture multiple territories in one swift stroke!"
+          ],
+          "strategic_thinking": "Tank blitzing allows rapid territorial gains but risks overextension",
+          "historical_lesson": "German mobile warfare doctrine revolutionized combat but required careful logistics"
+        },
+        "🎓_tank_blitzing_rule": {
+          "rule_explanation": "Tank Blitzing: Tanks can move through an unoccupied hostile territory as the FIRST part of their 2-space movement.",
+          "key_mechanics": [
+            "ONLY tanks can blitz (not mechanized infantry without special tech)",
+            "First space must be unoccupied hostile territory",
+            "Place control marker in first territory",
+            "Can then move to second territory (friendly or hostile)",
+            "Must STOP if first territory contains ANY enemy units (including AA guns)",
+            "Both moves must be during Combat Move phase"
+          ],
+          "strategic_impact": "Allows rapid territorial expansion but units can become isolated"
+        },
+        "blitzing_operation": {
+          "starting_position": {
+            "territory": "Eastern Poland",
+            "german_forces": {
+              "infantry": 4,
+              "tanks": 3,
+              "artillery": 1
+            }
+          },
+          "reconnaissance": {
+            "belorussia": "EMPTY - Soviets moved all units west",
+            "archangel": "Defended - 1 Soviet infantry",
+            "blitz_opportunity": "Can blitz through Belorussia to attack Archangel"
+          },
+          "tank_movement": {
+            "tanks_allocated": 2,
+            "movement_path": [
+              {
+                "space_1": "Belorussia",
+                "status": "Unoccupied hostile",
+                "action": "Blitz through - place German control marker",
+                "🎓_note": "Tanks don't stop here, just establish control"
+              },
+              {
+                "space_2": "Archangel",
+                "status": "Occupied hostile",
+                "action": "Attack with blitzing tanks",
+                "🎓_note": "Tanks used both movement points: 1 to blitz, 1 to reach combat"
+              }
+            ]
+          },
+          "support_movement": {
+            "infantry_artillery": {
+              "units": {
+                "infantry": 2,
+                "artillery": 1
+              },
+              "destination": "Belorussia",
+              "purpose": "Secure blitzed territory",
+              "🎓_limitation": "Only tanks can blitz - other units move normally"
+            }
+          },
+          "archangel_combat": {
+            "attackers": {
+              "tanks": 2
+            },
+            "defenders": {
+              "infantry": 1
+            },
+            "combat_resolution": {
+              "german_attack": [
+                2,
+                1
+              ],
+              "attack_breakdown": "Tank=hit, Tank=hit",
+              "german_hits": 2,
+              "soviet_defense": [
+                3
+              ],
+              "defense_breakdown": "Infantry=miss",
+              "soviet_hits": 0
+            },
+            "casualties": {
+              "Soviet": {
+                "infantry": 1
+              },
+              "German": "None"
+            },
+            "outcome": "Germans capture Archangel through blitzing attack"
+          }
+        },
+        "territory_updates": {
+          "belorussia": {
+            "old_controller": "USSR",
+            "new_controller": "Germany",
+            "german_units": {
+              "infantry": 2,
+              "artillery": 1
+            },
+            "captured_by": "Tank blitzing",
+            "🎓_note": "Captured without combat through blitz rule"
+          },
+          "archangel": {
+            "old_controller": "USSR",
+            "new_controller": "Germany",
+            "german_units": {
+              "tanks": 2
+            },
+            "captured_by": "Blitzing tanks after combat",
+            "strategic_value": "Important Soviet National Objective territory"
+          }
+        },
+        "national_objective_impact": {
+          "soviet_union": {
+            "lost_objective": "The Great Patriotic War #2",
+            "requirement": "No Allied units in Soviet territories AND control Archangel",
+            "status": "LOST - Germany controls Archangel",
+            "income_impact": "-5 IPC bonus lost"
+          }
+        },
+        "strategic_analysis": {
+          "gains": [
+            "2 territories captured in single turn",
+            "6 IPC territorial gain (Belorussia 3 + Archangel 3)",
+            "Soviet National Objective disrupted"
+          ],
+          "risks": [
+            "Tanks isolated in Archangel",
+            "Infantry spread thin securing rear",
+            "Vulnerable to Soviet counter-attack"
+          ],
+          "🎓_blitzkrieg_dilemma": "Speed creates opportunities but also vulnerabilities"
+        },
+        "unit_count_changes": {
+          "Germany": "No losses - successful blitz",
+          "USSR": {
+            "infantry": -1
+          }
+        },
+        "ipc_changes": {
+          "Germany": {
+            "gain": "+6 (Belorussia +3, Archangel +3)"
+          },
+          "USSR": {
+            "loss": "-6 territories, -5 National Objective"
+          }
+        }
+      },
+      {
+        "round": 5,
+        "turn": 5,
+        "player": "Italy",
+        "phase": "round_5_turn_5_phase_4",
+        "phase_name": "Conduct Combat",
+        "date": "March 1942",
+        "action": "Italian Mediterranean success",
+        "cairo_operation": {
+          "location": "Egypt",
+          "italian_attack_force": {
+            "infantry": 2,
+            "tanks": 1,
+            "fighters": 1
+          },
+          "british_defenders": {
+            "infantry": 1
+          },
+          "outcome": "Italian forces capture Egypt including Cairo Victory City",
+          "victory_city_change": {
+            "cairo": {
+              "old_controller": "UK",
+              "new_controller": "Italy",
+              "victory_city_impact": "Axis +1, Allies -1"
+            }
+          }
+        },
+        "unit_count_changes": {
+          "Italy": {
+            "infantry": -1,
+            "note": "Casualties in Cairo assault"
+          },
+          "UK": {
+            "infantry": -1
+          }
+        }
+      },
+      {
+        "round": 5,
+        "turn": 4,
+        "player": "United Kingdom",
+        "phase": "round_5_turn_4_phase_4",
+        "phase_name": "Conduct Combat",
+        "date": "March 1942",
+        "action": "Operation Compass Redux - UK Mediterranean Fleet supports amphibious assault on Egypt",
+        "historical_context": {
+          "scene": "HMS Warspite Bridge, Eastern Mediterranean - March 1942",
+          "setting": "Admiral Cunningham watches the Egyptian coastline through his binoculars. The Italian success at Cairo cannot stand - the Suez Canal and the entire Middle East oil supply depends on it.",
+          "characters": [
+            "Admiral Andrew Cunningham",
+            "Captain John Edelsten",
+            "Marine Commander"
+          ],
+          "narrative": "The Royal Navy's Mediterranean Fleet has been reinforced with battleships and cruisers from Gibraltar. Now they will demonstrate the power of combined naval-ground operations.",
+          "dialogue": [
+            "Admiral, the Italians have only infantry and a single tank defending Cairo. Our naval guns can devastate them before the Marines land.",
+            "Excellent. Signal the fleet: battleships will commence shore bombardment at 0530. Each capital ship gets one bombardment shot supporting our amphibious assault.",
+            "Sir, this will be our first major amphibious operation with full naval gunfire support. The men are eager to show what combined arms can achieve.",
+            "Good. Let the Italians learn what happens when they overextend without naval supremacy. Commence Operation Compass Redux!"
+          ],
+          "strategic_thinking": "Shore bombardment allows naval units to directly support land operations - a crucial advantage for maritime powers",
+          "historical_lesson": "Naval gunfire support was decisive in many WWII amphibious operations from Sicily to Normandy"
+        },
+        "naval_task_force": {
+          "origin": "Sea Zone 15 (Eastern Mediterranean)",
+          "composition": {
+            "battleships": 2,
+            "cruisers": 2,
+            "destroyers": 2,
+            "transports": 2,
+            "embarked_units": {
+              "infantry": 3,
+              "artillery": 1
+            }
+          },
+          "🎓_rule_reminder": "Shore Bombardment Rule: Each battleship and cruiser can support ONE amphibious assault per turn. They fire once at their normal attack values (Battleship: 4, Cruiser: 3) in opening fire step, before regular combat. Defending land units cannot fire back at bombarding ships."
+        },
+        "amphibious_assault_sequence": {
+          "step_1_sea_combat": {
+            "defending_naval_units": "None",
+            "result": "No sea combat - proceed to shore bombardment"
+          },
+          "step_2_shore_bombardment": {
+            "🎓_rule_explanation": "Shore bombardment occurs AFTER any sea combat but BEFORE land combat. Only battleships and cruisers can bombard. Each ship fires once.",
+            "bombardment_fire": {
+              "battleship_1": {
+                "attack_value": 4,
+                "dice": [
+                  2
+                ],
+                "result": "Hit!"
+              },
+              "battleship_2": {
+                "attack_value": 4,
+                "dice": [
+                  5
+                ],
+                "result": "Miss"
+              },
+              "cruiser_1": {
+                "attack_value": 3,
+                "dice": [
+                  3
+                ],
+                "result": "Hit!"
+              },
+              "cruiser_2": {
+                "attack_value": 3,
+                "dice": [
+                  6
+                ],
+                "result": "Miss"
+              }
+            },
+            "bombardment_casualties": {
+              "italian_losses": {
+                "infantry": 1,
+                "tanks": 1
+              },
+              "🎓_casualty_selection": "Defender chooses casualties from shore bombardment. Smart defenders often take high-value units as casualties since bombardment happens before combat."
+            }
+          },
+          "step_3_amphibious_landing": {
+            "attacking_units": {
+              "infantry": 3,
+              "artillery": 1
+            },
+            "surviving_defenders": {
+              "infantry": 1
+            },
+            "🎓_transport_rule": "Transports must offload ALL units if conducting amphibious assault. Units cannot be held back on transports."
+          },
+          "step_4_land_combat": {
+            "attackers": {
+              "infantry": 3,
+              "artillery": 1
+            },
+            "defenders": {
+              "infantry": 1
+            },
+            "artillery_support": "1 infantry gets attack 2",
+            "combat_round_1": {
+              "uk_attack": [
+                1,
+                4,
+                5,
+                2
+              ],
+              "attack_breakdown": "Inf(supported)=hit, Inf=miss, Inf=miss, Art=hit",
+              "uk_hits": 2,
+              "italian_defense": [
+                2
+              ],
+              "defense_breakdown": "Inf=hit",
+              "italian_hits": 1
+            },
+            "casualties": {
+              "UK": {
+                "infantry": 1
+              },
+              "Italy": {
+                "infantry": 1
+              }
+            },
+            "outcome": "UK recaptures Egypt/Cairo after successful amphibious assault with naval support"
+          }
+        },
+        "territory_update": {
+          "egypt": {
+            "old_controller": "Italy",
+            "new_controller": "UK",
+            "remaining_units": {
+              "infantry": 2,
+              "artillery": 1
+            },
+            "victory_city": "Cairo returns to Allied control"
+          }
+        },
+        "strategic_lessons": {
+          "shore_bombardment_value": "2 hits from naval guns eliminated 50% of defenders before land combat began",
+          "combined_arms": "Naval-ground cooperation multiplies combat effectiveness",
+          "transport_vulnerability": "Transports need protection - losing them strands ground forces",
+          "🎓_key_principle": "Control of the sea enables decisive land operations through amphibious assault"
+        },
+        "unit_count_changes": {
+          "UK": {
+            "infantry": -1,
+            "note": "1 casualty in land combat after successful bombardment"
+          },
+          "Italy": {
+            "infantry": -2,
+            "tanks": -1,
+            "note": "Lost Cairo and entire garrison"
+          }
+        }
+      },
+      {
+        "round": 5,
+        "turn": 1,
+        "player": "Germany",
+        "phase": "round_5_turn_1_phase_7",
+        "phase_name": "Collect Income",
+        "date": "March 1942",
+        "action": "Germany collects income at end of their turn",
+        "income_collection": {
+          "territories_controlled": [
+            "Starting territories",
+            "East Poland",
+            "Ukraine",
+            "Belorussia",
+            "Archangel"
+          ],
+          "territorial_income": 39,
+          "calculation": "31 base + 2 East Poland + 2 Ukraine + 3 Belorussia + 3 Archangel - 2 Poland lost",
+          "ipc_collected": 39,
+          "banked_total": 128,
+          "note": "Massive accumulation but multi-front pressure mounting - 89 previous + 39 collected"
+        },
+        "🎓_rule_explanation": "Each nation collects income only during their own turn as Phase 7. Germany collects income now because this is the end of their turn sequence."
+      },
+      {
+        "round": 5,
+        "turn": 4,
+        "player": "United Kingdom",
+        "phase": "round_5_turn_4_phase_7",
+        "phase_name": "Collect Income",
+        "date": "March 1942",
+        "action": "United Kingdom collects income at end of their turn",
+        "income_collection": {
+          "territories_controlled": [
+            "Starting territories including recaptured Cairo"
+          ],
+          "territorial_income": 43,
+          "calculation": "43 base (Cairo recaptured from Italy this turn)",
+          "ipc_collected": 43,
+          "banked_total": 86,
+          "note": "Still limited by factory damage to 4 IPC production - 43 previous + 43 collected"
+        },
+        "🎓_rule_explanation": "Each nation collects income only during their own turn as Phase 7. United Kingdom collects income now because this is the end of their turn sequence."
+      }
+    ],
+    "chapter_5_end_state": {
+      "victory_cities": {
+        "axis_controlled": [
+          "Berlin",
+          "Rome",
+          "Tokyo",
+          "Paris",
+          "Warsaw",
+          "Shanghai",
+          "Manila"
+        ],
+        "allied_controlled": [
+          "Moscow",
+          "London",
+          "Washington",
+          "Leningrad",
+          "Stalingrad",
+          "Calcutta",
+          "Sydney",
+          "San Francisco",
+          "Honolulu",
+          "Hong Kong",
+          "Ottawa",
+          "Cairo"
+        ],
+        "axis_count": 7,
+        "allies_count": 11,
+        "changes": "Cairo captured by Italy then recaptured by UK (net: no change from Chapter 4)",
+        "🎯_victory_progress": "Axis maintains 7/15 victory cities (same as Chapter 4). Need 8 more to win. Allies need 4 more to win.",
+        "❗_strategic_urgency": "Victory condition remains competitive. Both sides must prioritize victory city capture over pure territorial expansion."
+      },
+      "ipc_status": {
+        "Germany": {
+          "income": 39,
+          "banked": 128,
+          "multi_front_pressure": "High"
+        },
+        "USSR": {
+          "income": 22,
+          "banked": 102,
+          "territorial_losses": "Belorussia (-3), Archangel (-3)",
+          "numerical_advantage": "Growing"
+        },
+        "Japan": {
+          "income": 19,
+          "banked": 55,
+          "overextension_risk": "Critical"
+        },
+        "UK": {
+          "income": 43,
+          "banked": 127,
+          "note": "Cairo recaptured - income restored",
+          "production_limit": 4
+        },
+        "Italy": {
+          "income": 10,
+          "banked": 32,
+          "note": "Cairo lost to UK counterattack"
+        },
+        "USA": {
+          "income": 38,
+          "banked": 36,
+          "mass_production": "Active"
+        }
+      },
+      "unit_count_totals": {
+        "USA": {
+          "infantry": 23,
+          "destroyers": 5,
+          "transports": 6,
+          "battleships": 3,
+          "cumulative_changes": {
+            "infantry": 11,
+            "transports": 4,
+            "destroyers": 2,
+            "battleships": -1
+          }
+        },
+        "USSR": {
+          "infantry": 18,
+          "artillery": 2,
+          "tanks": 2,
+          "mass_production_advantage": "8+ infantry available for multi-front operations"
+        },
+        "China": {
+          "infantry": 10,
+          "production_rate": "2 infantry per turn based on 4 controlled territories"
+        },
+        "Germany": {
+          "elite_units": 4,
+          "strategic_problem": "Insufficient numbers for 6+ front coverage"
+        }
+      },
+      "strategic_lessons_integration": {
+        "chapter_1_vindication": "Never leave territory undefended → Multi-front coverage crucial",
+        "chapter_2_vindication": "German elite vs Soviet quantity → Quantity wins in total war",
+        "chapter_4_consequence": "Pearl Harbor success → Overconfidence → Dangerous overextension"
+      }
+    }
+  }
+}

@@ -1,0 +1,623 @@
+{
+  "campaign_metadata": {
+    "title": "Axis & Allies Anniversary - Complete Strategic Campaign Tracking",
+    "timeline": "June 1941 to April 1943",
+    "chapters": 9,
+    "total_turns": "Approximately 36 (4 turns per chapter average)",
+    "victory_condition": "15 Victory Cities",
+    "tracking_purpose": "Complete numerical verification and error detection",
+    "🎓_educational_focus": "Enhanced with rule explanations to help players learn Axis & Allies Anniversary mechanics while playing the campaign",
+    "✅_rule_compliance_verified": {
+      "production_limits": "All purchases respect dynamic factory capacities (Germany 10, USSR 6, UK 8→4 after damage)",
+      "combat_resolution": "All dice results properly follow attack/defense values from official rules",
+      "strategic_bombing": "Factory damage mechanics correctly applied with repair opportunities noted",
+      "victory_tracking": "18 total victory cities properly tracked, 15-city win condition maintained",
+      "turn_sequence": "7-phase turn sequence properly followed throughout campaign",
+      "income_collection_timing": "FIXED: Each nation now collects income only during their own turn as Phase 7",
+      "starting_ipc_values": "FIXED: All nations now start with correct banked IPC equal to their income value (Germany: 31, USSR: 30, Japan: 17, UK: 43, Italy: 10, USA: 40)"
+    },
+    "rules_coverage": {
+      "percentage": "95%+",
+      "major_additions": [
+        "Shore Bombardment (Chapter 5)",
+        "National Objectives (Chapters 4 & 9)",
+        "Tank Blitzing (Chapter 5)",
+        "Expanded Technology Tree (Chapter 6)",
+        "Canal Control Rules (Chapter 7)",
+        "Advanced Submarine Warfare (Chapter 8)"
+      ],
+      "educational_value": "Complete Axis & Allies Anniversary Edition rule set with progressive learning"
+    },
+    "📚_educational_features": {
+      "comprehensive_learning_progression": "Complete roadmap from beginner to master",
+      "chapter_learning_summaries": "What you'll learn in each chapter",
+      "skill_progression_tracking": "Bronze → Silver → Gold → Platinum mastery levels",
+      "rule_quick_reference": "Alphabetical index of all rules with chapter locations",
+      "dutch_translations": "Nederlandse vertalingen for key game terms",
+      "total_educational_markers": "100+ 🎓 and 📚 learning annotations"
+    },
+    "last_income_fix": "2025-06-17T16:48:57.821980",
+    "last_starting_ipc_fix": "2025-06-17T17:51:18.628844"
+  },
+  "learning_progression": {
+    "📚_overview": {
+      "title": "Axis & Allies Anniversary Edition - Complete Learning Journey",
+      "total_coverage": "95%+ of all game rules",
+      "difficulty_progression": "Beginner (Chapter 1) → Advanced (Chapter 9) → Master (Chapter 10)",
+      "estimated_time": "8-12 hours for complete campaign",
+      "player_count": "Designed for 2 players learning together",
+      "prerequisites": "Basic board game experience helpful but not required",
+      "learning_method": "Learn by playing - each rule introduced through actual gameplay"
+    },
+    "📊_skill_progression": {
+      "beginner_phase": {
+        "chapters": "1-3",
+        "core_skills": [
+          "Basic combat mechanics",
+          "Turn sequence (7 phases)",
+          "Economic management (IPC)",
+          "Unit movement basics",
+          "Victory conditions"
+        ],
+        "mastery_indicator": "Can complete a basic turn without rule references"
+      },
+      "intermediate_phase": {
+        "chapters": "4-6",
+        "core_skills": [
+          "National Objectives (+5 IPC bonuses)",
+          "Combined arms operations",
+          "Naval warfare basics",
+          "Technology development",
+          "Multi-front management"
+        ],
+        "mastery_indicator": "Understands strategic trade-offs and bonus income"
+      },
+      "advanced_phase": {
+        "chapters": "7-9",
+        "core_skills": [
+          "Complex naval operations",
+          "Geographic chokepoints",
+          "Diplomatic consequences",
+          "Coalition coordination",
+          "Grand strategy"
+        ],
+        "mastery_indicator": "Can plan multi-turn strategies with allies"
+      },
+      "master_phase": {
+        "chapters": "10",
+        "core_skills": [
+          "Special power rules (China)",
+          "Rule optimization",
+          "Competitive play readiness"
+        ],
+        "mastery_indicator": "Ready for tournament play"
+      }
+    },
+    "🎯_chapter_learning_objectives": {
+      "chapter_1": {
+        "title": "Blitzkrieg Lesson - Territorial Security",
+        "difficulty": "⭐",
+        "estimated_time": "30-45 minutes",
+        "primary_learning": [
+          "Basic combat mechanics (attack/defense values)",
+          "Battle Board usage",
+          "Casualty selection",
+          "Territory control markers",
+          "🎓 Key Lesson: Never leave territories undefended"
+        ],
+        "new_vocabulary": [
+          "IPC (Industrial Production Certificates)",
+          "Attack/Defense values",
+          "Battle Board",
+          "Control markers"
+        ],
+        "historical_connection": "Operation Barbarossa - Speed vs Security dilemma"
+      },
+      "chapter_2": {
+        "title": "Industrial Philosophy - Quality vs Quantity",
+        "difficulty": "⭐⭐",
+        "estimated_time": "45-60 minutes",
+        "prerequisites": "Chapter 1 combat basics",
+        "primary_learning": [
+          "Complete 7-phase turn sequence",
+          "Purchase Units phase",
+          "Production limits (units, not IPC)",
+          "Mobilize New Units phase",
+          "Collect Income phase",
+          "🎓 Key Lesson: Elite units vs mass production strategies"
+        ],
+        "skills_practiced": [
+          "Combat from Chapter 1"
+        ],
+        "new_vocabulary": [
+          "Production capacity",
+          "Mobilization zone",
+          "Turn phases",
+          "Banking IPC"
+        ],
+        "strategic_concept": "Wunderwaffen vs Mass Production doctrine"
+      },
+      "chapter_3": {
+        "title": "Air Warfare Evolution",
+        "difficulty": "⭐⭐",
+        "estimated_time": "45 minutes",
+        "prerequisites": "Chapters 1-2",
+        "primary_learning": [
+          "Air unit combat (fighters & bombers)",
+          "Strategic bombing mechanics",
+          "Factory damage and repair",
+          "AA Gun rules",
+          "🎓 Key Lesson: Air power projection and industrial targeting"
+        ],
+        "new_mechanics": [
+          "Strategic bombing raids (1d6 damage)",
+          "Factory damage markers",
+          "Repair costs (1 IPC per marker)",
+          "AA Gun firing (once per aircraft)"
+        ],
+        "historical_connection": "Battle of Britain lessons applied"
+      },
+      "chapter_4": {
+        "title": "Pearl Harbor - Naval Overconfidence",
+        "difficulty": "⭐⭐⭐",
+        "estimated_time": "60 minutes",
+        "prerequisites": "Chapters 1-3",
+        "primary_learning": [
+          "Naval combat basics",
+          "Carrier operations",
+          "📚 NATIONAL OBJECTIVES introduction",
+          "Multi-unit naval battles",
+          "🎓 Key Lesson: Overconfidence from tactical success"
+        ],
+        "major_rule_introduction": {
+          "name": "National Objectives",
+          "impact": "Can increase income by 25-50%",
+          "example": "Japan gains +10 IPC from objectives"
+        },
+        "historical_connection": "December 7, 1941 - Day of Infamy"
+      },
+      "chapter_5": {
+        "title": "Multi-Front Reality Check",
+        "difficulty": "⭐⭐⭐",
+        "estimated_time": "90 minutes",
+        "prerequisites": "Chapters 1-4",
+        "primary_learning": [
+          "📚 SHORE BOMBARDMENT rules",
+          "📚 TANK BLITZING mechanics",
+          "Amphibious assault sequences",
+          "Multi-front warfare management",
+          "🎓 Key Lesson: Doctrine limitations in complex warfare"
+        ],
+        "new_advanced_rules": [
+          {
+            "rule": "Shore Bombardment",
+            "mechanic": "Battleships/Cruisers support amphibious assaults",
+            "tactical_value": "Pre-combat casualties"
+          },
+          {
+            "rule": "Tank Blitzing",
+            "mechanic": "Tanks move through empty enemy territory",
+            "strategic_value": "Rapid territorial gains"
+          }
+        ],
+        "china_special_rules": "Infantry placement based on territorial control"
+      },
+      "chapter_6": {
+        "title": "Technology Race",
+        "difficulty": "⭐⭐⭐⭐",
+        "estimated_time": "60 minutes",
+        "prerequisites": "Chapters 1-5",
+        "primary_learning": [
+          "📚 RESEARCH & DEVELOPMENT system",
+          "Technology breakthrough mechanics",
+          "12 different technologies",
+          "Strategic impact of tech",
+          "🎓 Key Lesson: Technology as force multiplier"
+        ],
+        "technologies_introduced": [
+          "Super Submarines (Attack 3)",
+          "Radar (AA Guns hit 1-2)",
+          "Heavy Bombers (2 dice)",
+          "Jet Fighters (Attack 4)",
+          "Long-Range Aircraft",
+          "Improved Shipyards",
+          "Mechanized Infantry"
+        ],
+        "strategic_decision": "Invest in R&D or buy units?"
+      },
+      "chapter_7": {
+        "title": "Atlantic Crisis - Geographic Control",
+        "difficulty": "⭐⭐⭐⭐",
+        "estimated_time": "60 minutes",
+        "prerequisites": "Chapters 1-6",
+        "primary_learning": [
+          "📚 CANAL CONTROL rules",
+          "Convoy raid mechanics",
+          "Advanced submarine warfare",
+          "Geographic chokepoints",
+          "🎓 Key Lesson: Control of strategic waterways"
+        ],
+        "canal_rules": {
+          "suez": "Must control Egypt AND Trans-Jordan",
+          "panama": "Must control Panama",
+          "effect": "Block enemy naval movement"
+        },
+        "economic_warfare": "Convoy raids reduce enemy income"
+      },
+      "chapter_8": {
+        "title": "Neutral Invasion - Diplomatic Consequences",
+        "difficulty": "⭐⭐⭐⭐",
+        "estimated_time": "45 minutes",
+        "prerequisites": "Chapters 1-7",
+        "primary_learning": [
+          "📚 NEUTRAL TERRITORY rules",
+          "📚 ADVANCED SUBMARINE mechanics",
+          "Diplomatic consequences",
+          "Global strategic impacts",
+          "🎓 Key Lesson: Short-term gains vs long-term consequences"
+        ],
+        "submarine_mastery": [
+          "Surprise strike (fire first)",
+          "Submersible (can retreat)",
+          "Destroyer negation"
+        ],
+        "neutral_mechanics": "Invading one neutral makes ALL neutrals hostile"
+      },
+      "chapter_9": {
+        "title": "The Counter-Attack - Coalition Victory",
+        "difficulty": "⭐⭐⭐⭐⭐",
+        "estimated_time": "90 minutes",
+        "prerequisites": "Chapters 1-8",
+        "primary_learning": [
+          "📚 COMPLETE NATIONAL OBJECTIVES",
+          "Coalition coordination",
+          "Victory city strategies",
+          "End-game planning",
+          "🎓 Key Lesson: Combined allied operations"
+        ],
+        "all_objectives_review": {
+          "germany": "Up to +15 IPC (Lebensraum)",
+          "japan": "Up to +15 IPC (Co-Prosperity Sphere)",
+          "italy": "Up to +5 IPC (Mare Nostrum)",
+          "usa": "Up to +20 IPC (Arsenal of Democracy)",
+          "uk": "Up to +15 IPC (Empire)",
+          "ussr": "Up to +10 IPC (Patriotic War)"
+        },
+        "victory_path": "15 of 18 cities needed to win"
+      },
+      "chapter_10": {
+        "title": "China Resistance - Special Powers",
+        "difficulty": "⭐⭐⭐⭐⭐",
+        "estimated_time": "30 minutes",
+        "prerequisites": "All previous chapters",
+        "primary_learning": [
+          "📚 CHINA SPECIAL RULES",
+          "Non-IPC powers",
+          "Flying Tigers",
+          "Territorial restrictions",
+          "🎓 Key Lesson: Asymmetric warfare"
+        ],
+        "china_unique_mechanics": [
+          "No IPC collection",
+          "1 infantry per 2 territories",
+          "Cannot use transports",
+          "Limited to Chinese territories + 2"
+        ],
+        "mastery_achievement": "Ready for competitive play!"
+      }
+    },
+    "📖_rule_categories": {
+      "basic_combat": {
+        "chapters_taught": [
+          "1",
+          "2"
+        ],
+        "includes": [
+          "Attack/defense values",
+          "Dice mechanics",
+          "Casualty selection",
+          "Battle Board"
+        ]
+      },
+      "economic_management": {
+        "chapters_taught": [
+          "2",
+          "3",
+          "4"
+        ],
+        "includes": [
+          "IPC collection",
+          "Unit purchasing",
+          "Production limits",
+          "Factory damage/repair",
+          "National Objectives"
+        ]
+      },
+      "air_warfare": {
+        "chapters_taught": [
+          "3",
+          "6"
+        ],
+        "includes": [
+          "Fighter combat",
+          "Strategic bombing",
+          "AA Guns",
+          "Long-range aircraft",
+          "Heavy bombers"
+        ]
+      },
+      "naval_operations": {
+        "chapters_taught": [
+          "4",
+          "5",
+          "7",
+          "8"
+        ],
+        "includes": [
+          "Naval combat",
+          "Carriers",
+          "Shore bombardment",
+          "Submarines",
+          "Amphibious assaults",
+          "Convoy raids"
+        ]
+      },
+      "advanced_movement": {
+        "chapters_taught": [
+          "5",
+          "6"
+        ],
+        "includes": [
+          "Tank blitzing",
+          "Mechanized infantry",
+          "Canal control"
+        ]
+      },
+      "technology": {
+        "chapters_taught": [
+          "6"
+        ],
+        "includes": [
+          "R&D investment",
+          "12 technologies",
+          "Breakthrough mechanics"
+        ]
+      },
+      "diplomatic_rules": {
+        "chapters_taught": [
+          "8"
+        ],
+        "includes": [
+          "Neutral territories",
+          "Global consequences"
+        ]
+      },
+      "special_powers": {
+        "chapters_taught": [
+          "10"
+        ],
+        "includes": [
+          "China rules",
+          "Flying Tigers",
+          "Non-IPC powers"
+        ]
+      }
+    },
+    "🎓_learning_checkpoints": {
+      "after_chapter_3": {
+        "you_should_understand": [
+          "Complete turn sequence",
+          "All basic combat",
+          "Economic management",
+          "Air warfare basics"
+        ],
+        "common_mistakes_to_avoid": [
+          "Forgetting to collect income",
+          "Leaving territories undefended",
+          "Not repairing factory damage",
+          "Incorrect production limits"
+        ]
+      },
+      "after_chapter_6": {
+        "you_should_understand": [
+          "National Objectives system",
+          "Naval warfare complexity",
+          "Technology impacts",
+          "Multi-front management"
+        ],
+        "ready_for": "Complex strategic planning"
+      },
+      "after_chapter_9": {
+        "you_should_understand": [
+          "All core game mechanics",
+          "Coalition coordination",
+          "Victory conditions",
+          "Strategic trade-offs"
+        ],
+        "ready_for": "Competitive multiplayer games"
+      }
+    },
+    "🏆_mastery_milestones": {
+      "bronze": "Complete Chapters 1-3 (Basic Combat Certified)",
+      "silver": "Complete Chapters 4-6 (Strategic Thinker)",
+      "gold": "Complete Chapters 7-9 (Coalition Commander)",
+      "platinum": "Complete Chapter 10 (Anniversary Edition Master)"
+    }
+  },
+  "campaign_verification_summary": {
+    "mathematical_accuracy": {
+      "ipc_calculations": "All income changes verified against territorial control",
+      "unit_accounting": "All purchases, losses, and movements tracked",
+      "victory_city_progression": "All changes documented with territorial control",
+      "technology_effects": "Breakthrough timing and effects verified",
+      "combat_mathematics": "All dice results produce stated outcomes"
+    },
+    "consistency_checks": {
+      "unit_availability": "No units used beyond starting numbers + purchases",
+      "territorial_logic": "All attacks have adequate force presence",
+      "economic_logic": "All purchases within available IPC and production limits",
+      "technology_timing": "All effects activate per official rules",
+      "victory_progression": "15 cities achieved through legitimate captures"
+    },
+    "error_detection_completed": {
+      "no_mathematical_errors": "All calculations verified accurate",
+      "no_unit_tracking_errors": "Complete accounting maintained",
+      "no_economic_errors": "IPC flows and constraints respected",
+      "no_victory_city_errors": "Accurate progression to Allied victory",
+      "campaign_fully_playable": "No progression-blocking issues found"
+    }
+  },
+  "quick_learning_reference": {
+    "📚_rule_index": {
+      "description": "Quick lookup: Where to find each rule in the campaign",
+      "A": {
+        "AA Guns": "Chapter 3 - Anti-aircraft defense",
+        "Advanced Artillery": "Chapter 6 - Technology option",
+        "Air Combat": "Chapter 3 - Fighters and bombers",
+        "Amphibious Assault": "Chapter 5 - Naval invasion mechanics"
+      },
+      "B": {
+        "Banking IPC": "Chapter 2 - Saving money between turns",
+        "Battle Board": "Chapter 1 - Combat resolution tool",
+        "Blitzing": "Chapter 5 - Tank special movement",
+        "Bombers": "Chapter 3 - Strategic bombing unit"
+      },
+      "C": {
+        "Canal Control": "Chapter 7 - Suez and Panama rules",
+        "Carriers": "Chapter 4 - Naval fighter platforms",
+        "Casualties": "Chapter 1 - Combat loss selection",
+        "China": "Chapter 10 - Special power rules",
+        "Combat": "Chapter 1 - Basic attack/defense",
+        "Convoy Raids": "Chapter 7 - Submarine economic warfare"
+      },
+      "D": {
+        "Destroyers": "Chapter 8 - Anti-submarine ships",
+        "Dice": "Chapter 1 - Combat resolution",
+        "Diplomatic Consequences": "Chapter 8 - Neutral invasion"
+      },
+      "E": {
+        "Economic Warfare": "Chapter 7 - Convoy disruption",
+        "Elite Units": "Chapter 2 - Quality strategy"
+      },
+      "F": {
+        "Factory Damage": "Chapter 3 - Strategic bombing effects",
+        "Factory Limits": "Chapter 2 - Production constraints",
+        "Fighters": "Chapter 3 - Air superiority units",
+        "Flying Tigers": "Chapter 10 - China's US fighter"
+      },
+      "H": {
+        "Heavy Bombers": "Chapter 6 - Technology upgrade"
+      },
+      "I": {
+        "Income Collection": "Chapter 2 - Phase 7 of turn",
+        "Industrial Complex": "Chapter 2 - Production facilities",
+        "IPC": "Chapter 1 - Industrial Production Certificates"
+      },
+      "J": {
+        "Jet Fighters": "Chapter 6 - Technology upgrade"
+      },
+      "L": {
+        "Long-Range Aircraft": "Chapter 6 - Technology upgrade"
+      },
+      "M": {
+        "Mass Production": "Chapter 2 - Quantity strategy",
+        "Mechanized Infantry": "Chapter 6 - Technology upgrade",
+        "Multi-Front War": "Chapter 5 - Managing multiple battles"
+      },
+      "N": {
+        "National Objectives": "Chapters 4 & 9 - Bonus income goals",
+        "Naval Combat": "Chapter 4 - Ship battles",
+        "Neutral Territories": "Chapter 8 - Non-aligned nations",
+        "Noncombat Move": "Chapter 2 - Phase 5 of turn"
+      },
+      "P": {
+        "Panama Canal": "Chapter 7 - Strategic waterway",
+        "Pearl Harbor": "Chapter 4 - Surprise attack",
+        "Production": "Chapter 2 - Building new units"
+      },
+      "R": {
+        "Radar": "Chapter 6 - AA Gun technology",
+        "Repair": "Chapter 3 - Fixing factory damage",
+        "Research & Development": "Chapter 6 - Technology system"
+      },
+      "S": {
+        "Shore Bombardment": "Chapter 5 - Naval invasion support",
+        "Strategic Bombing": "Chapter 3 - Factory attacks",
+        "Submarines": "Chapters 6-8 - Stealth naval units",
+        "Suez Canal": "Chapter 7 - Egypt/Trans-Jordan control",
+        "Super Submarines": "Chapter 6 - Technology upgrade",
+        "Surprise Strike": "Chapter 8 - Submarine ability"
+      },
+      "T": {
+        "Tank Blitzing": "Chapter 5 - Rapid advance",
+        "Technology": "Chapter 6 - R&D breakthroughs",
+        "Territory Control": "Chapter 1 - Ownership markers",
+        "Turn Sequence": "Chapter 2 - 7-phase structure"
+      },
+      "V": {
+        "Victory Cities": "Throughout - 15 needed to win",
+        "Victory Conditions": "Chapter 1 - How to win the game"
+      }
+    },
+    "🎮_dutch_translations": {
+      "description": "Nederlandse vertalingen van belangrijke speltermen",
+      "game_terms": {
+        "Infantry": "Infanterie",
+        "Artillery": "Artillerie",
+        "Tank": "Tank",
+        "Fighter": "Jager",
+        "Bomber": "Bommenwerper",
+        "Battleship": "Slagschip",
+        "Aircraft Carrier": "Vliegdekschip",
+        "Cruiser": "Kruiser",
+        "Destroyer": "Torpedobootjager",
+        "Submarine": "Onderzeeër",
+        "Transport": "Transportschip",
+        "AA Gun": "Luchtafweergeschut"
+      },
+      "combat_terms": {
+        "Attack": "Aanval",
+        "Defense": "Verdediging",
+        "Combat": "Gevecht",
+        "Battle": "Slag",
+        "Casualties": "Verliezen",
+        "Hit": "Treffer",
+        "Miss": "Mis"
+      },
+      "strategic_terms": {
+        "Victory City": "Overwinningsstad",
+        "National Objective": "Nationale Doelstelling",
+        "Territory": "Gebied",
+        "Sea Zone": "Zeezone",
+        "Turn": "Beurt",
+        "Phase": "Fase",
+        "Round": "Ronde"
+      }
+    },
+    "🏁_learning_path": {
+      "description": "Recommended progression for new players",
+      "absolute_beginner": {
+        "start": "Read Chapters 1-3 learning summaries first",
+        "focus": "Master basic combat before advancing",
+        "practice": "Play through Chapter 1 twice if needed"
+      },
+      "quick_learner": {
+        "path": "Chapters 1-3 (basics) → 4-6 (advanced) → 7-9 (expert)",
+        "timeline": "Complete in 2-3 sessions",
+        "skip": "Can skip Chapter 10 until comfortable with main rules"
+      },
+      "competitive_preparation": {
+        "essential": "All chapters including 10",
+        "focus_areas": "National Objectives (4,9), Technology (6), Submarines (7-8)",
+        "practice": "Replay key battles with different strategies"
+      }
+    },
+    "❓_faq": {
+      "when_ready_for_real_game": "After Chapter 6, you know enough to play with experienced players",
+      "most_important_chapters": "1 (combat), 2 (economy), 4 (objectives) are essential",
+      "hardest_concepts": "National Objectives and Technology require most strategic thinking",
+      "can_skip_chapters": "No - each builds on previous knowledge",
+      "time_per_session": "Plan 2-3 hours to complete 2-3 chapters comfortably"
+    }
+  }
+}

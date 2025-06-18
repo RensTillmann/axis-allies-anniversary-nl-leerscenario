@@ -1,18 +1,26 @@
-# Axis & Allies Anniversary - CORRECTE Volledige Leerscenario
+# Axis & Allies Anniversary - Complete Game Experience
 
-## 🎯 **VOOR WIE DIT BEDOELD IS**
+## 🎖️ **GEAVANCEERDE CAPSTONE ERVARING**
 
-### 🆕 **Complete Beginners**
-- **Nooit Axis & Allies gespeeld?** Dit scenario neemt je bij de hand vanaf dag één
-- **Overweldigd door regels?** Alles wordt stap-voor-stap uitgelegd met voorbeelden
-- **Bang om fouten te maken?** Leer van realistische dobbelworpen en uitkomsten
-- **Leren zonder druk** Speel solo of met geduldig groepje
-- **Gestructureerde aanpak** Geen discussies over regels - alles staat er in
-- **Historische interesse?** Echte WO2 scenario's zoals Pearl Harbor en Barbarossa
-- **Nederlandse uitleg** Alles volledig vertaald en lokaal aangepast
-- **Cadeau gekregen?** Van doos naar eerste potje in één middag
+### 🎯 **Voor Wie Dit Bedoeld Is:**
+- **✅ Level 1-7 Voltooid** - Je beheerst alle basis mechanics
+- **✅ Ervaren Spelers** - Je wilt een complete game experience
+- **✅ Historische Scenarios** - Je wilt echte WO2 situaties naspelen
+- **✅ Advanced Application** - Je wilt alle geleerde vaardigheden combineren
 
-**Dit scenario is gemaakt voor iedereen die het geweldige Axis & Allies Anniversary Edition wil leren - ongeacht ervaring of achtergrond!** 🎖️
+### ⚠️ **BELANGRIJK - Niet Voor Beginners!**
+**Dit is GEEN beginners tutorial!** Als je nog nooit Axis & Allies hebt gespeeld:
+**👉 Begin met Level 1-7 Tutorial System** 
+
+**Dit scenario veronderstelt volledige kennis van:**
+- Alle 7 beurt fases
+- Battle Board mechanics  
+- IPC economie systeem
+- Technology & Research
+- Naval & amphibious operations
+- Multi-nation coordination
+
+**🎖️ Deze ervaring is je "eindexamen" na het voltooien van het complete leerpad!**
 
 ## 📋 **WAT JE LEERT IN DIT SCENARIO**
 
@@ -819,3 +827,15 @@ Italiaanse aanval op Libya toont moeilijkheid:
 ✅ **Fouten Vermijden** met praktische voorbeelden
 
 **Met deze complete, accurate Anniversary Edition leerervaring ben je klaar om elk Axis & Allies spel te domineren!** 🎖️
+
+---
+
+## ⚠️ **Voor Beginners die hier Per Ongeluk Terecht Zijn Gekomen**
+
+**Is dit jouw eerste keer Axis & Allies?** Dan ben je op de verkeerde plek!
+
+👉 **Begin hier: [Level 1: Basis Gevecht](level-1-basis-gevecht.md)**
+
+📋 **Volledige leerpad:** [leerpad-overzicht.md](leerpad-overzicht.md)
+
+Dit scenario is bedoeld als **eindexamen** nadat je Level 1-7 hebt voltooid. De complexiteit hier zal je overweldigen als je de basis regels nog niet kent!

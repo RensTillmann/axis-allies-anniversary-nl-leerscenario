@@ -1,0 +1,439 @@
+{
+  "chapter_9_spring_1943": {
+    "📚_learning_summary": {
+      "difficulty": "⭐⭐⭐⭐⭐",
+      "what_you_will_learn": [
+        "Complete NATIONAL OBJECTIVES for all nations",
+        "Coalition warfare coordination",
+        "Path to victory through city control"
+      ],
+      "time_estimate": "90 minutes"
+    },
+    "title": "The Counter-Attack - Coalition Victory",
+    "turns": [
+      {
+        "round": 9,
+        "turn": 1,
+        "player": "Germany",
+        "phase": "round_9_turn_1_phase_7",
+        "phase_name": "Collect Income",
+        "date": "March 1943",
+        "action": "All nations pursue complete national objectives",
+        "comprehensive_objectives_check": {
+          "germany": {
+            "lebensraum_1": {
+              "requirement": "France, NW Europe, Germany, Czech, Bulgaria, Poland",
+              "status": "ACHIEVED +5 IPC"
+            },
+            "lebensraum_2": {
+              "requirement": "3+ of: Baltic, E.Poland, Ukraine, E.Ukraine, Belorussia",
+              "status": "ACHIEVED +5 IPC (controls 4 of 5)"
+            },
+            "lebensraum_3": {
+              "requirement": "1+ of: Karelia, Caucasus",
+              "status": "NOT ACHIEVED (controls 0 of 2)"
+            },
+            "total_bonus": "+10 IPC"
+          },
+          "japan": {
+            "sphere_1": "ACHIEVED +5 IPC (Manchuria, Kiangsu, FIC)",
+            "sphere_2": "ACHIEVED +5 IPC (4+ Pacific territories)",
+            "sphere_3": "NOT ACHIEVED (no major Allied territory)",
+            "total_bonus": "+10 IPC"
+          },
+          "italy": {
+            "mare_nostrum": {
+              "requirement": "Italy, Balkans, Morocco, Libya + no enemy ships SZ 13-15",
+              "status": "NOT ACHIEVED (Allied naval presence)",
+              "total_bonus": "+0 IPC"
+            }
+          },
+          "usa": {
+            "arsenal": "ACHIEVED +5 IPC (homeland secure)",
+            "philippines": "NOT ACHIEVED (Japan controls)",
+            "france": "NOT ACHIEVED (Germany controls)",
+            "pacific_islands": "ACHIEVED +5 IPC (3+ islands)",
+            "total_bonus": "+10 IPC"
+          },
+          "uk": {
+            "empire": "ACHIEVED +5 IPC (most empire intact)",
+            "japanese_territory": "NOT ACHIEVED (none controlled)",
+            "europe": "NOT ACHIEVED (no France/Balkans)",
+            "total_bonus": "+5 IPC"
+          },
+          "ussr": {
+            "patriotic_war_1": "NOT ACHIEVED (Germany in Soviet territory)",
+            "patriotic_war_2": "ACHIEVED +5 IPC (no Allies in USSR)",
+            "total_bonus": "+5 IPC"
+          }
+        },
+        "income_summary": {
+          "axis_objectives_total": 20,
+          "allied_objectives_total": 20,
+          "🎓_balance": "National Objectives designed to be roughly balanced"
+        }
+      },
+      {
+        "round": 9,
+        "turn": 6,
+        "player": "United States",
+        "phase": "round_9_turn_6_phase_2",
+        "phase_name": "Purchase Units",
+        "date": "March 1943",
+        "action": "Allied production culmination",
+        "cumulative_allied_production": {
+          "usa_4_turn_production": {
+            "infantry": 12,
+            "tanks": 4,
+            "fighters": 3,
+            "artillery": 2,
+            "total_ipc_invested": 94
+          },
+          "uk_4_turn_production": {
+            "infantry": 8,
+            "destroyers": 3,
+            "artillery": 2,
+            "total_ipc_invested": 56,
+            "constraint": "Limited by factory damage"
+          },
+          "soviet_mass_production": {
+            "infantry": 16,
+            "artillery": 4,
+            "doctrine_vindication": "Sustained quantity production over 8 turns"
+          },
+          "chinese_contribution": {
+            "territories_controlled": 4,
+            "production_rate": "2 infantry per turn",
+            "total_infantry_added": 8
+          }
+        }
+      },
+      {
+        "round": 9,
+        "turn": 2,
+        "player": "Soviet Union",
+        "phase": "round_9_turn_2_phase_4",
+        "phase_name": "Conduct Combat",
+        "date": "March 1943",
+        "action": "Mass infantry counter-attack",
+        "eastern_front_offensive": {
+          "soviet_numerical_superiority": "3:1 advantage",
+          "representative_battle_ukraine": {
+            "soviet_attack_force": {
+              "infantry": 8,
+              "artillery": 4
+            },
+            "german_defense_force": {
+              "tanks": 2,
+              "infantry": 1
+            },
+            "combat_resolution": {
+              "soviet_attack": [
+                2,
+                1,
+                5,
+                3,
+                4,
+                1,
+                2,
+                6,
+                1,
+                2,
+                3,
+                1
+              ],
+              "soviet_hits": 8,
+              "german_defense": [
+                3,
+                4,
+                5
+              ],
+              "german_hits": 1,
+              "casualties": {
+                "german": {
+                  "tanks": 2,
+                  "infantry": 1
+                },
+                "soviet": {
+                  "infantry": 1
+                }
+              },
+              "outcome": "Overwhelming Soviet numerical victory"
+            }
+          },
+          "strategic_vindication": "Mass production doctrine proves superior in total war"
+        },
+        "territory_recapture": {
+          "ukraine": {
+            "old_controller": "Germany",
+            "new_controller": "USSR",
+            "ipc_impact": "-2 Germany, +2 USSR"
+          }
+        },
+        "unit_count_changes": {
+          "USSR": {
+            "infantry": -1
+          },
+          "Germany": {
+            "tanks": -2,
+            "infantry": -1
+          }
+        }
+      },
+      {
+        "round": 9,
+        "turn": 4,
+        "player": "United Kingdom",
+        "phase": "round_9_turn_4_phase_4",
+        "phase_name": "Conduct Combat",
+        "date": "April 1943",
+        "action": "Coordinated multi-front operations",
+        "technology_integration": {
+          "radar_protected_bombing": "Strategic industry targets with doubled AA defense",
+          "anti_submarine_convoys": "Safe logistics lines established",
+          "combined_advantages": "Technology + mass production coordination"
+        },
+        "paris_liberation": {
+          "allied_assault_force": {
+            "infantry": 6,
+            "tanks": 4,
+            "artillery": 2,
+            "fighters": 3
+          },
+          "german_defense_force": {
+            "tanks": 2,
+            "infantry": 1
+          },
+          "combat_resolution": {
+            "allied_attack": [
+              5,
+              2,
+              1,
+              3,
+              4,
+              2,
+              6,
+              1,
+              3,
+              2,
+              4,
+              1,
+              2,
+              5,
+              3
+            ],
+            "allied_hits": 8,
+            "german_defense": [
+              4,
+              2,
+              6
+            ],
+            "german_hits": 1,
+            "casualties": {
+              "german": {
+                "tanks": 2,
+                "infantry": 1
+              },
+              "allied": {
+                "infantry": 1
+              }
+            },
+            "outcome": "Paris liberated - German forces eliminated"
+          }
+        },
+        "victory_city_recapture": {
+          "paris": {
+            "old_controller": "Germany",
+            "new_controller": "USA/UK",
+            "allied_gain": "+1 victory city"
+          }
+        }
+      },
+      {
+        "round": 9,
+        "turn": 3,
+        "player": "Japan",
+        "phase": "round_9_turn_3_phase_4",
+        "phase_name": "Conduct Combat",
+        "date": "April 1943",
+        "action": "Coalition coordination demonstrates mastery",
+        "global_operations": {
+          "mediterranean_theater": {
+            "target": "Rome",
+            "result": "Italian capital captured",
+            "victory_city_impact": "+1 Allied"
+          },
+          "eastern_theater": {
+            "target": "Berlin",
+            "result": "German capital under siege",
+            "victory_city_impact": "+1 Allied"
+          },
+          "pacific_theater": {
+            "manila_recapture": "US forces retake Philippines (+1 Allied)",
+            "shanghai_assault": "Chinese forces capture Shanghai (+1 Allied)",
+            "tokyo_operations": "Japanese capital threatened (+1 Allied)"
+          }
+        },
+        "final_victory_calculation": {
+          "allied_cities_recaptured": [
+            "Paris",
+            "Rome",
+            "Berlin",
+            "Manila",
+            "Shanghai"
+          ],
+          "additional_conquests": [
+            "Tokyo",
+            "strategic islands"
+          ],
+          "final_allied_total": 15,
+          "victory_condition_met": "15 Victory Cities achieved"
+        }
+      },
+      {
+        "round": 9,
+        "turn": 2,
+        "player": "Soviet Union",
+        "phase": "round_9_turn_2_phase_7",
+        "phase_name": "Collect Income",
+        "date": "March 1943",
+        "action": "Soviet Union collects income at end of their turn",
+        "income_collection": {
+          "territories_controlled": [
+            "Recaptured territories",
+            "pushing westward"
+          ],
+          "territorial_income": 65,
+          "calculation": "52 base + 13 from recaptured territories",
+          "ipc_collected": 65,
+          "banked_total": 268,
+          "note": "Spring offensive success brings territorial gains - 203 previous + 65 collected"
+        },
+        "🎓_rule_explanation": "Each nation collects income only during their own turn as Phase 7. Soviet Union collects income now because this is the end of their turn sequence."
+      },
+      {
+        "round": 9,
+        "turn": 6,
+        "player": "United States",
+        "phase": "round_9_turn_6_phase_7",
+        "phase_name": "Collect Income",
+        "date": "April 1943",
+        "action": "United States collects income at end of their turn",
+        "income_collection": {
+          "territories_controlled": [
+            "Continental base",
+            "Pacific recapture gains"
+          ],
+          "territorial_income": 45,
+          "calculation": "38 base + 7 from Pacific recaptures",
+          "ipc_collected": 45,
+          "banked_total": 187,
+          "note": "Pacific offensive bringing territorial gains - 142 previous + 45 collected"
+        },
+        "🎓_rule_explanation": "Each nation collects income only during their own turn as Phase 7. United States collects income now because this is the end of their turn sequence."
+      }
+    ],
+    "chapter_9_final_state": {
+      "victory_cities": {
+        "allied_controlled": 15,
+        "axis_controlled": 0,
+        "victory_condition": "ALLIED VICTORY ACHIEVED",
+        "victory_date": "April 25, 1943"
+      },
+      "final_unit_counts": {
+        "Germany": {
+          "infantry": 8,
+          "artillery": 3,
+          "tanks": 2,
+          "fighters": 1,
+          "bombers": 2,
+          "submarines": 6,
+          "total_losses_campaign": {
+            "infantry": 7,
+            "tanks": 4,
+            "fighters": 2,
+            "aa_guns": 1
+          }
+        },
+        "USSR": {
+          "infantry": 31,
+          "artillery": 6,
+          "tanks": 2,
+          "total_gains_campaign": {
+            "infantry": 15,
+            "artillery": 4
+          }
+        },
+        "USA": {
+          "infantry": 28,
+          "tanks": 6,
+          "fighters": 7,
+          "destroyers": 3,
+          "transports": 6,
+          "total_production_campaign": {
+            "infantry": 17,
+            "tanks": 4,
+            "fighters": 3,
+            "destroyers": 1,
+            "transports": 4
+          }
+        },
+        "UK": {
+          "infantry": 34,
+          "destroyers": 7,
+          "artillery": 5,
+          "total_production_campaign": {
+            "infantry": 7,
+            "destroyers": 3,
+            "artillery": 2
+          }
+        }
+      },
+      "final_ipc_status": {
+        "Germany": {
+          "income": 10,
+          "territories_lost": "Ukraine, Paris, multiple others"
+        },
+        "USSR": {
+          "income": 32,
+          "territories_gained": "Ukraine, other recaptured areas"
+        },
+        "USA": {
+          "income": 42,
+          "territories_gained": "Manila, Pacific islands"
+        },
+        "UK": {
+          "income": 45,
+          "convoy_raids_ended": true
+        },
+        "Italy": {
+          "income": 8,
+          "territories_lost": "Egypt, other Mediterranean"
+        },
+        "Japan": {
+          "income": 12,
+          "territories_lost": "Manila, Shanghai, others"
+        }
+      },
+      "strategic_lessons_culmination": {
+        "territorial_security": "Multi-front coverage proved essential",
+        "economic_philosophy": "Quantity doctrine defeated quality doctrine in total war",
+        "tactical_evolution": "Combined arms coordination mastered",
+        "strategic_overconfidence": "Overextension punished by coordinated response",
+        "technology_race": "Balanced technological development with production",
+        "coalition_mastery": "International cooperation overcame individual excellence"
+      },
+      "campaign_totals": {
+        "territorial_transfers": 47,
+        "unit_purchases": 156,
+        "combat_resolutions": 23,
+        "technology_breakthroughs": 2,
+        "victory_city_changes": 15,
+        "economic_adjustments": 34,
+        "total_ipc_spent": 890,
+        "total_units_produced": 78,
+        "total_units_lost": 134
+      }
+    }
+  }
+}
